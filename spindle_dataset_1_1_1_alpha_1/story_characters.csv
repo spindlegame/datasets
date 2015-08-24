@@ -1,0 +1,111 @@
+﻿"id","story","role","character","memberID","agent_name","cw_name","img","MC_resolve","MC_growth","MC_approach","MC_PS_style","cw_age","cw_gender","cw_communication_style","cw_background","cw_appearance","cw_relationships","cw_ambition","cw_character_defects","cw_thoughts","cw_relatedness","cw_restrictions","locations","persons","events","noetictension","impression","drama_function","drama_role","field29","field30"
+1,1,1,"Main Character",0,367,"KATHARINA",367,,,,,"72"," f",,,,,,,,,,,,,3,3,"To constitute material realities (progress).","The moral entrepreneur",,
+2,1,2," Impact Character",0,532,"CONSTANTIN",532,,,,,"60","m",,,,,,,,,,,,,1,10,"To preserve historical achievments (conservance).","The preserver and reformer of the (old) Church and (old) Confederation.",,
+3,1,5," Archetype",,75,"KARL",75,,,,,"60","m",,,,,,,,,,,,,1,11,"To use economic means for spiritual goals.","The (utopian) enterpreneur for common good.",,
+4,1,6," Archetype",,234,"BERNHARD",234,,,,,"40","m",,,,,,,,,,,,,2,19,"To use spiritual means for economic goals.","The misunderstood prophet.",,
+5,1,3," Archetype",,224,"EMMA",224,,,,,"80"," f",,,,,,,,,,,,,3,23,"Never to say dead!","“The biggest and best heroine of love” of liberty.",,
+6,1,4," Archetype",,231,"META",231,,,,,"80"," f",,,,,,,,,,,,,1,6,"To take the conflict its importance, to remember eternal values.","The voice of God in our midst.",,
+7,1,8," Archetype",,130,"ALFRED",130,,,,,,"m",,,,,,,,,,,,,2,3,"To progress alon in one’s own interest without considerations.","The radical (economic) liberal.",,
+8,1,," Secondary Character",,426,"KATHY",426,,,,,," f",,,,,,,,,,,,,,,,,,
+9,1,," Secondary Character",,528,"JOSEPHINE",528,,,,,," f",,,,,,,,,,,,,,,,,,
+10,1,," Secondary Character",,294,"KRAMER",294,,,,,,"m",,,,,,,,,,,,,,,,,,
+11,1,9," Other",,,"GRANDMOTHER",,,,,,," f",,,,,,,,,,,,,,,,,,
+12,1,9," Other",,,"CHILD",,,,,,," i",,,,,,,,,,,,,,,,,,
+13,1,7," Archetype",,645,"HEINRICH",645,,,,,,"m",,,,,,,,,,,,,2,24,"To remember what is at stake (sovereignty of the people over the country).","The defender of the (liberal) “will of the people”.",,
+14,2,2," Impact Character",,,"DEATH",,,,,,"none",,,,,,,,,,,,,,,,"To deconstruct, stop things from going.","The invisible other",,
+15,2,6," Archetype",,424,"PEYER",424,,,,,"around 30","m",,,,,,,,,,,,,,,"To inspire, provide a reason for action.","The companion in arms",,
+16,2,7," Archetype",,558,"JAKOB",558,,,,,,"m",,"The doctor and liberal",,,,,,,,,,,,,"To help accepting limitations and ending.","The doctor and the liberal",,
+17,2,4," Archetype",,366,"JOSEF",366,,,,,,"m",,"Katharina Morel's 2nd husband.",,,,,,,,,,,,,"To make an end.","The failed business man",,
+18,2,1,"Main Character",,367,"KATHARINA",367,0,0,0,0,," f",,,,,,,,,,,,"1. Poor childhood, but independent attitude.
+2. Russian campagin & military service in Holland.
+3. Inn keeper.
+4. Investor, culture patron.
+5. Liberal revolutionary.
+6. Hotel management.
+7. Educator.",3,3,"To to create, manage, keep things going.","The creative entrepreneur",,
+19,2,5," Archetype",,426,"KATHY",426,,,,,," f",,,,,,,,,,,,,,,"To take account, organize, keep things together.","The bookkeeper",,
+20,2,8," Archetype",,44,"NAPOLEON",44,,,,,,"m",,"Detainment of enthusiasm.",,,,,,,,,,,,,"To frustrate expectations.","Detainment of enthusiasm",,
+21,2,3," Archetype",,520,"THE SEGESSERS",520,,,,,,"m",,,,,,,,,,,,,,,"To open new possibilities.","The fortune bringer",,
+22,3,1,"Main Character",,645,"HEINRICH",645,0,0,0,0,,"m",,,,,,,,,,,,"1. Social advancement
+2. Secondary school & political career
+3. Züriputsch
+4. Transport system development
+5. Sonderbund war
+6. Promotion of local banking and credit system
+7. Winterthur's press",2,24,"Maintain the sovereignty of the State.","The guardian of the government",,
+23,3,2," Impact Character",,578,"SULZER",578,,,,,,"m",,,,,,,,,,,,,,,"To shout the war roar.","The hotheaded",,
+24,3,8," Archetype",,266,"HÜRLIMANN",266,,,,,,"m",,,,,,,,,,,,,,,"To confuse the people.","The friend of ambitious aristocrates",,
+25,3,6," Archetype",,440,"RAHN-ESCHER",440,,,,,,"m",,,,,,,,,,,,,,,"To agitate and spread rumors, to bring the story forward.","The leader of the folk",,
+26,3,7," Archetype",,207,"GYSI",207,,,,,,"m",,,,,,,,,,,,,,,"To remember the goal; protection of people and property.",,,
+27,3,5," Archetype",,229,"HESS",229,,,,,,"m",,,,,,,,,,,,,,,"To mediate between the sides.","The sovereign negociator",,
+28,3,3," Archetype",,245,"HIRZEL",245,,,,,,"m",,,,,,,,,,,,,,,"To push Weiss in ambiguous way.","The commander in double function",,
+29,4,1," Archetype",,,"THE CHILDREN",,,,,,,,,,,,,,,,,,,,,,"To materialize truth.","The community of the saints.",,
+30,4,2," Archetype",,762,"GRANDMOTHER",762,,,,,," f",,,,,,,,,,,,,,,"To represent the true story.","The hidden woman.",,
+31,4,5,"Main Character",,231,"META",231,0,0,0,0,," f",,,,,,,,,,,,"1. Napoleon.
+2. Bocken Inn War (Liberalism).
+3. Anabaptist friendship.
+4. Catholic friendship.
+5. Birth/death and communion with God.
+6. The absent husband/son.
+7. The hidden story.",1,6,"To unify opposing poles through love.","The emissary of God.",,
+32,4,6," Archetype",,493,"ANNA",493,,,,,," f",,,,,,,,,,,,,,,"To seak for the ideal.","The Anabaptist.",,
+33,4,3," Archetype",,1079,"WICHELHAUSEN",1079,,,,,,"m",,,,,,,,,,,,,,,"To balance reason and emotion.","The calming influence",,
+34,4,4," Archetype",,1080,"HEUSSER",1080,,,,,,"m",,,,,,,,,,,,,,,"To remind the demands of reality.","The converted rationalist.",,
+35,4,7," Archetype",,1081,"GRANDFATHER",1081,,,,,,"m",,,,,,,,,,,,,,,"To support faith.","The man of faith.",,
+36,4,8," Impact Character",,259,"HUBER",259,,,,,,"m",,,,,,,,,,,,,,,"To challenge faith.","The fanatic farmer.",,
+37,5,1," Archetype",,315,"LEU",315,,,,,,"m",,,,,,,,,,,,,,,"To bring the people back on the right track.","The ideal leader.",,
+38,5,2," Impact Character",,402,"OCHSENBEIN",402,,,,,,"m",,,,,,,,,,,,,,,"The radicalize the liberals.","Leader of Volunteerism.",,
+39,5,5,"Main Character",,532,"CONSTANTIN",532,,,,,,"m",,,,,,,,,,,,"1. The parson's foster son.
+2. Liberal education.
+3. Political career.
+4. Return to God (Josef Leu).
+5. Sonderbund, the ""Holy War"".
+6. Exile and purification.
+7. Return and community with God.",1,10,"To test all and keep the good.","The advocate of the Church.",,
+40,5,6," Archetype",,1059,"REGLI",1059,,,,,,"m",,,,,,,,,,,,,,,"To care for the people.","The Church father.",,
+41,5,3," Archetype",,2,"THEODOR",2,,,,,,"m",,,,,,,,,,,,,,,"To practice compassion and benevolence.","The noble aristocrat.",,
+42,5,4," Archetype",,521,"PHILIPP SEGESSER",521,,,,,,"m",,,,,,,,,,,,,,,"Integration of law and history.","The moderate.",,
+43,5,8," Archetype",,109,"DUFOUR",109,,,,,,"m",,,,,,,,,,,,,,,"The defender of the Confederation.","The right man at the right place.",,
+44,5,7," Archetype",,473,"SALIS-SOGLIO",473,,,,,,"m",,,,,,,,,,,,,,,"To defend the Catholic cause.","The last resource.",,
+45,6,1,"Main Character",,234,"BERNHARD",234,0,0,0,0,,"m",,,,,,,,,,,,"1. Sad childhood.
+2. Sanskrit translation.
+3. Local parson.
+4. Sensual spirituality.
+5. Economic disaster.
+6. Communion with God & pure love analogy to positive Christ.
+7. Suicide.",2,19,"To sacrifice himself for the people.","The revolutionary idealist.",,
+46,6,2," Archetype",,1060,"ELISA",1060,,,,,,"m",,,,,,,,,,,,,,,"To look at the other side.","The bad wife.",,
+47,6,5," Archetype",,38,"BLUNTSCHLI",38,,,,,,"m",,,,,,,,,,,,,,,"To warn and to guide.","The loyal friend.",,
+48,6,6," Archetype",,1061,"MARIE",1061,,,,,,"m",,,,,,,,,,,,,,,"The unconditional love.","The Virgin Mary.",,
+49,6,3," Archetype",,440,"RAHN-ESCHER",440,,,,,,"m",,,,,,,,,,,,,,,"To give meaning to ideals and dreams","The agitator.",,
+50,6,4," Archetype",,247,"MOTHER",247,,,,,," f",,,,,,,,,,,,,,,"To make an end.","The knowledgable.",,
+51,6,7," Archetype",,1082,"ANNA H.",1082,,,,,," f",,,,,,,,,,,,,,,"To show material possibilities.","The seduction.",,
+52,6,8," Impact Character",,238,"FATHER",238,,,,,,"m",,,,,,,,,,,,,,,"To ignore and reject beauty.","The radical materialist.",,
+53,7,1," Archetype",,1078,"GEORG",1078,,,,,,"m",,,,,,,,,,,,,,,"To lead the people to the promised land.","The iron lark.",,
+54,7,2," Archetype",,1083,"BISMARCK",1083,,,,,,"m",,,,,,,,,,,,,,,"To rejoice with destruction.","The man of blood and iron.",,
+55,7,5,"Main Character",,224,"EMMA",224,0,0,0,0,," f",,,,,,,,,,,,"1. Boring childhood mitigated by romantic love affairs.
+2. Hecker and the liberal movement.
+3. Publicist and revolutionary.
+4. Zürich.
+5. Italian connection.
+6. Publicist and exile.
+7. First International.",3,23,"To do what is necessary.","The liberty fighter.",,
+56,7,6," Archetype",,1084,"WEDEKIND",1084,,,,,,"m",,,,,,,,,,,,,,,"To inspire hope.","The children of Germany.",,
+57,7,3," Archetype",,1085,"BECKER",1085,,,,,,"m",,,,,,,,,,,,,,,"To support the cause.","The skilled military.",,
+58,7,8," Impact Character",,1086,"HECKER",1086,,,,,,"m",,,,,,,,,,,,,,,,"The hesitator.",,
+59,7,7," Archetype",,1062,"DELAPORTE",1062,,,,,,"m",,,,,,,,,,,,,,,,"The last resort.",,
+60,7,4," Archetype",,1088,"STRUVE",1088,,,,,,"m",,,,,,,,,,,,,,,,"The hinderer",,
+61,9,1,"Main Character",,75,"KARL",75,,,,,,"m",,,,,,,,,,,,"1. Craftmenship.
+2. Cooperatives in Zürich.
+3. Texas expedition.
+4. Democratic movement.
+5. Political career.
+6. First International.
+7. 1874 constitutional revision.",1,11,,,,
+62,8,1,"Main Character",,130,"ALFRED",130,,,,,,"m",,,,,,,,,,,,"1. Aristocratic childhood.
+2. Liberal education.
+3. Investor & entrepreneur.
+4. Private credit institutes & banking system.
+5. Gotthard tunnel & Bismarck system.
+6. Private train system.
+7. Political decline & health issues.",2,3,,,,

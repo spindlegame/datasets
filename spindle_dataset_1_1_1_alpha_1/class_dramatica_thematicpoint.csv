@@ -1,0 +1,53 @@
+﻿"id","storypoint","throughline","type1","type2"
+10,"OS Throughline",1,6,2
+11,"OS Concern",1,6,2
+12,"OS Issue",1,6,2
+13,"OS Problem",1,6,2
+14,"OS Solution",1,1,2
+15,"OS Symptom",1,1,2
+16,"OS Response",1,1,2
+17,"OS Catalyst",1,1,2
+18,"OS Inhibitor",1,1,2
+19,"OS Benchmark",1,1,2
+20,"OS Goal",1,5,2
+21,"OS Consequence",1,5,2
+22,"OS Cost",1,5,2
+23,"OS Dividend",1,5,2
+24,"OS Requirements",1,5,2
+25,"OS Prerequisites",1,5,2
+26,"OS Preconditions",1,5,2
+27,"OS Forewarnings",1,5,2
+28,"MC Problem",4,4,2
+29,"MC Solution",4,4,2
+30,"MC Symptom",4,4,2
+31,"MC Response",4,4,2
+32,"MC Throughline",4,4,2
+33,"MC Issue",4,4,2
+34,"MC Ability",4,4,2
+35,"MC Critical flaw",4,4,2
+36,"MC Concern",4,4,2
+37,"MC Benchmark",4,4,2
+38,"IC Throughline",3,3,2
+39,"IC Concern",3,3,2
+40,"IC Issue",3,3,2
+41,"IC Problem",3,3,2
+42,"IC Solution",3,3,2
+43,"IC Symptom",3,3,2
+44,"IC Response",3,3,2
+45,"IC Ability",3,3,2
+46,"IC Critical flaw",3,3,2
+47,"IC Benchmark",3,3,2
+48,"RS Throughline",2,2,2
+49,"RS Concern",2,2,2
+50,"RS Issue",2,2,2
+51,"RS Problem",2,2,2
+52,"RS Solution",2,2,2
+53,"RS Symptom",2,2,2
+54,"RS Response",2,2,2
+55,"RS Catalyst",2,2,2
+56,"RS Inhibitor",2,2,2
+57,"RS Benchmark",2,2,2
+58,"OS Type Order",1,7,2
+59,"MC Type Order",4,7,2
+60,"IC Type Order",3,7,2
+61,"RS Type Order",2,7,2

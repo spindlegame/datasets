@@ -1,0 +1,5 @@
+﻿"groupID","name","description","allowSignup","needsApproval"
+1,"anonymous","Anonymous users can only view documents but not participate in the game.",0,0
+2,"Admins","Admin group created automatically on 2015-04-18",0,1
+3,"Ancestors","Any person with an entrance in ""date of death"" is considered a ""historical"" person. This disables the person to participate in the game as users. They can only appear as authors of already existing documents and as characters in new documents.",1,1
+4,"Players","Players can, analyze and code historical and contemporary texts, as well as create new biographical and historiographical works.",1,1
