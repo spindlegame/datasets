@@ -1,0 +1,141 @@
+﻿"id","story","step","throughline","domain","concern","issue","theme","sequence","encoding"
+"1","1","1","1","2","6",\N,\N,\N,"The French Revolution 1789 demonstrated that everything was possible."
+"2","1","2","1","2","0",\N,\N,\N,"The passion for liberty turned into a violent character."
+"3","1","3","1","2","7",\N,\N,\N,"Skepticism with the liberal project raised conservative opposition."
+"4","1","4","1","2","0",\N,\N,\N,"The Sonderbund was defeated by Confederate military force."
+"5","1","5","1","2","8",\N,\N,\N,"The liberals, again in power, had learnt to act with decively and coordinatedly. They also learnt to take opposition serious."
+"6","1","6","1","2","0",\N,\N,\N,"The conservative direct democratic claims were integrated into the constitution."
+"7","1","7","1","2","5",\N,\N,\N,"The Swiss understood that sovereignty lied in the ability to integrate plurality and settle conflicts creatively."
+"8","1","1","2","3","9",\N,\N,\N,"The plan to develop a liberal constituional revolution was executed (1798-1830)."
+"9","1","2","2","3","0",\N,\N,\N,"The liberal revolution and the Concordate of the Seven pushed a liberal constitution through."
+"10","1","3","2","3","10",\N,\N,\N,"The liberals adopt the role of the liberators of the country, buty lack true consideration for the people and the ability to accept the liberty of others."
+"11","1","4","2","3","0",\N,\N,\N,"The Sonderbund war was succesful because the liberals had respected life over truth."
+"12","1","5","2","3","11",\N,\N,\N,"The liberals learnt that liberty included the respect for the rights of others."
+"13","1","6","2","3","0",\N,\N,\N,"New opposition, this time from the communists, was approached by integrating their liberal values into the project of the liberals."
+"14","1","7","2","3","12",\N,\N,\N,"The idea was conceived that a (semi-)direct democratic state fform was the most liberal constitution."
+"15","1","1","4","4","13",\N,\N,\N,"""I think that I achieved much in my life, and yet I could not stay quiet""."
+"16","1","2","4","4","0",\N,\N,\N,"Katharina Morel got a foster daughter."
+"17","1","3","4","4","14",\N,\N,\N,"Responsibilities forced Katharina Morel to considerate others and to plan for the future."
+"18","1","4","4","4","0",\N,\N,\N,"Accepting her responsibilities, Katharina Morel made the carreer of her life."
+"19","1","5","4","4","15",\N,\N,\N,"Kathernia Morel's Innermost Desire was to achieve sovereignty."
+"20","1","6","4","4","0",\N,\N,\N,"The limitations of her own finitud made her aware of transcendental values."
+"21","1","7","4","4","16",\N,\N,\N,"Katharina Morel was aware that true sovereighnty included the contemplation of caring for others and leaving a heritage."
+"22","1","1","3","1","4",\N,\N,\N,"The Church was Constantin Siegwart-Müller's home."
+"23","1","2","3","1","0",\N,\N,\N,"Constantin Siegwart-Müller tried to improve the Church and the political system from the insight."
+"24","1","3","3","1","2",\N,\N,\N,"The sovereignty of the Church and the development of persoanl faith were threatened."
+"25","1","4","3","1","0",\N,\N,\N,"The leader of the conservative movement , Joseph Leu, was murdered."
+"26","1","5","3","1","3",\N,\N,\N,"The future was dark, it seemed that violence had won over justice."
+"27","1","6","3","1","0",\N,\N,\N,"After around 10 years of exile and constant escapes, Constantin Siegwart-Müller was allowed to return home."
+"28","1","7","3","1","1",\N,\N,\N,"Siegwart-Müler trusted that through the democratic movement the tradicional values of the old Confederacy and the Church would be preserved."
+"29","2","1","1","2","6","0","0","NULL","The French Revolution 1789 demonstrated that everything was possible."
+"30","2","2","1","2","0","0","0","NULL","The passion for liberty turned into a violent character."
+"31","2","3","1","2","7","0","0","NULL","Skepticism with the liberal project raised conservative opposition."
+"32","2","4","1","2","0","0","0","NULL","The Sonderbund was defeated by Confederate military force."
+"33","2","5","1","2","8","0","0","NULL","The liberals, again in power, had learnt to act with decively and coordinatedly. They also learnt to take opposition serious."
+"34","2","6","1","2","0","0","0","NULL","The conservative direct democratic claims were integrated into the constitution."
+"35","2","7","1","2","5","0","0","NULL","The Swiss understood that sovereignty lied in the ability to integrate plurality and settle conflicts creatively."
+"36","2","1","2","3","9","0","0","NULL","The plan to develop a liberal constituional revolution was executed (1798-1830)."
+"37","2","2","2","3","0","0","0","NULL","The liberal revolution and the Concordate of the Seven pushed a liberal constitution through."
+"38","2","3","2","3","10","0","0","NULL","The liberals adopt the role of the liberators of the country, buty lack true consideration for the people and the ability to accept the liberty of others."
+"39","2","4","2","3","0","0","0","NULL","The Sonderbund war was succesful because the liberals had respected life over truth."
+"40","2","5","2","3","11","0","0","NULL","The liberals learnt that liberty included the respect for the rights of others."
+"41","2","6","2","3","0","0","0","NULL","New opposition, this time from the communists, was approached by integrating their liberal values into the project of the liberals."
+"42","2","7","2","3","12","0","0","NULL","The idea was conceived that a (semi-)direct democratic state fform was the most liberal constitution."
+"43","2","1","4","4","13","0","0","NULL","""I think that I achieved much in my life, and yet I could not stay quiet""."
+"44","2","2","4","4","0","0","0","NULL","Katharina Morel got a foster daughter."
+"45","2","3","4","4","14","0","0","NULL","Responsibilities forced Katharina Morel to considerate others and to plan for the future."
+"46","2","4","4","4","0","0","0","NULL","Accepting her responsibilities, Katharina Morel made the carreer of her life."
+"47","2","5","4","4","15","0","0","NULL","Kathernia Morel's Innermost Desire was to achieve sovereignty."
+"48","2","6","4","4","0","0","0","NULL","The limitations of her own finitud made her aware of transcendental values."
+"49","2","7","4","4","16","0","0","NULL","Katharina Morel was aware that true sovereighnty included the contemplation of caring for others and leaving a heritage."
+"50","2","1","3","1","4","0","0","NULL","The Church was Constantin Siegwart-Müller's home."
+"51","2","2","3","1","0","0","0","NULL","Constantin Siegwart-Müller tried to improve the Church and the political system from the insight."
+"52","2","3","3","1","2","0","0","NULL","The sovereignty of the Church and the development of persoanl faith were threatened."
+"53","2","4","3","1","0","0","0","NULL","The leader of the conservative movement , Joseph Leu, was murdered."
+"54","2","5","3","1","3","0","0","NULL","The future was dark, it seemed that violence had won over justice."
+"55","2","6","3","1","0","0","0","NULL","After around 10 years of exile and constant escapes, Constantin Siegwart-Müller was allowed to return home."
+"56","2","7","3","1","1","0","0","NULL","Siegwart-Müler trusted that through the democratic movement the tradicional values of the old Confederacy and the Church would be preserved."
+"57","3","1","1","4","14",\N,\N,\N,\N
+"58","3","2","1","4","0",\N,\N,\N,\N
+"59","3","3","1","4","15",\N,\N,\N,\N
+"60","3","4","1","4","0",\N,\N,\N,\N
+"61","3","5","1","4","16",\N,\N,\N,\N
+"62","3","6","1","4","0",\N,\N,\N,\N
+"63","3","7","1","4","13",\N,\N,\N,\N
+"64","3","1","2","1","1",\N,\N,\N,\N
+"65","3","2","2","1","0",\N,\N,\N,\N
+"66","3","3","2","1","2",\N,\N,\N,\N
+"67","3","4","2","1","0",\N,\N,\N,\N
+"68","3","5","2","1","3",\N,\N,\N,\N
+"69","3","6","2","1","0",\N,\N,\N,\N
+"70","3","7","2","1","4",\N,\N,\N,\N
+"71","3","1","4","2","8",\N,\N,\N,\N
+"72","3","2","4","2","0",\N,\N,\N,\N
+"73","3","3","4","2","5",\N,\N,\N,\N
+"74","3","4","4","2","0",\N,\N,\N,\N
+"75","3","5","4","2","7",\N,\N,\N,\N
+"76","3","6","4","2","0",\N,\N,\N,\N
+"77","3","7","4","2","6",\N,\N,\N,\N
+"78","3","1","3","3","9",\N,\N,\N,\N
+"79","3","2","3","3","0",\N,\N,\N,\N
+"80","3","3","3","3","11",\N,\N,\N,\N
+"81","3","4","3","3","0",\N,\N,\N,\N
+"82","3","5","3","3","10",\N,\N,\N,\N
+"83","3","6","3","3","0",\N,\N,\N,\N
+"84","3","7","3","3","12",\N,\N,\N,\N
+"85","6","1","1","1","3",\N,\N,\N,\N
+"86","6","2","1","1","0",\N,\N,\N,\N
+"87","6","3","1","1","2",\N,\N,\N,\N
+"88","6","4","1","1","0",\N,\N,\N,\N
+"89","6","5","1","1","4",\N,\N,\N,\N
+"90","6","6","1","1","0",\N,\N,\N,\N
+"91","6","7","1","1","1",\N,\N,\N,\N
+"92","6","1","2","4","15",\N,\N,\N,\N
+"93","6","2","2","4","0",\N,\N,\N,\N
+"94","6","3","2","4","16",\N,\N,\N,\N
+"95","6","4","2","4","0",\N,\N,\N,\N
+"96","6","5","2","4","13",\N,\N,\N,\N
+"97","6","6","2","4","0",\N,\N,\N,\N
+"98","6","7","2","4","14",\N,\N,\N,\N
+"99","6","1","4","2","6",\N,\N,\N,\N
+"100","6","2","4","2","0",\N,\N,\N,\N
+"101","6","3","4","2","8",\N,\N,\N,\N
+"102","6","4","4","2","0",\N,\N,\N,\N
+"103","6","5","4","2","7",\N,\N,\N,\N
+"104","6","6","4","2","0",\N,\N,\N,\N
+"105","6","7","4","2","5",\N,\N,\N,\N
+"106","6","1","3","3","9",\N,\N,\N,\N
+"107","6","2","3","3","0",\N,\N,\N,\N
+"108","6","3","3","3","10",\N,\N,\N,\N
+"109","6","4","3","3","0",\N,\N,\N,\N
+"110","6","5","3","3","11",\N,\N,\N,\N
+"111","6","6","3","3","0",\N,\N,\N,\N
+"112","6","7","3","3","12",\N,\N,\N,\N
+"113","7","1","1","1","3","0","0","NULL","NULL"
+"114","7","2","1","1","0","0","0","NULL","NULL"
+"115","7","3","1","1","2","0","0","NULL","NULL"
+"116","7","4","1","1","0","0","0","NULL","NULL"
+"117","7","5","1","1","4","0","0","NULL","NULL"
+"118","7","6","1","1","0","0","0","NULL","NULL"
+"119","7","7","1","1","1","0","0","NULL","NULL"
+"120","7","1","2","4","15","0","0","NULL","NULL"
+"121","7","2","2","4","0","0","0","NULL","NULL"
+"122","7","3","2","4","16","0","0","NULL","NULL"
+"123","7","4","2","4","0","0","0","NULL","NULL"
+"124","7","5","2","4","13","0","0","NULL","NULL"
+"125","7","6","2","4","0","0","0","NULL","NULL"
+"126","7","7","2","4","14","0","0","NULL","NULL"
+"127","7","1","4","2","6","0","0","NULL","NULL"
+"128","7","2","4","2","0","0","0","NULL","NULL"
+"129","7","3","4","2","8","0","0","NULL","NULL"
+"130","7","4","4","2","0","0","0","NULL","NULL"
+"131","7","5","4","2","7","0","0","NULL","NULL"
+"132","7","6","4","2","0","0","0","NULL","NULL"
+"133","7","7","4","2","5","0","0","NULL","NULL"
+"134","7","1","3","3","9","0","0","NULL","NULL"
+"135","7","2","3","3","0","0","0","NULL","NULL"
+"136","7","3","3","3","10","0","0","NULL","NULL"
+"137","7","4","3","3","0","0","0","NULL","NULL"
+"138","7","5","3","3","11","0","0","NULL","NULL"
+"139","7","6","3","3","0","0","0","NULL","NULL"
+"140","7","7","3","3","12","0","0","NULL","NULL"

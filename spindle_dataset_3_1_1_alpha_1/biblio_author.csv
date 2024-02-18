@@ -1,0 +1,1013 @@
+﻿"game_agent_id","agent_name","id","img","groupID","selection_class","agenttype1","agenttype2","gender","last_name","first_name","other_name","birthday","birth_location","birth_location_map","deathday","death_location","workplace","knows","shortbio","data_evaluation","authority_record","authority_organization","memberID"
+"1",\N,"1",\N,\N,"2","1","2","1","Ab Yberg","Josef Plazid",\N,"1767-01-01 00:00:00",\N,\N,"1824-01-01 00:00:00",\N,\N,\N,"1781 als Kadett Eintritt in sardin. Dienste, 1786 Aidemajor im Regiment de Kalbermatten, 1791 von Kg. Viktor Amadeus III. von Sardinien in den Freiherrenstand erhoben, 1796-98 Oberstleutnant im Regiment Peyer im Hof. In franz. Diensten ab 1798 Bataillonskommandant der 1. helvet. Legion, 1800 der 3. Halbbrigade, 1804 Oberstleutnant der franz. Armee, Kommandant der Insel Capraia vor Genua, 1806 Grossmajor im 1., 1812 Oberst im 2. Schweizerregiment Napoleons. 1808-11 an den Feldzügen in Italien und nach Neapel beteiligt. 1813-15 Kommandant der halben Schweizerbrigade in Holland, General bei der Belagerung von Wesel und Maastricht. Ab 1815 wieder in Schwyz. Eidg. Oberst und Brigadekommandant bei der Grenzbesetzung, 1815-19 wiederum in franz. Diensten. 1811 Ritter des neapolitan. Ordens beider Sizilien, 1814 des franz. St.-Ludwigs-Ordens, Offizier der franz. Ehrenlegion.","1",\N,\N,"AbYJP1767"
+"2",\N,"2",\N,\N,"2","1","2","1","Ab Yberg","Theodor",\N,"1795-01-01 00:00:00",\N,\N,"1869-01-01 00:00:00",\N,\N,\N,"A.s militär. Laufbahn begann 1815 an der Grenzbesetzung in der Westschweiz. Nach der Rückkehr aus franz. Diensten (ab 1815 Offizier) wurde er 1823 eidg. Stabsoffizier im Range eines Oberstleutnants, 1831 zum eidg. Obersten befördert. 1833 kommandierte er die Schwyzertruppen im Zug nach Küssnacht (SZ) und wiederum 1844-45 gegen die Luzerner Freischaren. 1847 war er Kriegsrat der Sonderbundsarmee und Kommandant der 2. Sonderbundsdivision. Die Wahl zum Kantonsrichter 1824 stand am Anfang seiner polit. Karriere in Schwyz: 1826 Ratsherr, 1830-33 Bezirksstatthalter, 1830-34 Landesstatthalter, 1832 und 1841-46 Tagsatzungsgesandter, 1833-34 Bezirksammann, 1833-47 Mitglied des Gr. Rats, des Kantonsrats und der Regierungskomm., 1834-36, 1838-40, 1842-44 und 1846-47 Landammann. 1835 war er Initiant für die Berufung der Nuntiatur nach Schwyz, 1836 für die Errichtung des Jesuitenkollegiums in Schwyz. 1841 tat er sich als Gegner der Aufhebung der aarg. Klöster hervor. Vom Papst 1839 zum Ritter und 1842 zum Komtur des St. Gregoriusordens ernannt, wurde er 1846 in den erbl. Grafenstand erhoben. A. beteiligte sich in den Verfassungs- und Trennungswirren im Kt. Schwyz 1830-33 massgebl. an den Bestrebungen, vorrevolutionäre Verhältnisse wiederherzustellen. Im Hörner- und Klauenstreit (1838) vertrat er ebenfalls als einer der Führer der Hornmänner die Konservativen. Ohne den Kampf gegen den Radikalismus aufzugeben, hatte er aber sein früheres polit. Denken geändert, zugunsten von Frieden, Ordnung und Zusammenarbeit im ganzen Kt. Der beim Volk sehr beliebte A. war am Sonderbundskrieg als Landammann und Kommandant führend beteiligt, verlor aber nach der Niederlage seine Ämter und ging 1848-51 ins Exil nach Österreich. Er gehört zu den bedeutendsten Gestalten der schwyzer. Gesch. des 19. Jh.","1",\N,\N,"AvYT1795"
+"3",\N,"3",\N,\N,"2","1","3","1","Abraham","Jakob",\N,"1723-01-01 00:00:00",\N,\N,"1800-01-01 00:00:00","Berlin","Strelitz",\N,"Seidenfabrikant in Zürich","1",\N,\N,"AbJ1723"
+"4",\N,"4",\N,\N,"2","1","2","1","Affry","Charles, d'",\N,"1772-01-01 00:00:00",\N,\N,"1818-01-01 00:00:00","Fribourg, Switzerland","Fribourg, Switzerland",\N,"Swiss coronel during the Russian Campaign.","4","D23245","0","AfC1772"
+"5",\N,"5",\N,\N,"2","1","3","1","Affry","Louis Auguste Philippe Frédéric François",\N,"1743-01-01 00:00:00",\N,\N,"1810-01-01 00:00:00",\N,\N,\N,"Erster Landamman der Schweiz unter der ""Schweizerischen Eigenossenschaft"" Napoleons (Mediationsakte)","1",\N,\N,"dAfLAFF1743"
+"6",\N,"6",\N,\N,"3","1","5","1","Altermatt","Urs",\N,"1942-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"According to Guido Stucki Paul König writes a historiography in two parts Die Schweiz im Lichte der Geschichtsschreibung [Switzerland in the light of historiography] (König, 1966)and Die Schweiz unterwegs 1798-? [Switzerland on her way 1798-?] (König, 1969), oriented towards the general public. True to the title of the first book, he gives voice to a large number of historiographers of the 19th and 20th century. Beyond professional historians he includes legal scholars and politicians dedicated to history writing.","1",\N,\N,"AlU1942"
+"7",\N,"7",\N,\N,"3","1","5","1","Altmann","Johann-Georg",\N,"1685-01-01 00:00:00",\N,\N,"1758-01-01 00:00:00",\N,\N,\N,"resumes Ruchat and Stanyan in his publication under the title «L'Etat et les délices de la Suisse» - this is an example vs. the myth of a strict separation of a romanic and a germanic Switzerland and a « Germanic » culture of the German speaking part.","1",\N,\N,"AlJG1685"
+"8",\N,"8",\N,\N,"1","1","2","1","Ammann","Johann Kaspar",\N,"1803-01-01 00:00:00","Hard (ZH)",\N,"1870-01-01 00:00:00",\N,\N,\N,"Oberrichter","1",\N,\N,"AmJK1803"
+"9",\N,"9",\N,\N,"2","1","2","1","Amrhyn","Josef Franz Karl","Josef Franz von Sales Johann Baptist Kar","1800-01-01 00:00:00",\N,\N,"1849-01-01 00:00:00","Luzern","Luzern",\N,\N,"1",\N,\N,"AmJFK1800"
+"10",\N,"10",\N,\N,"2","1","2","1","Anderwerth","Joseph Fridolin",\N,"1828-01-01 00:00:00",\N,\N,"1880-01-01 00:00:00","Bern","Frauenfeld",\N,\N,"1",\N,\N,"Anderwerth1828"
+"11",\N,"11",\N,\N,"3","1","5","2","Anneke","(Mathilde) Franziska",\N,"1817-01-01 00:00:00",\N,\N,"1884-01-01 00:00:00","Milwaukee","Hiddinghausen",\N,"DE-USA – Catholic, Bürgerstochter – for the abolition of slavery and women’s rights – historiography Mutterland: Memoiren einer Frau aus dem badisch-pfälzischen Feldzuge (Anneke, 1982) – Politikverbot in Germany until 1908 (Gélieu, 2008)- Der politische Tendenz-Prozeß gegen Gottschalk, Anneke und Esser (Anneke, 1848) – first German women’s News Paper (Frauenzeitung), only 2 exemplary published (Henkel & Taubert, 1976)","2","na","0","AnMF1817"
+"12",\N,"12",\N,\N,"2","1","5","1","Arouet ","François Marie ","Voltaire","1694-01-01 00:00:00",\N,\N,"1778-01-01 00:00:00","France","France",\N,"known as Voltaire Essai sur les mœurs(1756)  – French universal history - Essai sur les mœurs et l‘ésprit des nations – critical historiography","1",\N,\N,"ArFM1694"
+"13",\N,"13",\N,\N,"3","1","5","2","Aston","Louise",\N,"1814-01-01 00:00:00",\N,\N,"1871-01-01 00:00:00","na","na",\N,"DE – “She served in the Freikorps in Schleswig during the war.” (Wikipedia) – a justification in the style of the Zurich men (Luise Aston, 1846) – historiography of the revolution (novel) (Luise Aston, 1849) – history in literary genre (Louise Aston, 1847, 1850)","2","na","0","AsL1814"
+"14",\N,"14",\N,\N,"2","1","2","1","Bachmann","Niklaus Franz, von",\N,"1740-01-01 00:00:00",\N,\N,"1831-01-01 00:00:00",\N,\N,\N,"General, Eidgenössischer Oberbefehlshaber im Feldzug von 1815","4","10671131","0","BaNF1740"
+"15",\N,"15",\N,\N,"4","1","4","1","Balthasar","Franz Urs, von",\N,"1689-01-01 00:00:00","Luzern",\N,"1763-01-01 00:00:00",\N,\N,\N,"Historiker (für Objektivität), für Bildung des Volkes,","1",\N,\N,"BaFU1689"
+"16",\N,"16",\N,\N,"3","1","5","2","Bandemer","Susanne, von",\N,"1751-01-01 00:00:00",\N,\N,"1828-01-01 00:00:00","na","na",\N,"(French) revolution as self-preservation in Schreiben einer Mutter über die Revolution in Frankreich (von Bademer, 1791, 1821) in (Vahsen, 2000) (p.49)","2","na","0","BaS1751"
+"17",\N,"17",\N,\N,"1","1","2","1","Bär","Heinrich",\N,"1814-01-01 00:00:00","Weisslingen",\N,\N,\N,\N,\N,"hilft Eltern auf dem Heimwesen","1",\N,\N,"BaeH1814"
+"18",\N,"18",\N,\N,"2","1","2","1","Battaglini","Carlo",\N,"1812-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"BaC1812"
+"19",\N,"19",\N,\N,"2","1","2","1","Baumgartner","Gallus Jakob",\N,"1797-01-01 00:00:00","Altstätten",\N,"1869-01-01 00:00:00","St. Gallen","Altstätten",\N,"Revolutionsführer in St. Gallen","1",\N,\N,"BaGJ1797"
+"20",\N,"20",\N,\N,"2","1","2","2","Beauharnais","Hortense, de",\N,"1783-01-01 00:00:00","Aarburg, Thurgau",\N,"1837-01-01 00:00:00","Arenenberg, Thurgau, Switzerland","Paris, France",\N,"Politischer Flüchtling aus Frankreich in Aarburg, Schwägerin Napoleons","2","na","0","BeH1783"
+"21",\N,"21",\N,\N,"3","1","5","1","Beck","Marcel",\N,\N,\N,\N,\N,\N,\N,\N,"“Entlarvung der Gründungsgeschichte der schweizerischen Eidgenossenschaft als Mythos des 19. Jahrhunderts” (Brändli, 2004)","1",\N,\N,"BeMxxxx"
+"22",\N,"22",\N,\N,"2","1","2","1","Begos","L.",\N,\N,\N,\N,\N,\N,\N,\N,"Lieutenant-Colonel Louis Begos ancien capitaine-adjudant-major au deuxième régiment suisse au service de France","2","na","0","BeL1851§"
+"23",\N,"23",\N,\N,"2","1","2","1","Benary","Karl Albert Agathon",\N,"1807-01-01 00:00:00",\N,\N,"1861-01-01 00:00:00",\N,\N,\N,"Professor Sprache","1",\N,\N,"BeKAA1807"
+"24",\N,"24",\N,\N,"3","1","5","2","Berlepsch","Dorothea Friderika Aemilia, von",\N,"1755-01-01 00:00:00",\N,\N,"1830-01-01 00:00:00","na","na",\N,"actually Dorothea Friderika Aemilia von Berlepsch (1755-1830) -  (1799) – the revolution of Switzerland not “ewigen Gesetzen treu” in (Epple, 2003) (p. 196) writes about „ ‚ganz auf natürliche[n] Grundsätze ruhende [...] Verfassung‘ der Schweizer Gesellschaft“ (Berlepsch, 1799; Berlepsch & Pan, 1799) in (Epple, 2003) (p. 196)  - „von einzelnen Machthabern verführtes Volk“ in (Vahsen, 2000)","2","na","0","BeDFA1755"
+"25",\N,"25",\N,\N,"3","1","5","2","Bernhardi","Elisabeth Eleonore","Philogyn","1768-01-01 00:00:00",\N,\N,"1849-01-01 00:00:00","Freiberg","Freiberg",\N,\N,"2","na","0","BeEE1768"
+"26",\N,"26",\N,\N,"2","1","5","2","Berta",\N,\N,\N,\N,\N,\N,"Zürich, Switzerland","Zürich, Switzerland",\N,"Princess Abbess of the Imperial Abbey of Fraumünster (Zürich)","4","81099071","0","Be833*"
+"27",\N,"27",\N,\N,"2","1","3","1","Berthier","Louis Alexandre",\N,"1753-01-01 00:00:00","Neuchatel",\N,"1815-01-01 00:00:00","Bamberg","Versailles",\N,"Napoleons Marchall in Neuenburg von 1806-1814","1",\N,\N,"BeA1753"
+"28",\N,"28",\N,\N,"2","1","2","1","Biedermann","Alois Emanuel",\N,"1819-01-01 00:00:00",\N,\N,"1885-01-01 00:00:00",\N,\N,\N,"Sohn des Stadtrat Winterthur (1931)","1",\N,\N,"BiAE1819"
+"29",\N,"29",\N,\N,"2","1","3","1","Biedermann","Emanuel",\N,"1779-01-01 00:00:00","Winterthur",\N,"1836-01-01 00:00:00",\N,\N,\N,"Stadrat Winterthur (1931)","1",\N,\N,"BiE1779"
+"30",\N,"30",\N,\N,"3","1","5","1","Blanke","Horst Walter",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"BlHWxxxx"
+"31",\N,"31",\N,\N,"1","1","2","1","Bleuler","Jakob",\N,"1799-01-01 00:00:00","Zollikon",\N,"1839-01-01 00:00:00",\N,\N,\N,"Taglöhner in Zürich","1",\N,\N,"BlJ1799"
+"32",\N,"32",\N,\N,"2","1","2","1","Bleuler","Salomon",\N,"1829-01-01 00:00:00",\N,\N,"1886-01-01 00:00:00","Winterthur, Switzerland","Zürich, Switzerland",\N,\N,"4","62765296","0","BlS1829"
+"33",\N,"33",\N,\N,"2","1","2","2","Bleuler-Waser","Hedwig",\N,"1869-01-01 00:00:00",\N,\N,"1940-01-01 00:00:00","Zollikon","Zürich",\N,\N,"2","na","0","BlWaH1869"
+"34",\N,"34",\N,\N,"4","1","4","1","Bloch","Marc Léopold Benjamin",\N,"1886-01-01 00:00:00",\N,\N,"1944-01-01 00:00:00",\N,\N,\N,"Historiker der Annales school","1",\N,\N,"BlMLB1886"
+"35",\N,"35",\N,\N,"2","1","3","2","Bloch-Bollarg","Rosa",\N,"1880-01-01 00:00:00",\N,\N,"1922-01-01 00:00:00","Zürich","Zürich",\N,\N,"2","na","0","BlBoR1880"
+"36",\N,"36",\N,\N,"2","1","1","1","Blum","Robert   ",\N,"1807-01-01 00:00:00",\N,\N,"1848-01-01 00:00:00","Vienna, Austria","Cologne, Germany",\N,"German democratic politician, publicist, pot, publisher, revolutionist and member of the National Aseembly of 1848.","1",\N,\N,"BlR1807"
+"37",\N,"37",\N,\N,"3","1","5","1","Bluntschli","Hans Heinrich",\N,"1656-01-01 00:00:00",\N,\N,"1722-01-01 00:00:00",\N,\N,\N,"in «Memorabilia Tigurina» (1704)  extendes origin of Zurich to times of Abraham (2000 b. Chr.) 1200 years before Rome and founded (refounded) by prominent figures like Cesar and Charlmagne","1",\N,\N,"BlHH1656"
+"38",\N,"38",\N,\N,"1","1","1","1","Bluntschli","Johan Caspar ",\N,"1808-01-01 00:00:00","Zürich/Karlsruhe",\N,"1881-01-01 00:00:00","Karlsruhe","Zürich, Switzerland",\N,"Dr. jur. Rechtswissenschaftler und Politiker","4","14836641","0","BlJC1808"
+"39",\N,"39",\N,\N,"3","1","5","1","Bodmer","Johann Jakob",\N,"1698-01-01 00:00:00","Critische Betrachtungen (1741) – CH –current critic of Bodmers „chronicle tradition“ Gustav Tobler. JJ Bodmer als Geschichtsschreiber in (Zimmer, 2003) (p. 45)",\N,"1783-01-01 00:00:00",\N,\N,\N,"Sprachwissenschafter, gehörte zu den Patrioten","1",\N,\N,"BoJJ1698"
+"40",\N,"40",\N,\N,"2","1","2","1","Bodmer","Karl",\N,"1809-01-01 00:00:00",\N,\N,"1893-01-01 00:00:00","Paris","Zürich",\N,\N,"1",\N,\N,"BoK1809"
+"41",\N,"41",\N,\N,"2","1","6","1","Bodrik","na",\N,\N,\N,\N,\N,\N,\N,\N,"Professor italienischer Literatur in Zürich","1",\N,\N,"Bo0000"
+"42",\N,"42",\N,\N,"4","1","4","2","Bögli","Lina",\N,"1858-01-01 00:00:00",\N,\N,"1941-01-01 00:00:00",\N,\N,\N,"Biographer","1",\N,\N,"BoeL1858"
+"43",\N,"43",\N,\N,"1","1","2","1","Boller","Conrad",\N,"1809-01-01 00:00:00","Pfäffikon",\N,\N,\N,\N,\N,"hilft Vater auf Heimwesen","1",\N,\N,"BoC1809"
+"44",\N,"44",\N,\N,"2","1","2","1","Bonaparte","Napoleon Franz","Napoleon Franz Bonaparte","0000-00-00 00:00:00","1811-01-01 00:00:00",\N,"0000-00-00 00:00:00","1832-01-01 00:00:00",\N,\N,\N,\N,\N,"1","BoNF1811"
+"45",\N,"45",\N,\N,"4","1","4","2","Bondeli","(Suzanne) Julie",\N,"1732-01-01 00:00:00",\N,\N,"1778-01-01 00:00:00","Neuchâtel, Switzerland","Bern, Switzerland",\N,\N,"4","67259373","0","BoSJ1732"
+"46",\N,"46",\N,\N,"3","1","5","1","Bonjour","Edgar",\N,"1898-01-01 00:00:00",\N,\N,"1991-01-01 00:00:00",\N,\N,\N,"definition and defens of the Swiss “Sonderposition”, Swiss neutrality, “minimizes the signification of the French revolution” – democratic values as already existing in the Confederation (Universität Basel, 2010) (Zur Herleitung des Monumentalwerkes der 1960er und 1970er Jahre aus den Anfängen von 1943 vgl. Georg Kreis: Die Geschichte des Bonjour-Berichts. Und ein Rückblick auf dreissig Jahre Geschichtsschreibung zur Schweiz im Zweiten Weltkrieg. In: NZ am Wochenende vom 5. Juni 1976.)","1",\N,\N,"BoE1898"
+"47",\N,"47",\N,\N,"1","1","3","1","Bonstetten","Karl Viktor, von",\N,"1745-01-01 00:00:00","Bern/Genf",\N,"1832-01-01 00:00:00",\N,\N,\N,"Schriftsteller","1",\N,\N,"BoKV1745"
+"48",\N,"48",\N,\N,"2","1","2","1","Bopp","Franz",\N,"1791-01-01 00:00:00",\N,\N,"1867-01-01 00:00:00",\N,\N,\N,"Professor Sanskrit","1",\N,\N,"BoF1791"
+"49",\N,"49",\N,\N,"2","1","6","1","Borel","???",\N,\N,"Neuchatel",\N,\N,\N,\N,\N,"Pfarrer (Ministre) im Welschland, verheiratet mit einer Meuron","1",\N,\N,"Borel0000"
+"50",\N,"50",\N,\N,"2","1","2","1","Borel","Eugène",\N,"1835-01-01 00:00:00",\N,\N,"1892-01-01 00:00:00","Bern","Neuchatel",\N,\N,"1",\N,\N,"BoE1835"
+"51",\N,"51",\N,\N,"2","1","2","1","Bornhauser","Thomas",\N,"1799-01-01 00:00:00","Weinfelden",\N,"1856-01-01 00:00:00","Müllheim","Weinfelden",\N,"Revolutionsführer","1",\N,\N,"BoT1799"
+"52",\N,"52",\N,\N,"1","1","2","1","Bosshard","Hans Jakob",\N,"1784-01-01 00:00:00","Hittnau/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"arm","1",\N,\N,"BoHJ1784"
+"53",\N,"53",\N,\N,"1","1","2","1","Bosshard","Johannes",\N,"1820-01-01 00:00:00","Wila",\N,\N,\N,\N,\N,"unbekannt","1",\N,\N,"BoJ1820"
+"54",\N,"54",\N,\N,"2","1","5","1","Bossuet ","Jacques Bénigne ",\N,"1627-01-01 00:00:00",\N,\N,"1704-01-01 00:00:00","France","France",\N,"(1681) Discours sur l‘histoire universelle  – theological universal history","1",\N,\N,"BoJB1627"
+"55",\N,"55",\N,\N,"2","1","5","1","Boyve","Jérome-Emmanuel",\N,"1731-01-01 00:00:00","Neuchatel",\N,"1810-01-01 00:00:00","Neuchatel","Neuchatel",\N,"Chancilier in Neuchatel","1",\N,\N,"Boyve1731"
+"56",\N,"56",\N,\N,"2","1","6","1","Brähm","???",\N,\N,"Meilen",\N,\N,\N,\N,\N,"Lehrer von Heinrich Escher","1",\N,\N,"Brähm0000"
+"57",\N,"57",\N,\N,"3","1","5","2","Brentano-Ehrmann","Marianne",\N,"1755-01-01 00:00:00",\N,\N,"1795-01-01 00:00:00","na","na",\N,"also Marianne Ehrmann (1755-1795) (CH) – actress – editor - Philosophie eines Weibes: Von einer Beobachterin im Jahre 1784 (Ehrmann, 1784) - Amalie. Eine wahre Geschichte in Briefen (Ehrmann, 1788) – overlapping between historiography and belletristic especially in the genre of epistolary novels – writes with her husband the Wochenschrift for the Beobachter","2","na","0","BrEhM1755"
+"58",\N,"58",\N,\N,"3","1","5","2","Brun ","Friederike Sophie Christiane",\N,"1765-01-01 00:00:00",\N,\N,"1835-01-01 00:00:00","Kopenhagen","Gräfentonna",\N,\N,"2","na","0","BrFSC1765"
+"59",\N,"59",\N,\N,"5","1","2","2","Hatzfeld","Sophie, Gräfin von",\N,"1805-01-01 00:00:00",\N,\N,"1881-01-01 00:00:00","Wiesbaden","Trachenberg",\N,"German socialist and partner of Ferdinand Lasalle","4","54940048","0","HaS1805"
+"60",\N,"60",\N,\N,"5","1","2","2","Lasalle","Lisbeth",\N,\N,\N,\N,\N,\N,\N,\N,"Daughter of Ferdinand Lasalle","1",\N,\N,"LaLxxxx"
+"61",\N,"61",\N,\N,"5","1","2","2","Assing","Rosa Ludmilla","pseudonyms: Achim Lothar, Talora","1821-01-01 00:00:00",\N,\N,"1880-01-01 00:00:00","Florence","Hamburg",\N,"Jewish-German writer","4","100384493","0","AsL1821"
+"62",\N,"62",\N,\N,"2","1","6","1","Brunner","???",\N,\N,\N,\N,\N,\N,\N,\N,"Oberstleutnant","1",\N,\N,"Brunner0000"
+"63",\N,"63",\N,\N,"2","1","2","1","Büchner","Georg",\N,"1813-01-01 00:00:00","Hessen",\N,"1837-01-01 00:00:00","Zürich, Switzerland","Riedstadt, Grand Duchy of Hesse",\N,"Ausländischer Revolutionär an der Uni Zürich","1",\N,\N,"BueG1813"
+"64",\N,"64",\N,\N,"2","1","3","1","Büchner","Georg",\N,\N,\N,\N,\N,\N,\N,\N,"1834 versuchter Selbstmord in Zürich","1",\N,\N,"BueG0000"
+"65",\N,"65",\N,\N,"3","1","5","1","Buffon",\N,\N,\N,\N,\N,\N,\N,\N,\N,"wrote (1746) histoire naturelle (and others) include nature in universal history – mountains in Swiss identity!","1",\N,\N,"Bu1746§"
+"66",\N,"66",\N,\N,"3","1","5","1","Bullinger","Heinrich",\N,"1504-01-01 00:00:00",\N,\N,"1575-01-01 00:00:00","Zürich, Switzerland","Bremgarten, Switzerland",\N,"Theologieprofessorm später Pfarrer in Erlibach","1",\N,\N,"Bullinger1504"
+"67",\N,"67",\N,\N,"1","1","5","1","Burckhardt ","Jakob Christoph",\N,"1818-01-01 00:00:00","Basel",\N,"1897-01-01 00:00:00",\N,\N,\N,"Kultur- und Kunsthistoriker. ","1",\N,\N,"BuJC1818"
+"68",\N,"68",\N,\N,"3","1","5","2","Bürger","Marie Christiane Elisabeth","Elise Bürger","1760-01-01 00:00:00",\N,\N,"1833-01-01 00:00:00","Frankfurt am Main","Stuttgart",\N,\N,"2","na","0","BueMCE1760"
+"69",\N,"69",\N,\N,"2","1","2","1","Bürgi","David",\N,"1801-01-01 00:00:00",\N,\N,"1874-01-01 00:00:00","Fluntern","Bäretschweil",\N,\N,"4","103131442","0","Bürgi1801"
+"70",\N,"70",\N,\N,"2","1","2","1","Burkhardt","Carl Jacob Christoph",\N,"1818-01-01 00:00:00","Basel",\N,"1897-01-01 00:00:00","Basel, Switzerland","Basel, Switzerland",\N,"liberal-konservativ","1",\N,\N,"BuCJC1818"
+"71",\N,"71",\N,\N,"1","1","2","1","Bürkli","Johann Georg",\N,"1793-01-01 00:00:00",\N,\N,"1851-01-01 00:00:00","Zürich, Switzerland*","Schinznach",\N,"bis 1827 Seidenhandelskaufmann ","4","D32392","0","BueJG1793"
+"72",\N,"72",\N,\N,"5","1","3","1","Bürkli","Friedrich Paul David",\N,"1818-01-01 00:00:00","Zürich, Switzerland",\N,"1896-01-01 00:00:00",\N,\N,\N,"Friedrich Paul David Bürkli arbeitete von 1837 an in der Redaktion des Wochenblattes Züricher Freitags-Zeitung, die bereits seit 1674 über mehrere Generationen im Besitz der Familie Bürkli war. Von 1852 bis 1877 war er selbständiger Redaktor dieser Zeitung. Ab den 1830er Jahren bis zu seinem Tod 1896 gab er den seit 1781 jährlich erscheinenden Züricher Kalender heraus. Ein weiterer Titel aus seinem Haus waren die Reisebegleiter für die Schweiz, die unter anderem Bahn- und Schiffsfahrpläne enthielten. Friedrich Bürklis Sammlung umfasst um die 1500 Titel. Bei etwa der Hälfte davon handelt es sich um orientalistische Fachliteratur des 19. Jahrhunderts, bei der anderen Hälfte um Drucke aus Europa, Ägypten und Indien in grösstenteils arabischer Sprache. Die Werke stammen von arabischen Autoren des 6. bis 16. Jahrhunderts und decken die Gebiete Grammatik, Lexikologie, islamisches Recht, islamische Theologie, Literatur und Geschichte ab (Wikipedia).","1",\N,\N,"BueFPD1818"
+"73",\N,"73",\N,\N,"5","1","3","1","Bürkli","Hans Kaspar",\N,\N,"Zürich, Switzerland*",\N,\N,\N,\N,\N,"owner of the Bürklische Drukerey","1",\N,\N,"BueHK1724§"
+"74",\N,"74",\N,\N,"5","1","3","1","Bürkli","David",\N,"1735-01-01 00:00:00","Zürich, Switzerland*",\N,"1790-01-01 00:00:00",\N,\N,\N,"owner of the Bürklische Drukerey","4","1061010279","0","BueD1735"
+"75",\N,"75",\N,\N,"1","1","1","1","Bürkli","Karl ",\N,"1823-01-01 00:00:00","Zürich/Mettmenstetten",\N,"1901-01-01 00:00:00","Mettmenstetten","Zürich",\N,\N,"4","117667099","0","BueK1823"
+"76",\N,"76",\N,\N,"2","1","2","1","Byron",\N,\N,"1788-01-01 00:00:00",\N,\N,"1824-01-01 00:00:00",\N,\N,\N,"Lord Byron schwärmte für die Schweiz","1",\N,\N,"By1788"
+"77",\N,"77",\N,\N,"2","1","4","2","Calame","Marie-Anne",\N,"1775-01-01 00:00:00",\N,\N,"1834-01-01 00:00:00","Le Locle","Le Locle",\N,"Pietist.","4","67273396","0","CaMA1775"
+"78",\N,"78",\N,\N,"1","1","3","1","Campagne","Carl Joseph, von",\N,"1751-01-01 00:00:00","Bussenhausen",\N,"1833-01-01 00:00:00",\N,\N,\N,"Mystiker","1",\N,\N,"vCaCJ1751"
+"79",\N,"79",\N,\N,"2","1","2","1","Carr","Edward Hallett",\N,"1892-01-01 00:00:00",\N,\N,"1982-01-01 00:00:00","London, England","London, England",\N,\N,"4","24418","0","CaEH1892"
+"80",\N,"80",\N,\N,"3","1","5","1","Cassirer","Ernst",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"CaExxxx"
+"81",\N,"81",\N,\N,"2","1","2","1","Castella de Berlens","Nicolas Antoine Xavier ",\N,"1767-01-01 00:00:00",\N,\N,"1830-01-01 00:00:00","Paris, France","Fribourg, Switzerland",\N,"Swiss coronel during the Russian Campaign.","2","na","0","CaNAX1767"
+"82",\N,"82",\N,\N,"2","1","2","1","Cattaneo","Carlo",\N,"1801-01-01 00:00:00",\N,\N,"1860-01-01 00:00:00","Milan, Italy","Milan, Italy",\N,\N,"1",\N,\N,"CaC1801"
+"83",\N,"83",\N,\N,"2","1","2","2","Chaponniere-Chaix","Pauline",\N,"1850-01-01 00:00:00",\N,\N,"1934-01-01 00:00:00","Geneva, Switzerland","Geneva, Switzerland",\N,\N,"2","na","0","ChP1850"
+"84",\N,"84",\N,\N,"2","1","3","1","Charles X of France",\N,"Karl X.","1757-01-01 00:00:00",\N,\N,"1836-01-01 00:00:00","Görz, Austria (now in Italy)","Palace of Versailles, France",\N,"König von Frankreich, gestürzt, Bruder von Ludwig XVI.","2","na","0","ChX1757"
+"85",\N,"85",\N,\N,"2","1","3","1","Chézny","Antoine Léonard, de",\N,"1773-01-01 00:00:00",\N,\N,"1832-01-01 00:00:00",\N,\N,\N,"Professor Sanskrit","1",\N,\N,"ChAL1773"
+"86",\N,"86",\N,\N,"2","1","2","1","Cironi","Piero",\N,"1819-01-01 00:00:00",\N,\N,"1862-01-01 00:00:00","Prato, Italy","Prato, Italy",\N,"Patriot and dear friend of Giuseppe Mazzini. 1853-1857 exiled to Zürich after he had planned the march to Savoy (Savoyerzug) in 1834 and failed.","4","49594102","0","CiP1819"
+"87",\N,"87",\N,\N,"2","1","3","1","Condorcet","Nicolas","Marie Jean Antoine Nicolas de Caritat, m","1743-01-01 00:00:00",\N,\N,"1794-01-01 00:00:00","Bourg-la-Reine, France","Ribemont, France",\N,"entwickelt Idee der Volksinitiative","1",\N,\N,"CoN1743"
+"88",\N,"88",\N,\N,"2","1","6","1","Conseil","Auguste",\N,\N,\N,\N,\N,\N,\N,\N,"Spion, politischer Flüchtling, Conseil-Affaire 1835","1",\N,\N,"CoA0000"
+"89",\N,"89",\N,\N,"2","1","1","1","Considerant","Victor Proper",\N,"1808-01-01 00:00:00",\N,\N,"1893-01-01 00:00:00","Paris, France","Salins-les-Bains, France",\N,"Utopist, not directly involved in Swiss history","1",\N,\N,"CoV1808"
+"90",\N,"90",\N,\N,"2","1","2","1","Constant","Benjamin","Henri-Benjamin Constant de Rebecque","1767-01-01 00:00:00",\N,\N,"1830-01-01 00:00:00","Paris, France","Lausanne, Switzerland",\N,"gemässigte Mitte (zw. Aristokratischer Despotie und revolutionäre Gewalt der Massen) im Kreis von Madame de Staël","1",\N,\N,"CoB1767"
+"91",\N,"91",\N,\N,"2","1","2","2","Conzett-Knecht","Verena",\N,"1861-01-01 00:00:00",\N,\N,\N,"na","na",\N,\N,"2","na","0","CoKnV1861"
+"92",\N,"92",\N,\N,"3","1","5","1","Cramer","Andreas Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,"Haus-Chronik: meinen Anverwandten und Freunden zum Andenken gewidmet (1822) (Cramer, 1822)","1",\N,\N,"CrAW0000"
+"93",\N,"93",\N,\N,"2","1","6","1","Currat de Grandvillard","Jean-Pierre",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","CdGJP0000"
+"94",\N,"94",\N,\N,"3","1","5","1","Dahlmann","Carl",\N,\N,\N,\N,\N,\N,\N,\N,"Historiographer. „Modulations ins Volksnationale“ (Tuchtenhagen, 2011) (p. 44)","1",\N,\N,"DaC0000"
+"95",\N,"95",\N,\N,"2","1","2","1","Dändliker","Jakob",\N,"1822-01-01 00:00:00",\N,\N,"1837-01-01 00:00:00",\N,\N,\N,"Lehrer, Rektor, Stadtrat, Prov. Sekundarschullehrer in Pfäffikon bei Austritt Kramers","1",\N,\N,"DaeJ1822"
+"96",\N,"96",\N,\N,"2","1","3","2","Dentière","Marie","Marie d’Ennetières","1495-01-01 00:00:00",\N,\N,"1561-01-01 00:00:00","Geneva, Switzerland","Tournai, France",\N,\N,"2","na","0","DeM1495"
+"97",\N,"97",\N,\N,"1","1","2","1","Diem","Bartholomäus",\N,"1812-01-01 00:00:00","Herisau (AR)/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"religiöser Dienstbote, arm","1",\N,\N,"DiB1812"
+"98",\N,"98",\N,\N,"3","1","5","1","Dierauer","Johannes",\N,"1842-01-01 00:00:00",\N,\N,"1920-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker","1",\N,\N,"DiJ1842"
+"99",\N,"99",\N,\N,"1","1","6","1","Dietliker","Jakob",\N,\N,"Wetzikon/Zürich",\N,"1839-01-01 00:00:00","Zürich","Wetzikon",\N,"Zimmermann, Mittelstand (nicht ganz arm)","1",\N,\N,"DiJ0000"
+"100",\N,"100",\N,\N,"2","1","6","1","Dietliker ","Jakob",\N,\N,\N,\N,\N,"na","Kepmten",\N,"Pfarrer in Wetzikon","1",\N,\N,"DiJ0000"
+"101",\N,"101",\N,\N,"1","1","2","1","Diggelmann","Jakob",\N,"1819-01-01 00:00:00","Pfäffikon/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"Schustergehilfe, sehr arm","1",\N,\N,"DiJ1819"
+"102",\N,"102",\N,\N,"3","1","5","2","Dittmar","Johanna Friederieke Louise",\N,"1807-01-01 00:00:00",\N,\N,"1884-01-01 00:00:00","na","na",\N,"Named actually Johanna Friederieke Louise Dittmar(1807-1884) -  „Sie werden staunen, wie diese Dame unsre Philosophen und Theologen durch die Freiheit ihres Geistes beschämt.“ – (Feurbach) (Schuffenhauer, 1967) – a critical review (Dittmar, 1847a) – historiography (Dittmar, 1845b) – political commentaries (Dittmar, 1847b, 1849a, 1849b) – theological (social) identity building (Dittmar, 1845a, 1848)","2","na","0","DiJFLD1807"
+"103",\N,"103",\N,\N,"3","1","5","1","Domann","Hans",\N,"1896-01-01 00:00:00",\N,\N,"1944-01-01 00:00:00",\N,\N,\N,"Das Gemeinschaftsbewusstsein der V Orte in der Alten Eidgenossenschaft (1943) – according Metzger in the national liberal historiography appears religion only as a negative factor (Metzger, 2011) (p. 175) this seems not correct (see BUND (SEK/FEPS/FCES, 1987))","1",\N,\N,"DoH1896"
+"104",\N,"104",\N,\N,"3","1","5","1","Domeisen","Norbert",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","DoN0000"
+"105",\N,"105",\N,\N,"2","1","2","1","Dorer-Egloff","Eduard",\N,"1807-01-01 00:00:00",\N,\N,"1864-01-01 00:00:00","Baden, Switzerland","Baden, Switzerland",\N,\N,"1",\N,\N,"Dorer1807"
+"106",\N,"106",\N,\N,"2","1","2","1","Dreyfus","Markus Getsch","Markus Götsch Dreifus(s)","1812-01-01 00:00:00",\N,\N,"1877-01-01 00:00:00","Zürich","Endingen, Aargau, Switzerland",\N,"Dreyfuss-Affaire, first conseil de guerre","1",\N,\N,"DrMG1812"
+"107",\N,"107",\N,\N,"2","1","3","1","Druey","Daniel-Henri",\N,"1799-01-01 00:00:00",\N,\N,"1855-01-01 00:00:00","Bern, Switzerland","Faoug, Switzerland",\N,"1845 radikaler Führer Waadt","4","57361171","0","DrDH1799"
+"108",\N,"108",\N,\N,"2","1","6","1","Du Fresne",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Swiss coronel during the Russian Campaign.","2","na","0","DF0000"
+"109",\N,"109",\N,\N,"2","1","3","1","Dufour","Guillaume-Henri",\N,"1787-01-01 00:00:00","Genf",\N,"1875-01-01 00:00:00","Les Eaux-Vives, Geneva","Konstanz",\N,"liberal-konservativ, protestant, Führer gegen Sonderbundtruppen, Generalstabsoffizier","4","2495837","0","DuGH1787"
+"110",\N,"110",\N,\N,"2","1","2","2","Dufour-Onofrio","Anna Joséphine",\N,"1817-01-01 00:00:00",\N,\N,\N,"na","na",\N,\N,"2","na","0","DuOAJ1817"
+"111",\N,"111",\N,\N,"2","1","3","1","Dumas","Alexandre",\N,"1802-01-01 00:00:00",\N,\N,"1870-01-01 00:00:00","Seine-Maritime, France","Villers-Cotterêts, France",\N,"reports about his experiences during the July Revolution","4","51688902","0","DuA1802"
+"112",\N,"112",\N,\N,"2","1","3","2","Dupin","Amantine-Lucile-Aurore","George Sand","1804-01-01 00:00:00",\N,\N,"1876-01-01 00:00:00","Nohant-Vic, France","Paris, France",\N,\N,"4","46766944","0","DuALA1804"
+"113",\N,"113",\N,\N,"3","1","5","1","Durrer","Robert",\N,"1867-01-01 00:00:00",\N,\N,"1934-01-01 00:00:00",\N,\N,\N,"Die Einheit Unterwaldens. Studien über die Anfänge der urschweizerischen Demokratie (1910) – idea of an „old“ democracy (Metzger, 2011) (p. 175)","1",\N,\N,"DuR1867"
+"114",\N,"114",\N,\N,"3","1","5","2","Eberhardt","Isabelle",\N,"1877-01-01 00:00:00",\N,\N,"1904-01-01 00:00:00","Aïn Séfra, Algeria","Geneva, Switzerland",\N,"North African explorere, converted to Islam. All works published in Switzerland posthume, during her life only in Algeria and France news papers. Travel reports and memories, fascination for Islam, travels dressed as a man, - Nouvelles algériennes, 1905; Dans l’ombre chaude de l’Islam, 1906 ; Mes journaliers, 1922","1",\N,\N,"EvI1877"
+"115",\N,"115",\N,\N,"4","1","4","1","Edlibach","Gerold",\N,"1454-01-01 00:00:00",\N,\N,"1530-01-01 00:00:00",\N,\N,\N,"combination of historiography and political functions - Zürcher Chronik oder Zürcher- und Schweizerchronik (1485/86) – combination of biography and historiography - Rotwelschglossar (fickabel des rotwelschtz) (1490) - Zürcher Wappenbuch (1480-) - Waldmannhandel (Waldmannscher Auflauf) (1489) – Aufzeichnungen zur Reformation (1520-1527) (Gamper & Gamper, 2005)","1",\N,\N,"EdG1454"
+"116",\N,"116",\N,\N,"1","1","2","1","Egli","Hans Heinrich",\N,"1818-01-01 00:00:00","Wetzikon/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"Sohn armer Eltern","1",\N,\N,"EgHH1818"
+"117",\N,"117",\N,\N,"2","1","1","1","Elgger","Franz, von",\N,"1794-01-01 00:00:00",\N,\N,"1858-01-01 00:00:00","Luzern","Rheinfelden",\N,\N,"1",\N,\N,"ElF1794"
+"118",\N,"118",\N,\N,"1","1","2","1","Enderli","Caspar",\N,"1785-01-01 00:00:00","Illnau, von Bisikon",\N,\N,\N,\N,\N,"unbekannt","1",\N,\N,"EnC1785"
+"119",\N,"119",\N,\N,"4","1","4","2","Engel","Regula",\N,"1761-01-01 00:00:00",\N,\N,"1853-01-01 00:00:00","Zürich, Switzerland","Flutern, Zürich, Switzerland",\N,"Frau Oberst Engel; von Cairo bis Nework. participated as wife of a militar in French mercenary services (Napoleon). published 1821 – she fought in the battle and was mother of 21 children (“Memoiren der Regula Engel: Die Frau Oberst | DIE ZEIT Archiv | Ausgabe 43/1977,” n.d.)","4","42629184","0","EnEgR1761"
+"120",\N,"120",\N,\N,"2","1","2","1","Engelhard","Johann Friedrich Ludwig",\N,"1783-01-01 00:00:00",\N,\N,"1862-01-01 00:00:00","Murten, Switzerland","Zweibrücken, Pfalz",\N,"Erinnerungen aus meinen Feldzügen in Spanien","4","D3923","0","EnJFL1783"
+"121",\N,"121",\N,\N,"2","1","3","1","Erni","Johann Heinrich",\N,\N,"Pfäffikon",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger), Buchbinder und Coeditor der Memorabilia mit Johann Balthasar Bullinger, Anton Werdmüller, Johann Heinrich Erni, Friedrich Vogel und Gottfried von Escher bis 1870","2","na","0","ErJH0000"
+"122",\N,"122",\N,\N,"2","1","2","1","Ernst","Johann Ulrich",\N,"1803-01-01 00:00:00","Veltheim, Winterthur",\N,"1846-01-01 00:00:00",\N,\N,\N,"Gichteler (Neugläubiger), publiziert Briefe von Gichtel und Campagne 1842","1",\N,\N,"ErJU1803"
+"123",\N,"123",\N,\N,"2","1","3","2","Escher","Elisabetha",\N,"1759-01-01 00:00:00",\N,\N,\N,"na","na",\N,"sister of H. Escher's father","2","na","0","EsE1759"
+"124",\N,"124",\N,\N,"2","1","3","1","Escher","Hans Jakob",\N,"1770-01-01 00:00:00","Pfäffikon",\N,"1827-01-01 00:00:00",\N,\N,\N,"Pfarrer in Kontakt mit Campagne","1",\N,\N,"EsHJ1770"
+"125",\N,"125",\N,\N,"2","1","2","1","Escher","Heinrich",\N,"1781-01-01 00:00:00",\N,\N,"1860-01-01 00:00:00",\N,\N,\N,"Sohn von Hs. Konrad E. (1743-1814), V.D.M. Dr.phil.h.c., Professor der Geschichte, und Logik am obern. Gymnasium, Erziehungsrat, stimmte gegen die Berufung von Strauss","1",\N,\N,"EsHe1781"
+"126",\N,"126",\N,\N,"1","1","2","1","Escher","Heinrich",\N,"1789-01-01 00:00:00","Zürich",\N,"1870-01-01 00:00:00",\N,\N,\N,"Canzlist, öffentlicher Ankläger, Oberamtmann (Grüningen), Präsident Criminalgericht, Professor Staatswissenschaft (Uni ZH), Regierungsrath (1833)","1",\N,\N,"EsA1789"
+"127",\N,"127",\N,\N,"4","1","4","2","Escher","Nanny, von",\N,"1855-01-01 00:00:00",\N,\N,"1932-01-01 00:00:00","Langnau am Albis, Switzerland","Zürich, Switzerland",\N,\N,"4","3225736","0","EsN1855"
+"128",\N,"128",\N,\N,"2","1","3","2","Orelli-Escher","Regula, v.",\N,"1757-01-01 00:00:00",\N,\N,\N,"na","na",\N,"Schülerin Lavaters und Gattin von David von Orell","2","na","0","EsR1757"
+"129",\N,"129",\N,\N,"2","1","2","1","Escher ","Heinrich",\N,"1776-01-01 00:00:00",\N,\N,"1853-01-01 00:00:00",\N,\N,\N,"vater von Alfred Escher","1",\N,\N,"EsH1776"
+"130",\N,"130",\N,\N,"1","1","1","1","Escher vom Glas","Johann Heinrich Alfred",\N,"1819-01-01 00:00:00","Zürich/Enge",\N,"1882-01-01 00:00:00","Enge, Zürich, Switzerland","Zürich, Switzerland",\N,"Hauptförderer der Eidg. Technischen Hochschule und des Gotthard-Durchstiches,","4","40175198","0","EsgJH1819"
+"131",\N,"131",\N,\N,"1","1","3","1","Escher vom Luchs","Hans Konrad",\N,"1743-01-01 00:00:00","Zürich/Zürich",\N,"1814-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,\N,"4","D13461","0","EslHK1743"
+"132",\N,"132",\N,\N,"1","1","3","1","Escher vom Luchs","Johan Konrad, von",\N,"1761-01-01 00:00:00",\N,\N,"1833-01-01 00:00:00","Zürich, Switzerland*","Baden, Switzerland",\N,"Bürgermeister 1814","4","D47822","0","EsJK1761"
+"133",\N,"133",\N,\N,"2","1","3","1","Escher von der Linth","Hans Conrad",\N,"1767-01-01 00:00:00","Zürcher Politiker. Leiter der Korrektion der Linthebene",\N,"1823-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"EsLtHC1767"
+"134",\N,"134",\N,\N,"2","1","3","1","Escher-Keller","Hans Caspar",\N,"1755-01-01 00:00:00",\N,\N,"1831-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"EskHC1755"
+"135",\N,"135",\N,\N,"2","1","3","2","Escher-Meyer","Susanna",\N,"1764-01-01 00:00:00",\N,\N,\N,"na","na",\N,"mother of Heinrich Escher","2","na","0","EsS 1764"
+"136",\N,"136",\N,\N,"2","1","3","1","Escher-Schulthess","Hans Heinrich",\N,"1777-01-01 00:00:00",\N,\N,"1840-01-01 00:00:00","Zürich","Zürich",\N,\N,"4","105271398X ","0","EsSchH1777"
+"137",\N,"137",\N,\N,"2","1","2","1","Escher-Zollikofer","Heinrich",\N,"1776-01-01 00:00:00",\N,\N,"1853-01-01 00:00:00",\N,\N,\N,"vater von Alfred Escher,  auch als ""Sklavenhändler"" bezeichnet. Industrieller und Eisenbahnpionier, Gründer Nordostbahn 1853, Gotthardbahn 1872-1878","1",\N,\N,"EsH1776"
+"138",\N,"138",\N,\N,"2","1","5","1","Etterlin","Petermann",\N,\N,\N,\N,\N,\N,\N,\N,"wrote Chronik Basel (1507)","1",\N,\N,"EtP1507§"
+"139",\N,"139",\N,\N,"2","1","2","2","Everhardt","Isabelle",\N,"1877-01-01 00:00:00",\N,\N,"1904-01-01 00:00:00","Aïn Séfra, Algeria","Geneva, Switzerland",\N,"She was a Swiss explorer and writer who lived and travelled extensively in North Africa","4","73871242","0","EvI1877"
+"140",\N,"140",\N,\N,"2","1","3","1","Farbstein","David",\N,"1868-01-01 00:00:00",\N,\N,"1953-01-01 00:00:00","Zürich, Switzerland","Waschau, Poland",\N,\N,"4","50145742","0","FaD1868"
+"141",\N,"141",\N,\N,"1","1","2","1","Fäsi","Carl Wilhelm",\N,"1793-01-01 00:00:00",\N,\N,"1852-01-01 00:00:00",\N,\N,\N,"Diacon","1",\N,\N,"FaeCW1793"
+"142",\N,"142",\N,\N,"2","1","3","1","Fauche (-Borel)","Abraham Louise",\N,"1762-01-01 00:00:00","Neuchatel",\N,"1829-01-01 00:00:00","Neuenburg","Neuenburg",\N,"Von 1790 an setzte er sich als Buchhändler und Geheimagent für die Gegenrevolution ein. ","1",\N,\N,"FaBoAL1762"
+"143",\N,"143",\N,\N,"2","1","3","1","Fazy","James",\N,"1794-01-01 00:00:00","Genf",\N,"1878-01-01 00:00:00","Petit-Saconnex, Geneva, Switzerland","Geneva, Switzerland",\N,"radikaler Führer Genf, gegen calvinistisch-konservative","1",\N,\N,"FaJ1794"
+"144",\N,"144",\N,\N,"2","1","3","1","Fehr","Johannes",\N,"1779-01-01 00:00:00",\N,\N,"1838-01-01 00:00:00","St. Gallen, Switzerland?",\N,\N,"St. Gallen; als Reutiner zum katholischen Glauben übertritt übernehmen  die Herren Gonzenbach-Huber, Johannes de Julius Hieronymus Zollikofer, Conrad Fehr, Sebastian Kunkler und der Arzt Caspar Wetter – bildeten ein Konsortium, um eine Buchhandlung zu errichten. Sie erwarben den Büchervorrat von Reutiner. Später Conrad und dann sein Sohn Fehr bilden die Fehr'sche Buchhandlung.","1",\N,\N,"Fehr1779"
+"145",\N,"145",\N,\N,"3","1","5","1","Feller","Richard",\N,"1877-01-01 00:00:00",\N,\N,"1958-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker (Kantonalsgeschichte Berns). Die schweizerische Geschichtsschreibung im 19. Jahrhundert – Geschichtsschreibung der Schweiz (Feller & Bonjour, 1979)","1",\N,\N,"FeR1877"
+"146",\N,"146",\N,\N,"2","1","5","1","Ferguson","Adam",\N,"1723-01-01 00:00:00",\N,\N,"1818-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"FeA1723"
+"147",\N,"147",\N,\N,"3","1","5","1","Ficker","Julius",\N,"1826-01-01 00:00:00",\N,\N,"1902-01-01 00:00:00",\N,\N,\N,"wrote Das deutsche Kaiserreich in seinen universalen und nationalen Beziehungen (1861) defends the „universal Catholic idea of empire“ (Metzger, 2011) (p. 173)","1",\N,\N,"FiJ 1826"
+"148",\N,"148",\N,\N,"2","1","3","1","Fierz","Johann Jakob",\N,"1787-01-01 00:00:00",\N,\N,"1861-01-01 00:00:00","Küsnacht, Zürich, Switzerland","Küsnacht, Zürich, Switzerland",\N,"Brigadekommandant im Sonderbundskrieg","1",\N,\N,"Fierz1787"
+"149",\N,"149",\N,\N,"2","1","2","1","Fieschi","Giuseppe Marco","also Joseph, Joseph Gérard or Joseph Mar","1790-01-01 00:00:00",\N,\N,"1836-01-01 00:00:00","Paris, France","Murat, Corsica",\N,\N,"1",\N,\N,"FiGM1790"
+"150",\N,"150",\N,\N,"2","1","3","1","Finsler","Johann Jakob",\N,"1796-01-01 00:00:00",\N,\N,"1836-01-01 00:00:00",\N,\N,\N,"Seidenfabrikant auf dem Land","2","na","0","FiJJ1796"
+"151",\N,"151",\N,\N,"2","1","3","1","Fischer","Conrad Johann",\N,"1773-01-01 00:00:00",\N,\N,"1854-01-01 00:00:00",\N,\N,\N,"Pionier der Stahlindustrie","1",\N,\N,"FiCJ1773"
+"152",\N,"152",\N,\N,"2","1","3","1","Fischer","Rudolf, von",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","FiR0000"
+"153",\N,"153",\N,\N,"3","1","5","2","Flachsland","Caroline","Maria Karoline, Karoline, Maria Caroline","1750-01-01 00:00:00",\N,\N,"1809-01-01 00:00:00","Weimar","Reichenweier, Alsace",\N,"She married Johann Gottfried von Herder and belonged to the Weimar circle.","4","49387820","0","FlC1750"
+"154",\N,"154",\N,\N,"2","1","1","2","Flaviny","Marie, de","Marie, D'Agoult, Marie Catherine Sophie,","1805-01-01 00:00:00",\N,\N,"1876-01-01 00:00:00","Paris, France","Frankfurt am Main, Germany",\N,\N,"2","na","0","FlM1805"
+"155",\N,"155",\N,\N,"2","1","3","2","Flüeh-Wyss","Dorothea, von",\N,\N,\N,\N,\N,"na","na",\N,\N,"2","na","0","FlD1431*"
+"156",\N,"156",\N,\N,"2","1","3","2","Flühmann","Elisabeth",\N,"1851-01-01 00:00:00",\N,\N,"1929-01-01 00:00:00","Aarau, Switzerland","Schwandholz bei Krattigen, Saxeten",\N,"Swiss pedagogue and fighter for women's rights.","4","308194913","0","FlE1851"
+"157",\N,"157",\N,\N,"2","1","2","1","Fontana","José",\N,"1840-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"FoJ1840"
+"158",\N,"158",\N,\N,"2","1","2","1","Franscini","Stefano",\N,"1796-01-01 00:00:00",\N,\N,"1857-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"FrS1796"
+"159",\N,"159",\N,\N,"2","1","3","1","Franz Joseph I of Austria",\N,"Franz I.","1830-01-01 00:00:00",\N,\N,"1916-01-01 00:00:00","Schönbrunn Palace, Vienna","Schönbrunn Palace, Vienna",\N,"Kaiser von Österreich","2","na","0","FrJoI1830"
+"160",\N,"160",\N,\N,"2","1","3","1","Frederick William III of Prussia",\N,"Friedrich Wilhelm III.","1770-01-01 00:00:00",\N,\N,"1840-01-01 00:00:00","Berlin","Potsdam, Prussia",\N,"König von Preussen","4","50016770","0","FrWiIII1770"
+"161",\N,"161",\N,\N,"2","1","3","1","Frey","Johann Rudolf",\N,\N,"Uster",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","2","na","0","FrJR0000"
+"162",\N,"162",\N,\N,"2","1","3","1","Friedrich Wilhelm III.",\N,\N,"1770-01-01 00:00:00",\N,\N,"1840-01-01 00:00:00","Berlin Prussia","Potsdam, Preussia",\N,"König von Preussen","1",\N,\N,"FrWiIII1770"
+"163",\N,"163",\N,\N,"3","1","5","1","Fröbel","Julius",\N,"1805-01-01 00:00:00",\N,\N,"1893-01-01 00:00:00","Zürich, Switzerland","Griesheim, Thüringen",\N,"publisches in Dittmar’s Die sociale Reform","4","2771521","0","FrJ1805"
+"164",\N,"164",\N,\N,"2","1","5","1","Fründ","Hans",\N,\N,\N,\N,\N,\N,\N,\N,"Geschichte des Alten Zürichkriegs aus Sicht der anti-habsburgischen Partei für die Jahre 1436-1447 (Fründ, 1469)","1",\N,\N,"FrH1469§"
+"165",\N,"165",\N,\N,"2","1","3","1","Frutiger","Johannes",\N,\N,\N,\N,\N,\N,\N,\N,"Kaufmann, Auswanderung nach Jerusalem, Jude, zum Christentum konvertiert","1",\N,\N,"FrJ0000"
+"166",\N,"166",\N,\N,"2","1","6","1","Fuchs (von Einsiedeln)","Nikolaus Ignaz ",\N,\N,"Einsiedeln",\N,\N,\N,\N,\N,"Major im Kgl. Englischem Dienste","2","na","0","FuNI0000"
+"167",\N,"167",\N,\N,"3","1","5","1","Fueter","Eduard",\N,"1876-01-01 00:00:00",\N,\N,"1928-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker (Geschichte der Schweiz, Westeuropas und der USA, Geschichte der Historiographie)","1",\N,\N,"FuE1876"
+"168",\N,"168",\N,\N,"1","1","2","1","Furrer","Jonas ",\N,"1805-01-01 00:00:00","Winterthur/Bad Ragaz",\N,"1861-01-01 00:00:00","Bad Ragaz","Winterthur, Switzerland",\N,"Dr. hon. Bürgermeister, Anwalt","4","64412774","0","FuJ1805"
+"169",\N,"169",\N,\N,"4","1","4","1","Füssli","Hans Heinrich",\N,"1745-01-01 00:00:00",\N,\N,"1832-01-01 00:00:00",\N,\N,\N,"Historiker für Vaterländische Geschichte","1",\N,\N,"FueHH1745"
+"170",\N,"170",\N,\N,"1","1","2","1","Füssli","Johann Jakob",\N,"1792-01-01 00:00:00","Zürich",\N,"1860-01-01 00:00:00",\N,\N,\N,"Wollishofen/Neumünster","1",\N,\N,"FueJJ1792"
+"171",\N,"171",\N,\N,"2","1","6","1","Füssli",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Oberst","2","na","0","Füssli0000"
+"172",\N,"172",\N,\N,"2","1","6","1","Füsslin","Christian Karl",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"FueCK0000"
+"173",\N,"173",\N,\N,"2","1","2","1","Füsslin","Johan Conrad",\N,"1704-01-01 00:00:00",\N,\N,"1775-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"FuJC1704"
+"174",\N,"174",\N,\N,"2","1","6","1","Füsslin","Johann Jacob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"FueJJ1646§"
+"175",\N,"175",\N,\N,"3","1","5","1","Gagrliardi","Ernst",\N,\N,\N,\N,\N,\N,\N,\N,"Schweizer Geschichte in 3 volumes (Universität Basel, 2010)","1",\N,\N,"GaExxxx"
+"176",\N,"176",\N,\N,"2","1","2","1","Galeer","Albert",\N,"1810-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"GaA1810"
+"177",\N,"177",\N,\N,"3","1","5","2","Gallati","Frieda",\N,"1876-01-01 00:00:00",\N,\N,"1955-01-01 00:00:00",\N,\N,\N,"Schweizer Historikerin","1",\N,\N,"GaF1876"
+"178",\N,"178",\N,\N,"2","1","2","1","Garibaldi","Giuseppe",\N,"1807-01-01 00:00:00",\N,\N,"1882-01-01 00:00:00","Caprera, Italy","Nizza, France",\N,"Garibaldi was an Italian freedom fighter. He was quite popular amongst radical-liberals in Switzerland.","4","100192194","0","GaG1807"
+"179",\N,"179",\N,\N,"3","1","5","1","Gasser","Adolf",\N,\N,\N,\N,\N,\N,\N,\N,"“genossenschaftlichkeit” (Universität Basel, 2010)","1",\N,\N,"GaAxxxx"
+"180",\N,"180",\N,\N,"3","1","5","1","Gelzer","Matthias",\N,"1886-01-01 00:00:00",\N,\N,"1974-01-01 00:00:00",\N,\N,\N,"Schweizer Althistoriker (Römische Geschichte)","1",\N,\N,"GeM1886"
+"181",\N,"181",\N,\N,"1","1","3","1","Gessner","Georg",\N,"1765-01-01 00:00:00",\N,\N,"1843-01-01 00:00:00",\N,\N,\N,"Pfarrer am Grossmünster, Antistes","1",\N,\N,"GeG1765"
+"182",\N,"182",\N,\N,"4","1","4","2","Gessner-Heidegger","Judith",\N,\N,\N,\N,\N,\N,\N,\N,"Biographer. Wife of Salomon Gessner 1730-1788.","1",\N,\N,"GeHeJ1765§"
+"183",\N,"183",\N,\N,"2","1","3","1","Glück","Christian Wilhelm, von",\N,\N,\N,\N,"1866-01-01 00:00:00",\N,\N,\N,"1866 Selbstmord","1",\N,\N,"GlCW0000"
+"184",\N,"184",\N,\N,"3","1","5","2","Glümer","Claire, von",\N,"1825-01-01 00:00:00",\N,\N,"1906-01-01 00:00:00","Blasewitz","Blankenburg, Harz",\N,"German writer and translator. Participated in the Dresden May Upheavel. publisches in Dittmar’s Die sociale Reform","4","77073936","0","GlC1825"
+"185",\N,"185",\N,\N,"2","1","3","2","Gobat","Marguerite",\N,"1870-01-01 00:00:00",\N,\N,"1937-01-01 00:00:00","Magglingen, Switzerland","Delsberg, Switzerland",\N,"Co-founder of the International Women's Organization.","4","D9304","0","GoM1870"
+"186",\N,"186",\N,\N,"2","1","2","2","Goegg-Pouchoulin","Marie",\N,"1826-01-01 00:00:00",\N,\N,"1899-01-01 00:00:00","na","na",\N,\N,"2","na","0","GoeM1826"
+"187",\N,"187",\N,\N,"2","1","3","1","Goethe","Johann Wolfgang",\N,"1749-01-01 00:00:00",\N,\N,"1832-01-01 00:00:00","Weimar","Frankfurt am Main, Germany",\N,"machte enthusiastische Reiseberichte über die ""wildromantische"" Schweiz","4","24602065","0","GoJW1749"
+"188",\N,"188",\N,\N,"2","1","3","1","Good","Franz Anton",\N,"1793-01-01 00:00:00",\N,\N,"1866-01-01 00:00:00","Mels, St. Gallen, Switzerland","Mels, St. Gallen, Switzerland",\N,\N,"4","D18268","0","GoFA1793"
+"189",\N,"189",\N,\N,"2","1","3","1","Gotthelf","Jeremias",\N,"1797-01-01 00:00:00",\N,\N,"1854-01-01 00:00:00","Lützelflüh, Switzerland","Murten, Switzerland",\N,"fromm-konservative Volksbewegung","4","49303093","0","GoJ 1797"
+"190",\N,"190",\N,\N,"3","1","5","2","Gouges ","Olympe, de",\N,"1748-01-01 00:00:00",\N,\N,"1793-01-01 00:00:00","Paris, France","Montauban, France",\N,"human rights (Gouges, n.d.) – special emphasis in education (Valls et al., 2002) (p. 41) – uncovers logical inconsistencies between a patriarchal society and the theory of natural law (Heinzelmann, 2007)(p. 82) – begin of the discourse that links violence, misogyny in the historiography of human rights, the problem of defining the subject of rights “person” (Cazés & Huerta Rojas, 2005) (p. 149) the mexican describes the actuality and urgency  of this question","2","na","0","GoO1748"
+"191",\N,"191",\N,\N,"2","1","2","1","Goumoëns","Rudolf Ludwig, von",\N,"1771-01-01 00:00:00","Bern",\N,"1839-01-01 00:00:00","Bern, Switzerland","Bern, Switzerland",\N,"Berner Hauptmann im Bockenkrieg","4","D23727","0","Goumoens1771"
+"192",\N,"192",\N,\N,"4","1","4","2","Gourd","Emilie",\N,"1879-01-01 00:00:00",\N,\N,"1946-01-01 00:00:00","Geneva, Switzerland","Geneva, Switzerland",\N,\N,"4","D9308","0","GoE 1879"
+"193",\N,"193",\N,\N,"2","1","2","1","Gräflein","Johann Melchior",\N,"1807-01-01 00:00:00",\N,\N,"1849-01-01 00:00:00","Weinfelden, Switzerland","Steckborn, Switzerland",\N,\N,"4","D5114","0","GrJM1807"
+"194",\N,"194",\N,\N,"2","1","5","1","Grasser","Johann Jacob ",\N,"1579-01-01 00:00:00",\N,\N,"1627-01-01 00:00:00",\N,\N,\N,"Schweitzerisch Heldenbuch – Reformation and counter reformation","1",\N,\N,"GrJJ1579"
+"195",\N,"195",\N,\N,"2","1","2","1","Greulich","Hermann",\N,"1842-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"GrH1842"
+"196",\N,"196",\N,\N,"2","1","3","1","Grob","R.",\N,\N,"Wallikoen, Pfäffikon",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","2","na","0","GrR0000"
+"197",\N,"197",\N,\N,"2","1","3","2","Grosholtz","Anna Maria ","Marie Tussaud","1761-01-01 00:00:00",\N,\N,"1850-01-01 00:00:00","London, England","Strassbourg",\N,\N,"4","96273854","0","GrAM1761"
+"198",\N,"198",\N,\N,"4","1","4","2","Grossmann","Elisabetha",\N,"1795-01-01 00:00:00",\N,\N,"1858-01-01 00:00:00",\N,\N,\N,"Biographer","1",\N,\N,"GrE1795"
+"199",\N,"199",\N,\N,"3","1","5","2","Grün","Albertine, von",\N,"1749-01-01 00:00:00",\N,\N,"1792-01-01 00:00:00","na","na",\N,"German poet.","2","na","0","GrA1749"
+"200",\N,"200",\N,\N,"1","1","2","1","Grunholzer","Heinrich",\N,"1819-01-01 00:00:00","Bauma (ZH)",\N,"1873-01-01 00:00:00",\N,\N,\N,"Sekundarlehrer, Seminardirektor, Industrieller","1",\N,\N,"GrH1819"
+"201",\N,"201",\N,\N,"2","1","3","1","Guard",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Guard0000"
+"202",\N,"202",\N,\N,"1","1","2","1","Gubler","Johannes",\N,"1807-01-01 00:00:00","Pfäffikon",\N,\N,\N,\N,\N,"unbekannt","1",\N,\N,"GuJ1807"
+"203",\N,"203",\N,\N,"3","1","5","1","Guex","Sébastien",\N,\N,\N,\N,\N,\N,\N,\N,"model of consensus…","1",\N,\N,"GueSxxxx"
+"204",\N,"204",\N,\N,"2","1","6","1","Gugelberg v. Moos","Ulisses",\N,\N,\N,\N,\N,\N,\N,\N,"Bündner im Regiment Roll","2","na","0","GvMU0000"
+"205",\N,"205",\N,\N,"2","1","3","2","Guillaume-Schack","Gertrud",\N,"1845-01-01 00:00:00",\N,\N,"1903-01-01 00:00:00","na","na",\N,\N,"4","233789078","0","GuG1845"
+"206",\N,"206",\N,\N,"1","1","2","1","Gujer","Heinrich",\N,"1801-01-01 00:00:00","Kempten/Bauma (ZH)",\N,"1868-01-01 00:00:00",\N,\N,\N,"Müller","1",\N,\N,"GuH1801"
+"207",\N,"207",\N,\N,"2","1","3","1","Gysi-Schinz","Heinrich",\N,"1803-01-01 00:00:00",\N,\N,"1878-01-01 00:00:00",\N,\N,\N,"Stadtrat, Präsident Stadtpolizei, Freemason","2","na","0","Gysi1803"
+"208",\N,"208",\N,\N,"4","1","4","2","Habsburg","Agnes, von","Agnes von Ungarn,","1281-01-01 00:00:00",\N,\N,"1364-01-01 00:00:00","Königsfelden","na",\N,\N,"4","15645841","0","HaA1281"
+"209",\N,"209",\N,\N,"3","1","5","1","Haller","Albrecht, von",\N,"1708-01-01 00:00:00",\N,\N,"1777-01-01 00:00:00",\N,\N,\N,"CH – opponent to Voltaire","1",\N,\N,"HaA1708"
+"210",\N,"210",\N,\N,"2","1","3","1","Haller, Seigneur de Goumoen","Albert",\N,"1808-01-01 00:00:00","Bern",\N,"1858-01-01 00:00:00","Chur, Switzerland","Bern, Switzerland",\N,"Berner Hauptmann im Bockenkrieg","1",\N,\N,"HSdGA1808"
+"211",\N,"211",\N,\N,"2","1","3","1","Hartmeyer","Hans Heinrich",\N,\N,"Mönchaltorf",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","2","na","0","HaHH0000"
+"212",\N,"212",\N,\N,"2","1","3","1","Hauser",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Hauser0000"
+"213",\N,"213",\N,\N,"2","1","3","1","Heer",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Dekan Phil. Fakultät","2","na","0","He0000"
+"214",\N,"214",\N,\N,"3","1","5","1","Hegel","Georg Willhelm Friedrich",\N,"1770-01-01 00:00:00",\N,\N,"1831-01-01 00:00:00","Berlin, Prussia","Stuttgart, Württemberg",\N,"unversal history","4","89774942","0","HeGWF1770"
+"215",\N,"215",\N,\N,"1","1","2","1","Hegetschweiler","Johannes",\N,"1789-01-01 00:00:00","Rifferswil/Stäfa",\N,"1839-01-01 00:00:00",\N,\N,\N,"Arzt, Naturwissenschaftler, Alpinist","1",\N,\N,"HeJ1789"
+"216",\N,"216",\N,\N,"2","1","1","1","Heidegger","Georg",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","HeG0000"
+"217",\N,"217",\N,\N,"2","1","3","1","Heilmann","Georg Friedrich",\N,"1785-01-01 00:00:00",\N,\N,"1862-01-01 00:00:00","Biel, Switzerland","Biel, Switzerland",\N,\N,"4","45199718","0","HeGF1785"
+"218",\N,"218",\N,\N,"4","1","4","2","Heim-Vögtlin","Marie",\N,"1845-01-01 00:00:00",\N,\N,"1916-01-01 00:00:00","Zürich, Switzerland","Bözen",\N,\N,"4","95186121","0","HeMoeM1845"
+"219",\N,"219",\N,\N,"2","1","1","1","Heiz","Johann Rudolf",\N,\N,"Albisrieden",\N,\N,"na","na",\N,"around 1846-1870","1",\N,\N,"HeJR0000"
+"220",\N,"220",\N,\N,"1","1","3","1","Herder","Felix",\N,"1741-01-01 00:00:00",\N,\N,"1810-01-01 00:00:00",\N,\N,\N,"Pfarrer Kirche zu Predigern 1810","1",\N,\N,"HeF1741"
+"221",\N,"221",\N,\N,"3","1","5","1","Herder","Johann Gottfried",\N,"1744-01-01 00:00:00",\N,\N,"1803-01-01 00:00:00","Weimar, Saxe-Weimar","Mohrungen, East Prussia, Kingdom of Prussia",\N,"„romantisch-nationale Geschichtsauffassung“ (Tuchtenhagen, 2011) (p. 44)","4","95187266","0","HeJG1744"
+"222",\N,"222",\N,\N,"2","1","3","1","Hermann","Nicolaus",\N,"1818-01-01 00:00:00",\N,\N,"1888-01-01 00:00:00","Sachseln, Switzerland","Sachseln, Switzerland",\N,\N,"4","232589443","0","HeN1818"
+"223",\N,"223",\N,\N,"3","1","5","1","Herrliberger","David",\N,"1697-01-01 00:00:00",\N,\N,"1777-01-01 00:00:00",\N,\N,\N,"Zürcher Kupferstechers. «Neue und vollständige Topographie der Eidgnossschaft» des ","2","na","0","HeD1697"
+"224",\N,"224",\N,\N,"4","1","4","2","Herwegh-Siegmund","Emma",\N,"1817-01-01 00:00:00",\N,\N,"1904-01-01 00:00:00","Paris, France","Magdeburg",\N,"historiography of the French revolutions (E. Herwegh, 1849) and its influence on men like Wedekind (Krausnick, 2013) – women’s rights (E. Herwegh, 1998) – political orientation in letters with her husband (G. Herwegh & Herwegh, 1898) - more in (Wedel, 2010) (p. 335) - ","4","10605395","0","HeSiE1817"
+"225",\N,"225",\N,\N,"3","1","5","2","Herz","Henriette (Julie) ",\N,"1764-01-01 00:00:00","Berlin",\N,"1847-01-01 00:00:00",\N,\N,\N,"– salonnière in Berlin – expects reconstitution of (natural) liberal rights in the beginning of French Revolution and suffers great deception (Vahsen, 2000) (p. 50) – they see the cause of the brutalisation of the revolution in the change of the revolutionary leaders and the building of parties (especially the Jacobin lobby making) instead of being led by virtue. – she belongs to a rather conservative anti-revolutionary opinion","1",\N,\N,"HeHJ1764"
+"226",\N,"226",\N,\N,"2","1","3","2","Herzl","Henriette (Julie)",\N,"1764-01-01 00:00:00",\N,\N,"1847-01-01 00:00:00","na","na",\N,\N,"2","na","0","HeHJ1764"
+"227",\N,"227",\N,\N,"2","1","3","1","Herzl","Theodor",\N,"1860-01-01 00:00:00",\N,\N,"1904-01-01 00:00:00","Edlach, Austria-Hungary","Budapest, Kingdom of Hungary",\N,\N,"4","76317061","0","HeT1860"
+"228",\N,"228",\N,\N,"2","1","3","1","Hess","Johann Caspar",\N,"1793-01-01 00:00:00",\N,\N,"1858-01-01 00:00:00",\N,\N,\N,"Briefwechsel mit Conrad Ferdinand Meyer, married with Anna Maria Corrodi","1",\N,\N,"HeJC1793"
+"229",\N,"229",\N,\N,"1","1","2","1","Hess","Johann Jakob",\N,"1791-01-01 00:00:00","Zürich",\N,"1857-01-01 00:00:00",\N,\N,\N,"Bürgermeister, Präsident des Polizeirates","1",\N,\N,"HeJJ1791"
+"230",\N,"230",\N,\N,"1","1","3","1","Hess","Salomon",\N,"1763-01-01 00:00:00",\N,\N,"1837-01-01 00:00:00",\N,\N,\N,"Diacon St. Peter","1",\N,\N,"HeS1763"
+"231",\N,"231",\N,\N,"1","1","1","2","Heusser-Schweizer","Anna Margaretha Barbara (Meta)",\N,"1797-01-01 00:00:00","Zürich",\N,"1876-01-01 00:00:00","Hirzel, Zürich, Switzerland","Hirzel, Zürich, Switzerland",\N,"Arztfrau und Dichterin","4","20440576","0","HeM1797"
+"232",\N,"232",\N,\N,"2","1","5","2","Hildegard",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Princess Abbess of the Imperial Abbey of Fraumünster (Zürich). Received the abbey as a donation from her father Louis the German, grandson of Charlemagne.","1",\N,\N,"Hi853§"
+"233",\N,"233",\N,\N,"2","1","3","1","Hilty","Carl",\N,"1833-01-01 00:00:00",\N,\N,"1909-01-01 00:00:00","Clarens, Switzerland","Grabs, Switzerland",\N,\N,"4","3265317","0","HiC 1833"
+"234",\N,"234",\N,\N,"1","1","1","1","Hirzel","Bernhard",\N,"1807-01-01 00:00:00","Pfäffikon (ZH)",\N,"1847-01-01 00:00:00","Paris, France","Enge, Zürich, Switzerland",\N,"Pfarrer, Theologe, Orientalist","4","776315","0","HiB1807"
+"235",\N,"235",\N,\N,"1","1","2","1","Hirzel","Conrad Melchior",\N,"1793-01-01 00:00:00","Zürich",\N,"1843-01-01 00:00:00",\N,\N,\N,"Bürgermeister   , Onkel von Bernhard Hirzel","1",\N,\N,"HiCM1793"
+"236",\N,"236",\N,\N,"1","1","3","1","Hirzel","Hans Caspar",\N,"1751-01-01 00:00:00",\N,\N,"1817-01-01 00:00:00",\N,\N,\N,"Stadtarzt","1",\N,\N,"HiHC1751"
+"237",\N,"237",\N,\N,"2","1","3","1","Hirzel","Hans Caspar",\N,"1798-01-01 00:00:00",\N,\N,"1866-01-01 00:00:00",\N,\N,\N,"Professor of Philosophy in the Carolinum. 1866 suicide, possibly because of bankrupcy.","4","81755492","0","HiHC1798"
+"238",\N,"238",\N,\N,"2","1","3","1","Hirzel","Johannes",\N,"1749-01-01 00:00:00",\N,\N,"1813-01-01 00:00:00",\N,\N,\N,"Grossvater Bernhards","1",\N,\N,"HiJC1749"
+"239",\N,"239",\N,\N,"2","1","2","1","Hirzel","Johannes",\N,"1803-01-01 00:00:00",\N,\N,"1865-01-01 00:00:00",\N,\N,\N,"Tuscher, Presser, Bruder von Bernhard","1",\N,\N,"HiJ1803"
+"240",\N,"240",\N,\N,"2","1","2","1","Hirzel","Ludwig",\N,"1801-01-01 00:00:00",\N,\N,"1841-01-01 00:00:00",\N,\N,\N,"Professor Prof. Theologie","1",\N,\N,"HiL1801"
+"241",\N,"241",\N,\N,"1","1","3","1","Hirzel","Salomon",\N,"1719-01-01 00:00:00",\N,\N,"1791-01-01 00:00:00",\N,\N,\N,"Oberst","1",\N,\N,"HiS1719"
+"242",\N,"242",\N,\N,"1","1","3","1","Hirzel","Salomon",\N,"1727-01-01 00:00:00",\N,\N,"1818-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"HiS1727"
+"243",\N,"243",\N,\N,"1","1","3","1","Hirzel","Salomon",\N,"1762-01-01 00:00:00",\N,\N,"1833-01-01 00:00:00",\N,\N,\N,"Offizier in französischen Diensten","1",\N,\N,"HiS1762"
+"244",\N,"244",\N,\N,"2","1","2","1","Hirzel","Salomon",\N,"1790-01-01 00:00:00",\N,\N,"1844-01-01 00:00:00",\N,\N,\N,"Oberstartillerieinspektor",\N,\N,"1","HiS1790"
+"245",\N,"245",\N,\N,"1","1","2","1","Hirzel","Salomon",\N,"1804-01-01 00:00:00",\N,\N,"1877-01-01 00:00:00",\N,\N,\N,"Verlagsbuchhändler in Leibzig","1",\N,\N,"HiS1804"
+"246",\N,"246",\N,\N,"1","1","3","1","Hirzel ","Heinrich",\N,"1766-01-01 00:00:00",\N,\N,"1840-01-01 00:00:00",\N,\N,\N,"Theologieprofessor","1",\N,\N,"HiH1766"
+"247",\N,"247",\N,\N,"2","1","2","2","Hirzel-Bürkli","Anna Margaretha",\N,\N,\N,\N,"1816-01-01 00:00:00","na","na",\N,"Schwester von Bernhard","2","na","0","HiA1801*"
+"248",\N,"248",\N,\N,"2","1","3","1","Hirzel-Bürkli","Johannes",\N,"1776-01-01 00:00:00",\N,\N,"1884-01-01 00:00:00",\N,\N,\N,"Tuchhändler, Vater von Bernhard","1",\N,\N,"HiJ1776"
+"249",\N,"249",\N,\N,"2","1","3","2","Hirzel-Bürkli","Margaretha",\N,"1778-01-01 00:00:00",\N,\N,"1851-01-01 00:00:00","na","na",\N,"Mutter von Bernhard","2","na","0","HiM1778"
+"250",\N,"250",\N,\N,"1","1","2","1","Hirzel-Escher","Hans Caspar",\N,"1800-01-01 00:00:00",\N,\N,"1883-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"HiHC1800"
+"251",\N,"251",\N,\N,"2","1","2","1","Hirzel-Escher","Johann Caspar",\N,"1792-01-01 00:00:00",\N,\N,"1851-01-01 00:00:00",\N,\N,\N,"Regierungsrat","1",\N,\N,"HiJC1792"
+"252",\N,"252",\N,\N,"1","1","2","1","Hofmann","Johannes",\N,"1820-01-01 00:00:00","Kloten",\N,\N,\N,\N,\N,"Tischler-Lehrling in Zürich","1",\N,\N,"HoJ1820"
+"253",\N,"253",\N,\N,"3","1","5","2","Holst","Amalia",\N,"1758-01-01 00:00:00",\N,\N,"1829-01-01 00:00:00","na","na",\N,"She was a German writer, intellectual, and feminist. Her work examined traditional pedagogy and challenged Enlightenment writers such as Jean-Jacques Rousseau. She is often called the German counterpart to Mary Wollstonecraft (Wikipedia).","2","na","0","HoA1758"
+"254",\N,"254",\N,\N,"2","1","3","2","Honegger","Elise",\N,"1839-01-01 00:00:00",\N,\N,"1912-01-01 00:00:00","Rotmonten, St. Gallen, Switzerland","Stäfa, Zürich, Switzerland",\N,"corrector and co-editor of the ""Republican""","4","295678702","0","HoE1839"
+"255",\N,"255",\N,\N,"2","1","3","1","Hottinger","Johann Jakob",\N,"1652-01-01 00:00:00",\N,\N,"1735-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,\N,"4","D10680","0","HoJJ1652"
+"256",\N,"256",\N,\N,"3","1","5","1","Hottinger",\N,\N,"1783-01-01 00:00:00",\N,\N,"1860-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Professor of philology at the Carolinum in Zürich. Vizepräsident Erziehungsrat. since 1749 Schweizer Monatchronik – modern version of chronicle (Schweizerische monats-chronik, Volumes 13-14 (Google eBook), 1828) redigiert by Johann Jakob Hottinger","4","19835905","0","Ho1783"
+"257",\N,"257",\N,\N,"2","1","3","1","Hotz",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Ho0000"
+"258",\N,"258",\N,\N,"3","1","5","2","Huber","Therese",\N,"1764-01-01 00:00:00",\N,\N,"1829-01-01 00:00:00","Augsburg","Heyne, Göttingen",\N,"was a German author. She was one of the so-called Universitätsmamsellen, a group of five academically active women during the 18th-and 19th century, daughters of academics on Göttingen University, alongside Meta Forkel-Liebeskind, Caroline Schelling, Philippine Engelhard, and Dorothea Schlözer.","4","29584708","0","HuT1764"
+"259",\N,"259",\N,\N,"2","1","3","1","Huber",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Hu0000"
+"260",\N,"260",\N,\N,"3","1","5","2","Huch","Riccarda",\N,"1864-01-01 00:00:00",\N,\N,"1947-01-01 00:00:00","na","na",\N,"also pseudonym Richard Hugo - Der Bundesschwur. Lustspiel mit Benutzung der historischen Ereignisse in der schweizerischen Eidgenossenschaft vom Jahre 1798. Zürich 1890 [11] (veröffentlicht unter dem Namen Richard Hugo) - Die Hugenottin. Historische Novelle. In: Schweizerische Rundschau 1892; als Buch Bern 1932 - Die Neutralität der Eidgenossenschaft besonders der Orte Zürich und Bern während des spanischen Erbfolgekrieges. Diss. Zürich 1892 - Der große Krieg in Deutschland, historischer Roman. Bd. 1-3. Leipzig 1912-1914 (neu hg. als: Der Dreißigjährige Krieg, Leipzig 1929). - Jeremias Gotthelfs Weltanschauung. Vortrag. Bern 1917 - Alte und neue Götter (1848). Die Revolution des 19. Jahrhunderts in Deutschland. Berlin und Zürich 1930 (später als: 1848. Die Revolution des 19. Jahrhunderts in Deutschland. 1948) - Deutsche Geschichte. 1934-49 - Römisches Reich Deutscher Nation. Bd. 1. Berlin 1934 - Das Zeitalter der Glaubensspaltung. Bd. 2. Zürich 1937 - Untergang des Römischen Reiches Deutscher Nation. Bd. 3. Zürich 1949 - Frühling in der Schweiz. Autobiographische Darstellung. Zürich 1938 --> Swiss neutrality","2","na","0","HuR1864"
+"261",\N,"261",\N,\N,"2","1","5","1","Hume","David",\N,"1711-01-01 00:00:00",\N,\N,"1777-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"HuD1711"
+"262",\N,"262",\N,\N,"2","1","3","1","Hüni",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Hue 0000"
+"263",\N,"263",\N,\N,"2","1","3","1","Hüni",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Hüni0000"
+"264",\N,"264",\N,\N,"5","1","2","1","Grob","Konrad  ",\N,\N,\N,\N,\N,\N,\N,\N,"Grob found Siegwart-Müller interesting","1",\N,\N,"GrKxxxx"
+"265",\N,"265",\N,\N,"5","1","2","2","Kravogel","Theresia",\N,\N,\N,\N,\N,\N,\N,\N,"Siegwart-Müller hided in Kravogel's house from 23.12.1847-23.7.1848","1",\N,\N,"KrTxxxx"
+"266",\N,"266",\N,\N,"1","1","2","1","Hürlimann-Landis","Johann Jakob",\N,"1796-01-01 00:00:00","Richterswil",\N,"1853-01-01 00:00:00",\N,\N,\N,"Fabrikant","1",\N,\N,"HueJJ1796"
+"267",\N,"267",\N,\N,"3","1","5","1","Im Hof","Ulrich",\N,"1917-01-01 00:00:00",\N,\N,"2001-01-01 00:00:00",\N,\N,\N,"Swiss historian","1",\N,\N,"IHoU1917"
+"268",\N,"268",\N,\N,"3","1","5","1","Iselin","Isaak",\N,"1728-01-01 00:00:00",\N,\N,"1782-01-01 00:00:00",\N,\N,\N,"Schweizer Geschichtsphilosoph und Publizist","1",\N,\N,"IsI1728"
+"269",\N,"269",\N,\N,"3","1","5","1","Iselin","Johann Rudolf",\N,"1764-01-01 00:00:00",\N,\N,"1829-01-01 00:00:00",\N,\N,\N,"first publication of Aegidius Tschudi’s Wilhelm Tell saga (1734/36)","4","29584708","0","IsJR1764"
+"270",\N,"270",\N,\N,"2","1","6","1","Isler","Bernhard",\N,\N,\N,\N,\N,\N,\N,\N,"Lieutenant in napoleonischen Diensten","2","na","0","IsB0000"
+"271",\N,"271",\N,\N,"2","1","3","1","Jacobi","Friedrich Heinrich",\N,"1743-01-01 00:00:00",\N,\N,"1819-01-01 00:00:00",\N,\N,\N,"Idol der Radikalen","1",\N,\N,"JaFH1743"
+"272",\N,"272",\N,\N,"3","1","5","1","Janssen","Johannes",\N,"1829-01-01 00:00:00",\N,\N,"1891-01-01 00:00:00",\N,\N,\N,"Geschichte des Deutschen Volkes seit dem Ausgang des Mittelalters","1",\N,\N,"JaJ1829"
+"273",\N,"273",\N,\N,"2","1","2","1","Jomini","Antoine-Henri",\N,"1779-01-01 00:00:00",\N,\N,"1869-01-01 00:00:00","Passy, Paris, France","Peyern, Switzerland",\N,\N,"4","95148526","0","JoAH1779"
+"274",\N,"274",\N,\N,"2","1","3","1","Jorio","Marco",\N,\N,\N,\N,\N,\N,\N,\N,"restaurativer Ultra in Luzern","2","na","0","JoM0000"
+"275",\N,"275",\N,\N,"1","1","2","1","Jucker","Jakob",\N,"1786-01-01 00:00:00","Bauma (ZH)/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"sehr arm, arbeitet auf Hof des Vaters","1",\N,\N,"JuJ1786"
+"276",\N,"276",\N,\N,"2","1","6","1","Jullien*","A.",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","JuA0000"
+"277",\N,"277",\N,\N,"3","1","5","1","Kaegi","Werner",\N,"1901-01-01 00:00:00",\N,\N,"1979-01-01 00:00:00",\N,\N,\N,"emphasized importance of the “Kleinstaat”, legends about Swiss origin and unity (Universität Basel, 2010) (Vgl. Werner Kaegi: Der Kleinstaat im europäischen  Denken (Juli 1938); Die Rheingrenze in der Geschichte Alemanniens (April 1940); Entstehung der Nationen (Mai/November 1940) erschienen im Sammelband: Historische Medidationen (Bd.I). Zürich 1942.)","1",\N,\N,"KaeW1901"
+"278",\N,"278",\N,\N,"1","1","3","1","Kägi","Jakob",\N,"1783-01-01 00:00:00","Bauma (ZH)/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"Viehloser Bauer, Baumwollspinner, Kleinhändler, sehr arm","1",\N,\N,"KaeJ1783"
+"279",\N,"279",\N,\N,"2","1","6","1","Kägi","Johann Jakob",\N,\N,"Fälmis, Bauma (ZH)",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","2","na","0","KaeJJ0000"
+"280",\N,"280",\N,\N,"1","1","2","1","Kägi","Johannes",\N,"1816-01-01 00:00:00","Bauma (ZH)/ ",\N,\N,\N,\N,\N,"Blattmacher","1",\N,\N,"KaeJ1816"
+"281",\N,"281",\N,\N,"3","1","5","1","Kant","Immanuel",\N,"1724-01-01 00:00:00","wrote allgemeine Geschichte (1784)",\N,"1804-01-01 00:00:00","Königsberg, Germany","Königsberg, Germany",\N,\N,"4","82088490","0","KaI1724"
+"282",\N,"282",\N,\N,"2","1","3","1","Keller","Augustin",\N,"1805-01-01 00:00:00",\N,\N,"1883-01-01 00:00:00","Lenzburg, Swizterland","Sarmenstorf, Switzerland",\N,"antiklerikaler katholischer Grossrat im Aargau, hub die Klöster auf und verstösst dadurch gegen Bundesvertrag","4","15564360","0","KeA1805"
+"283",\N,"283",\N,\N,"3","1","5","1","Keller","Ferdinand",\N,\N,\N,\N,\N,\N,\N,\N,"extension of history through into the megalithic period Pfahlbauer theory by Ferdinan Keller (F. Keller, 1854, 1858, 1860, 1861, 1863, 1866, 1876, 1879) – archeology (F. Keller, 1874) architecture (F. Keller, 1838, 1841, 1844b) as part of historiography – contacts with Islamic cultures (F. Keller, 1856) in Zürich – Helvetii pagan culture (F. Keller, 1844a, 1846, 1869)","1",\N,\N,"KeF 0000"
+"284",\N,"284",\N,\N,"3","1","5","1","Keller","Gottfried",\N,"1819-01-01 00:00:00",\N,\N,"1890-01-01 00:00:00","Zürich","Zürich",\N,"Swiss poet. Historiographer. Wrote Der Landvogt von Greifensee","4","102319551","0","KeG1819"
+"285",\N,"285",\N,\N,"1","1","2","1","Keller   ","Heinrich",\N,"1798-01-01 00:00:00","Turbental",\N,\N,\N,\N,\N,"unbekannt","1",\N,\N,"KeH1798"
+"286",\N,"286",\N,\N,"1","1","2","1","Keller vom Steinbock (Dr.)","Friedrich Ludwig",\N,"1799-01-01 00:00:00","Zürich/Berlin",\N,"1860-01-01 00:00:00","Berlin","Zürich, Switzerland",\N,\N,"4","39718875","0","KeFL1799"
+"287",\N,"287",\N,\N,"4","1","4","2","Kempin-Spyri","Emilie",\N,"1853-01-01 00:00:00",\N,\N,"1901-01-01 00:00:00","na","na",\N,\N,"2","na","0","KeSpE1853"
+"288",\N,"288",\N,\N,"3","1","5","1","Klopp","Onno",\N,"1822-01-01 00:00:00",\N,\N,"1903-01-01 00:00:00",\N,\N,\N,"ultramontane, historiographer","1",\N,\N,"KlO1822"
+"289",\N,"289",\N,\N,"3","1","5","2","Knab","Susanna Barbara",\N,\N,\N,\N,\N,"na","na",\N,\N,"2","na","0","KnSB0000"
+"290",\N,"290",\N,\N,"3","1","5","1","König","Paul",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"KoePxxxx"
+"291",\N,"291",\N,\N,"2","1","2","1","Kopp","Josef Eutych",\N,"1782-01-01 00:00:00",\N,\N,"1851-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"KoJE1782"
+"292",\N,"292",\N,\N,"2","1","3","1","Kopp",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Ko0000"
+"293",\N,"293",\N,\N,"2","1","3","1","Kosciusko","Tadeusz",\N,"1746-01-01 00:00:00","Solothurn",\N,"1817-01-01 00:00:00","Solothurn, Switzerland","Polish–Lithuanian Commonwealth",\N,"Politischer Flüchtling aus Polen in Solothurn","4","61554270","0","KoT1746"
+"294",\N,"294",\N,\N,"1","1","6","1","Kramer","Karl ",\N,\N,"Pfäffikon (ZH), aus Sachsen",\N,\N,\N,\N,\N,"erster Sekundarlehrer in Pfäffikon","1",\N,\N,"KrK0000"
+"295",\N,"295",\N,\N,"2","1","3","1","Krauer",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Krauer0000"
+"296",\N,"296",\N,\N,"3","1","5","1","Kreis","Georg",\N,"1943-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Swiss historian","1",\N,\N,"KrG1943"
+"297",\N,"297",\N,\N,"1","1","2","1","Kreis","Heinrich",\N,"1809-01-01 00:00:00","Wila/",\N,\N,\N,\N,\N,"Taglöhner und Weber","1",\N,\N,"KrH1809"
+"298",\N,"298",\N,\N,"2","1","3","1","Kündig","Felix",\N,\N,"Altlandenberg",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","1",\N,\N,"KueF0000"
+"299",\N,"299",\N,\N,"2","1","3","1","Kündig","Jakob",\N,\N,"Grüningen",\N,\N,\N,\N,\N,\N,"1",\N,\N,"KueJ0000"
+"300",\N,"300",\N,\N,"2","1","2","1","Kunz","Heinrich",\N,"1793-01-01 00:00:00","Oetwil am See",\N,"1859-01-01 00:00:00",\N,\N,\N,"der Europäische ""Spinnerkönig""","1",\N,\N,"KuH1793"
+"301",\N,"301",\N,\N,"2","1","3","2","Kurz","Gertrud",\N,"1890-01-01 00:00:00",\N,\N,\N,"na","na",\N,\N,"2","na","0","KuG1890"
+"302",\N,"302",\N,\N,"3","1","5","1","Kurz","Hans Rudolf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"KuHRxxxx"
+"303",\N,"303",\N,\N,"3","1","5","1","Küstner","Johann",\N,\N,\N,\N,\N,\N,\N,\N,"publisches in Dittmar’s Die sociale Reform (Wikipedia)","1",\N,\N,"KueJ0000"
+"304",\N,"304",\N,\N,"2","1","3","2","Küstner","Johanna","Küstner-Fröbel",\N,"Dresden",\N,"1888-01-01 00:00:00","na","na",\N,\N,"4","25032888","0","KueJ1820*"
+"305",\N,"305",\N,\N,"2","1","2","1","La Harpe","Frédéric-César, de",\N,"1754-01-01 00:00:00","Rolle/Lausanne",\N,"1838-01-01 00:00:00",\N,\N,\N,"Politiker, Erzieher des Zaren Alexander I.","1",\N,\N,"HaFC1754"
+"306",\N,"306",\N,\N,"3","1","5","2","La Roche","Sophie, von","born Gutermann von Gutershofen","1730-01-01 00:00:00",\N,\N,"1807-01-01 00:00:00","Offenbach am Main","Kaufbeuren",\N,"Salonnière - Tagebuch einer Reise durch die Schweiz -  (Roche & Menges, 1787)- -Erinnerungen aus meiner dritten Schweizerreise (Roche, 1793)-  Journal einer Reise durch Frankreich (Roche, 1787) -Tagebuch einer Reise durch Holland und England(Roche, 1788) - Reise von Offenbach nach Weimar und Schönebeck (Roche, 1800) (Vahsen, 2000) – kann als „historisch [...] Quellensammlung gesehen werden (Loster-Schneider, 1995)(p. 293) – the selective education (gender oriented) (Goozé, 2007) (p. 23 ff) this is also the issue of Walle’s article – the problematic balance between giving the knowledge to grow an agreable social partner and the careful limitation of this knowledge in order to deter them to become intelectual competition (Walle, 1992) – importance of the reception of Rousseau in femal writers like La Roche (von Felden, 1997) – “Dilletantisums-Debate” 1800 and Trivialliteratur (von Felden, 1997) – the general aceptance of the Roussian view about women based on following: in their subjective interpretration women connect Rousseau with the concept of „Eigensinn“ and “Selbstbestimmung”, the identification of the virtue discourse (Tugendiskurs) with reason (to be rational is to be virtuous), he values sentiment bat also is dangerous because “Verführer zur Leidenschaft”, “Gefühl und Empfindsamkeit”, French sensualism, English moral-sense in relation with natural law as part of Enlightment motives – balance between heart and mind and self-perfection, the combination between personal strive for happiness and common good, temperance, but reject part of his literature as too passionate, his educational model is adopted, the specific distinction between male and female education is not reflected in the reception (except Ehrmann), goals to be virtous, self-confident and natural, rational and not to passionate but sensitive – reception is not unreflected","4","36932939","0","LaRoS1730"
+"307",\N,"307",\N,\N,"2","1","2","2","La Rochefoucauld de Roucy","Marie-Charlotte, de ","von Stein",\N,\N,\N,"1797-01-01 00:00:00","na","na",\N,"Abesse of Chateau-Chalon","2","na","0","LRodRoMC1780*"
+"308",\N,"308",\N,\N,"1","1","2","1","Landolt","Johann Heinrich",\N,"1792-01-01 00:00:00",\N,\N,"1847-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"LaJH1792"
+"309",\N,"309",\N,\N,"2","1","6","1","Landolt","Johannes",\N,\N,\N,\N,\N,\N,\N,\N,"Oberst","2","na","0","LaJ 0000"
+"310",\N,"310",\N,\N,"1","1","2","1","Lattmann","Hans Jakob",\N,"1814-01-01 00:00:00","Bauma (ZH)/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"arm","1",\N,\N,"LaHJ1814"
+"311",\N,"311",\N,\N,"2","1","3","1","Lavater","Johann Kaspar",\N,"1741-01-01 00:00:00",\N,\N,"1801-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Staatsschreiber","4","27067242","0","Lavater1741"
+"312",\N,"312",\N,\N,"2","1","3","1","Lerber","Beat Rudolf, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"LeBRxxxx"
+"313",\N,"313",\N,\N,"3","1","5","1","Lessing","Gotthold Ephraim",\N,"1729-01-01 00:00:00",\N,\N,"1781-01-01 00:00:00","Braunschweig, Germany","Kamenz, Germany",\N,"Artikel der Vossischen Zeitung","4","9849550","0","LeGE1729"
+"314",\N,"314",\N,\N,"2","1","3","1","Lessing",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Spion, politischer Flüchtling","2","na","0","Le  0000"
+"315",\N,"315",\N,\N,"2","1","3","1","Leu","Josef",\N,"1800-01-01 00:00:00","Ebersol",\N,"1845-01-01 00:00:00","Unter-Ebersol, Luzern, Switzerland","Unter-Ebersol, Luzern, Switzerland",\N,"Leader of the peasants in Sursee.","4","6893863","0","LeJ1800"
+"316",\N,"316",\N,\N,"3","1","5","2","Lewald","Fanny",\N,"1811-01-01 00:00:00",\N,\N,"1889-01-01 00:00:00","Dresden, Germany","Königsberg, Prussia",\N,"DE –history as autobiography, includes the importance of education  (Lewald, 1861, 1862b, 1992), and novel (Lewald, 1845), - political questions about womens rights and social class (Gesinde im 18. Jahrhundert, 1995; Lewald, 1862a, 1864)","4","59217212","0","LeF1811"
+"317",\N,"317",\N,\N,"1","1","6","1","Lienhart","Jakob",\N,\N,"Teufen",\N,\N,\N,\N,\N,"Kuhbauer?","1",\N,\N,"LiJ0000"
+"318",\N,"318",\N,\N,"2","1","3","2","Linsi","Anna Barbara",\N,\N,"Irgenhausen",\N,\N,"na","na",\N,"Gichteler (Neugläubiger)","2","na","0","LiAB0000"
+"319",\N,"319",\N,\N,"2","1","2","1","Liszt","Franz",\N,"1811-01-01 00:00:00",\N,\N,"1886-01-01 00:00:00","Bayreuth, Germany","Raiding, Austria",\N,"Hungarian musician","4","64199483","0","LiF1811"
+"320",\N,"320",\N,\N,"5","1","2","2","Wagner-Liszt","Francesca Gaetana Cosima",\N,"1837-01-01 00:00:00",\N,\N,"1930-01-01 00:00:00",\N,\N,\N,"Daughter of Franz Liszt, second wife of Richard Wagner","4","39385271","0","LiC1837"
+"321",\N,"321",\N,\N,"2","1","2","1","Locher-Oerli","Johann Jakob",\N,"1806-01-01 00:00:00",\N,\N,"1861-01-01 00:00:00",\N,\N,\N,"Bauherr der Stadt Zürich, initiativer Unternehmer","1",\N,\N,"LoJJ1806"
+"322",\N,"322",\N,\N,"2","1","3","1","Lotti","Giacomo Angelo",\N,"1759-01-01 00:00:00",\N,\N,"1814-01-01 00:00:00","Bellinzona, Ticino, Switzerland","Bignasco, Ticino, Switzerland",\N,\N,"4","308749522","0","LoGA1759"
+"323",\N,"323",\N,\N,"2","1","3","1","Louis Philippe I.",\N,\N,"1773-01-01 00:00:00",\N,\N,"1850-01-01 00:00:00","Claremont House, Surrey, England","Paris",\N,"Koown as the ""Citizen-King"" of France, last King of France.","4","55392984","0","LoPhI1773"
+"324",\N,"324",\N,\N,"2","1","3","1","Ludwig XVI.",\N,\N,"1754-01-01 00:00:00",\N,\N,"1793-01-01 00:00:00","Paris","Versailles",\N,"König von Frankreich, guilliutiniert, bruder von Karl X.","4","212882453","0","LuXVI1754"
+"325",\N,"325",\N,\N,"3","1","5","1","Lüthy","Herber",\N,"1918-01-01 00:00:00",\N,\N,"2002-01-01 00:00:00",\N,\N,\N,"Swiss historian","1",\N,\N,"LueH1918"
+"326",\N,"326",\N,\N,"3","1","5","1","Maag","Albert",\N,"1862-01-01 00:00:00",\N,\N,"1929-01-01 00:00:00","Basel, Switzerland","Bern, Switzerland",\N,\N,"4","7760616","0","MaA1862"
+"327",\N,"327",\N,\N,"2","1","3","1","Maillard ","J. P.",\N,\N,\N,\N,\N,\N,\N,\N,"Lieutenant in napoleonischen Diensten","2","na","0","MaJP0000"
+"328",\N,"328",\N,\N,"2","1","2","1","Maillardoz","Philippe",\N,"1783-01-01 00:00:00","Fribourg",\N,"1853-01-01 00:00:00","Fribourg, Switzerland","Fribourg, Switzerland",\N,\N,"4","D6036","0","MaP1783"
+"329",\N,"329",\N,\N,"2","1","6","1","Maillefer","Jean-David",\N,\N,"probabely Vaud",\N,\N,\N,\N,\N,"Lieutenant in napoleonischen Diensten","2","na","0","MaJD0000"
+"330",\N,"330",\N,\N,"3","1","5","1","Maissen","Thomas",\N,"1962-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Schweizer Historiker (vor allem Frühe Neuzeit)","1",\N,\N,"MaT1962"
+"331",\N,"331",\N,\N,"3","1","5","1","Mallet","Edouard",\N,"1805-01-01 00:00:00",\N,\N,"1856-01-01 00:00:00","Geneva, Switzerland","Ferney, Switzerland",\N,"Mallet’s differentiation of three types of historiography “Den Büchergelehrten, den Bildungsreisenden und den Reichshistoriographen” (Tuchtenhagen, 2011) (p. 41)","4","35214986","0","MaE1805"
+"332",\N,"332",\N,\N,"2","1","3","1","Marc","Edmond",\N,\N,"France",\N,\N,\N,\N,\N,"reports about his experiences during the July Revolution in his book Mes journées de juillet 1830 .","2","na","0","MaE0000"
+"333",\N,"333",\N,\N,"1","1","2","1","Marthaler","Conrad  ",\N,"1805-01-01 00:00:00","Oberhasle/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"Bauernknecht, arm","1",\N,\N,"MaC1805"
+"334",\N,"334",\N,\N,"2","1","3","1","Marx","Karl",\N,"1818-01-01 00:00:00",\N,\N,"1883-01-01 00:00:00","London","Trier, Prussia",\N,"freut sich zu früh über den sieg der liberalen in CH, in der Adressenbewegung von Brüssel aus (Maissen, 199)","4","49228757","0","MaK1818"
+"335",\N,"335",\N,\N,"3","1","5","1","Mattmüller","Markus ",\N,"1928-01-01 00:00:00",\N,\N,"2003-01-01 00:00:00",\N,\N,\N,"Swiss historian","1",\N,\N,"MaM1928"
+"336",\N,"336",\N,\N,"2","1","3","1","May","Eduard",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","MaExxxx"
+"337",\N,"337",\N,\N,"2","1","1","2","May (von Rüed)","Julie, von","born von May von Belletruche","1808-01-01 00:00:00",\N,\N,"1875-01-01 00:00:00","Belletruche*, Switzerland","Bern, Switzerland",\N,"[She] was a Swiss feminist. In 1868, she became the chairperson of the first women's organisation in Switzerland: Association internationale des femmes. She supported women suffrage, but focused on Equality before the law. She has been counted as the perhaps most leading feminist of her country in her generation alongside Marie Goegg-Pouchoulin. (Wikipedia)","4","308694648","0","MvRJ1808"
+"338",\N,"338",\N,\N,"2","1","3","1","Mazzini","Giuseppe",\N,"1805-01-01 00:00:00",\N,\N,"1872-01-01 00:00:00","Pisa, Italy","Genua, Italy",\N,"Mazzini was member of the Carboneri","4","2498020","0","MaG1805"
+"339",\N,"339",\N,\N,"1","1","2","1","Meier","Heinrich",\N,"1814-01-01 00:00:00","Bäretswil",\N,\N,\N,\N,\N,"hilft Eltern auf dem Hof und beim Weben","1",\N,\N,"MeH1814"
+"340",\N,"340",\N,\N,"5","1","3",\N,"Kyburg-Chalon","Elisabeth, Gräfin von",\N,\N,\N,\N,\N,\N,\N,\N,"Am 12. März 1264 hat Gräfin Elisabeth von Kyburg der Stadt Thun eigene Rechte verliehen. ","1",\N,\N,"KyChE1264§"
+"341",\N,"341",\N,\N,"3","1","5","2","Mejer","Luise",\N,"1746-01-01 00:00:00",\N,\N,"1786-01-01 00:00:00","Meldorf","Hannover",\N,\N,"4","46909794","0","MeL1746"
+"342",\N,"342",\N,\N,"2","1","3","1","Mémieux","Majus",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"MeMxxxx"
+"343",\N,"343",\N,\N,"3","1","5","1","Mencke","Johann Burchard ","Burkhard","1674-01-01 00:00:00",\N,\N,"1732-01-01 00:00:00",\N,\N,\N,"(Eigenwill, 2010)","1",\N,\N,"MeJB1674"
+"344",\N,"344",\N,\N,"2","1","3","1","Metternich","Klemens Wenzel Lothar, von",\N,"1773-01-01 00:00:00",\N,\N,"1859-01-01 00:00:00",\N,\N,\N,"Bruder von Alois Reding","4","49258230","0","MeKWL1773"
+"345",\N,"345",\N,\N,"3","1","5","2","Metzger","Franziska",\N,\N,\N,\N,\N,\N,\N,\N,"culturalisation of historical discurs, religion and national identity","1",\N,\N,"MeFxxxx"
+"346",\N,"346",\N,\N,"2","1","3","1","Meyer","Bernhard",\N,\N,\N,\N,\N,\N,\N,\N,"war gegen Jesuitenberufung (Luzern)","1",\N,\N,"MeBxxxx"
+"347",\N,"347",\N,\N,"2","1","2","1","Meyer","Conrad Ferdinand",\N,"1825-01-01 00:00:00",\N,\N,"1898-01-01 00:00:00",\N,\N,\N,"Zürcher Dichert, Lyriker und Meister der historischen Novelle","1",\N,\N,"MeCF1825"
+"348",\N,"348",\N,\N,"2","1","3","1","Meyer","Ferdinand M.",\N,"1799-01-01 00:00:00","Erziehungsrath",\N,"1840-01-01 00:00:00",\N,\N,\N,"Sohn von Johann Jacob Meyer","1",\N,\N,"MeF1799"
+"349",\N,"349",\N,\N,"2","1","3","1","Meyer","Hans Jakob",\N,\N,\N,\N,\N,\N,\N,\N,"Pfarrer von Pfäffikon bis 1837, Seelsorger Kt. Strafanstalt Oetenbach","1",\N,\N,"MeHJxxxx"
+"350",\N,"350",\N,\N,"2","1","3","1","Meyer","Johann Jacob",\N,"1763-01-01 00:00:00",\N,\N,"1819-01-01 00:00:00",\N,\N,\N,"Schweizer Offizier und Politiker, Vater von Ferdinand Meyer, Onkel von Heinrich Hirze 1776 (mütterlicherseits)","1",\N,\N,"MeJJ1763"
+"351",\N,"351",\N,\N,"2","1","2","1","Meyer","Johannes",\N,"1799-01-01 00:00:00",\N,\N,"1833-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"MeJ1799"
+"352",\N,"352",\N,\N,"3","1","5","1","Meyer","Karl",\N,\N,\N,\N,\N,\N,\N,\N,"defined a thesis of a 13th Century’s conspiration against foreign forces (Universität Basel, 2010)","1",\N,\N,"MeK  xxxx"
+"353",\N,"353",\N,\N,"2","1","3","1","Meyer",\N,\N,\N,\N,\N,\N,\N,\N,\N,"was involved in counterrevolution during Helvetic","2","na","0","Meyer0000"
+"354",\N,"354",\N,\N,"1","1","2","1","Meyer (-Hofmeister)","Conrad",\N,"1807-01-01 00:00:00","Zürich/Zürich",\N,"1881-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"1833-36 PD für Chirurgie in Zürich, 1836-80 Mitglied der Sanitätskomm. der Stadt Zürich, 1842-66 chirurg. Sekundärarzt am Kantonsspital, 1844-66 Mitglied des Medizinalrates des Kt. Zürich, 1859-66 Präs. der kant. Ärztegesellschaft.","4","30346447","0","MeC1807"
+"355",\N,"355",\N,\N,"1","1","2","1","Meyer von Knonau","Gerold",\N,"1804-01-01 00:00:00",\N,\N,"1858-01-01 00:00:00",\N,\N,\N,"Historiographer","4","51680397","0","MeG1804"
+"356",\N,"356",\N,\N,"3","1","5","1","Meyer von Knonau","Gerold",\N,"1843-01-01 00:00:00",\N,\N,"1931-01-01 00:00:00",\N,\N,\N,"Historiographer. studies under Max Bündiger, Georg von Wyss (CH), Heinrich von Sybel, Leopold von Ranke, Wilhelm Wattenbach, Philipp Jaffé, Georg Waitz (DE) , member of Zofingia. Critical review by Edgar Bonjour (Edgar Bonjour: Meyer von Knonau, Gerold. In: Neue Deutsche Biographie (NDB). Band 17, Duncker & Humblot, Berlin 1994, ISBN 3-428-00198-2, S. 382 f. (Digitalisat).)","4","9837900","0","MeG1843"
+"357",\N,"357",\N,\N,"1","1","3","1","Meyer von Knonau","Ludwig",\N,"1769-01-01 00:00:00","Zürich, Switzerland",\N,"1848-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,\N,"4","100819524","0","MeL1769"
+"358",\N,"358",\N,\N,"2","1","1","1","Meyer-Ott","Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"MeWxxxx"
+"359",\N,"359",\N,\N,"3","1","5","2","Meysenbug","Malwida, von",\N,"1816-01-01 00:00:00",\N,\N,"1903-01-01 00:00:00","Rome, Italy"," Kassel, Hesse",\N,"[She] was a German writer, her work including Memories of an Idealist, the first volume of which she published anonymously in 1869. As well, she was a friend of Friedrich Nietzsche and Richard Wagner, and met the French writer Romain Rolland in Rome in 1890. (Wikipedia). publisches in Dittmar’s Die sociale Reform","4","89241023","0","MeM1816"
+"360",\N,"360",\N,\N,"2","1","6","1","Minod","Charles-François",\N,\N,"porbabely Yverdon",\N,\N,\N,\N,\N,"Fourier au 2e regime","2","na","0","MiCF0000"
+"361",\N,"361",\N,\N,"3","1","5","1","Möckli","Werner",\N,\N,\N,\N,\N,\N,\N,\N,"critisizes the lack of a theory of democracy and the recourse on legends about an ancient past (Urschweiz, etc.) (Universität Basel, 2010)","1",\N,\N,"MoeWxxxx"
+"362",\N,"362",\N,\N,"3","1","5","1","Moeglin","Jean-Marie",\N,\N,\N,\N,\N,\N,\N,\N,"about late medieval dynasties (Moeglin, 1993)","1",\N,\N,"MoeJMxxxx"
+"363",\N,"363",\N,\N,"2","1","3","1","Monnard","Charles",\N,\N,"Waadt",\N,\N,\N,\N,\N,"Theologe, gegen Freisinnige Kontrolle über Kirche, daher für Trennung Kirche-Staat","1",\N,\N,"MoCxxxx"
+"364",\N,"364",\N,\N,"2","1","6","1","Morel","Louis",\N,\N,"Luzern",\N,\N,"Luzern","Luzern",\N,"Son of Ludwig Morel and brother of Josef Morel.","2","na","0","MoLo0000"
+"365",\N,"365",\N,\N,"2","1","6","1","Morel  ","Ludwig",\N,\N,"Luzern",\N,\N,"Luzern","Luzern",\N,"Negociant. Father of Josef Morel","2","na","0","MoLu0000"
+"366",\N,"366",\N,\N,"2","1","1","1","Morel-Peyer","Josef",\N,\N,"Luzern",\N,"1844-01-01 00:00:00","Luzern","Luzern",\N,"Textile merchant (Tuhhändler). Husband of Katharina Morel.","2","na","0","MoJ1800§"
+"367",\N,"367",\N,\N,"2","1","2","2","Morel-Peyer","Katharina",\N,"1790-01-01 00:00:00","Luzern",\N,"1876-01-01 00:00:00","Luzern","Luzern",\N,\N,"2","na","0","MoPeK1790"
+"368",\N,"368",\N,\N,"3","1","5","1","Mörke","Olaf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"MoeOxxxx"
+"369",\N,"369",\N,\N,"1","1","2","1","Mousson","Johan Heinrich Emanuel, von",\N,"1803-01-01 00:00:00","Lonay/Zürich",\N,"1869-01-01 00:00:00","Zürich, Switzerland","Lonay",\N,"Bürgermeister","4","81782584","0","MoJH1803"
+"370",\N,"370",\N,\N,"2","1","3","1","Mugler","C.",\N,\N,"Oberlangenhart",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","2","na","0","MuC0000"
+"371",\N,"371",\N,\N,"2","1","2","2","Mülinen","Anna, von",\N,"1601-01-01 00:00:00",\N,\N,"1647-01-01 00:00:00","Bern, Switzerland","Bern, Switzerland",\N,\N,"2","na","0","MueA1601"
+"372",\N,"372",\N,\N,"2","1","3","2","Mülinen","Anna, von",\N,\N,\N,\N,\N,"Bern, Switzerland","Bern, Switzerland",\N,"Priorin, married later Heinrich Sinner*","2","na","0","MueA1523§"
+"373",\N,"373",\N,\N,"2","1","6","2","Mülinen","Anna, von",\N,\N,\N,\N,\N,"na","na",\N,\N,"2","na","0","MueA1500§"
+"374",\N,"374",\N,\N,"2","1","3","2","Mülinen","Helene, von",\N,"1850-01-01 00:00:00",\N,\N,"1924-01-01 00:00:00","Bern, Switzerland","Bern, Switzerland",\N,"[She] was a Swiss feminist who is regarded as the founder of the organised Swiss women's suffrage movement. She founded the Swiss women's suffrage movement, Bund Schweizerischer Frauenvereine (BSF), in 1900, and served as its first president between 1900 and 1904. (Wikipedia)","4","47532887","0","MueH1850"
+"375",\N,"375",\N,\N,"1","1","2","1","Müller","Hans Heinrich",\N,"1794-01-01 00:00:00","Hittnau/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"hat ein geringes Vermögen","1",\N,\N,"MueHH1794"
+"376",\N,"376",\N,\N,"1","1","3","1","Müller","Hans Rudolf",\N,"1780-01-01 00:00:00","Hittnau",\N,\N,\N,\N,\N,"Feldweibel","1",\N,\N,"MueHR1780"
+"377",\N,"377",\N,\N,"3","1","5","1","Müller","Johannes, von",\N,"1752-01-01 00:00:00","Schaffhausen/Kassel",\N,"1809-01-01 00:00:00",\N,\N,\N,"Geschichtswissenschafter. – interpretation of honourfully losing a battle “«Helden ergeben sich unter Gott, gewöhnliche Menschen meinen, durch Niederträchtigkeit dem Schicksal zu entweichen.»“ in (P. Keller, 2012)","1",\N,\N,"MueJ1752"
+"378",\N,"378",\N,\N,"2","1","6","1","Müller ","Hans  ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","MueH0000"
+"379",\N,"379",\N,\N,"2","1","3","1","Müller-Friedberg","Karl",\N,\N,\N,\N,\N,\N,\N,\N,"letzter Landvogt im Toggenburg","1",\N,\N,"MueFrKxxxx"
+"380",\N,"380",\N,\N,"1","1","2","1","Munzinger","Josef",\N,"1791-01-01 00:00:00","Solothurn",\N,"1855-01-01 00:00:00",\N,\N,\N,"Kaufmann, ","1",\N,\N,"MuJ1791"
+"381",\N,"381",\N,\N,"2","1","3","1","Munzinger","Walther",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"MuWxxxx"
+"382",\N,"382",\N,\N,"2","1","3","1","Muralt",", von",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","Muxxxx"
+"383",\N,"383",\N,\N,"2","1","2","1","Muralt","Abraham Rudolf, von",\N,"1783-01-01 00:00:00",\N,\N,"1859-01-01 00:00:00","Utrecht, Netherlands","Bern, Switzerlan",\N,\N,"4","86082492","0","MuAR1783"
+"384",\N,"384",\N,\N,"1","1","2","1","Muralt","Hans (C)Konrad, von",\N,"1779-01-01 00:00:00",\N,\N,"1869-01-01 00:00:00",\N,\N,\N,"Seidenhändler?, Vorsitz Eisenbahngesellschaft Basel-Zürich 1838","1",\N,\N,"MuHC1779"
+"385",\N,"385",\N,\N,"1","1","2","1","Muralt","Konrad, von",\N,"1779-01-01 00:00:00",\N,\N,"1869-01-01 00:00:00",\N,\N,\N,"Bürgermeister","1",\N,\N,"MuK1779"
+"386",\N,"386",\N,\N,"3","1","5","1","Muralt","Leonhard, von",\N,\N,\N,\N,\N,\N,\N,\N,"„history of initialisation“ (Initialisierungshistorie) from history of Reformation towards republican tradition (Metzger, 2011) (p. 175)","1",\N,\N,"MuLxxxx"
+"387",\N,"387",\N,\N,"2","1","6","1","Muralt","R.K.A.",\N,\N,\N,\N,\N,\N,\N,\N,"Oberstlieutenant in franz. Diensten","2","na","0","MuRKA0000"
+"388",\N,"388",\N,\N,"2","1","2","2","Mürset","Anna",\N,"1887-01-01 00:00:00",\N,\N,"1975-01-01 00:00:00","na","na",\N,"Inventor","2","na","0","MueA1887"
+"389",\N,"389",\N,\N,"3","1","5","1","Nabholz","Hans",\N,"1874-01-01 00:00:00",\N,\N,"1961-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker und Archivar","1",\N,\N,"NaH1874"
+"390",\N,"390",\N,\N,"3","1","5","1","Näf","Werner",\N,"1894-01-01 00:00:00",\N,\N,"1959-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker","1",\N,\N,"NaeW1894"
+"391",\N,"391",\N,\N,"2","1","3","1","Napoleon III.","Louis",\N,\N,\N,\N,\N,\N,\N,\N,"Sohn von Hortense de Beauharnais, Neffe von Napoleon","1",\N,\N,"NaLIIIxxxx"
+"392",\N,"392",\N,\N,"2","1","3","2","Necker","Anne-Louise Germaine ","later Anne Louise Germaine de Staël-Hols","1766-01-01 00:00:00",\N,\N,"1817-01-01 00:00:00","Rocca","Paris, France",\N,"[She] was a French woman of letters of Swiss origin whose lifetime overlapped with the events of the French Revolution and the Napoleonic era. She was one of Napoleon's principal opponents.  (Wikipedia)","4","89204033","0","NeALG1766"
+"393",\N,"393",\N,\N,"1","1","2","1","Neuhaus","Charles",\N,"1796-01-01 00:00:00","Bern",\N,"1849-01-01 00:00:00",\N,\N,\N,"Stadtrat, Fabrikant","1",\N,\N,"NeC1796"
+"394",\N,"394",\N,\N,"3","1","5","1","Nicolai","Christoph Friedrich",\N,"1733-01-01 00:00:00",\N,\N,"1811-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"NiCF1733"
+"395",\N,"395",\N,\N,"2","1","6","1","Nicole","Abram",\N,\N,"Neuchatel",\N,\N,\N,\N,\N,\N,"2","na","0","NiA0000"
+"396",\N,"396",\N,\N,"2","1","3","2","Niederer-Kasthofer","Rosette",\N,"1779-01-01 00:00:00",\N,\N,"1857-01-01 00:00:00","Zürich, Switzerland","Bern, Switzerland",\N,\N,"4","67596849","0","NeKaR1779"
+"397",\N,"397",\N,\N,"1","1","2","1","Nüscheler ","David",\N,"1792-01-01 00:00:00",\N,\N,"1871-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Kaufmann im Baumwollhandel","4","80593224","0","NueD1792"
+"398",\N,"398",\N,\N,"1","1","6","1","Nüscheler ","Jakob Christoph",\N,\N,\N,\N,\N,\N,\N,\N,"Pfarrer Grossmünster 1799","1",\N,\N,"NueJC0000"
+"399",\N,"399",\N,\N,"1","1","2","1","Nüscheler ","Johann Conrad",\N,"1826-01-01 00:00:00",\N,\N,"1910-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"NueJC1826"
+"400",\N,"400",\N,\N,"2","1","3","1","O.","Z.",\N,\N,\N,\N,\N,\N,\N,\N,"warnt Hirzel M. obwohl er von der Opposition ist","1",\N,\N,"OZxxxx"
+"401",\N,"401",\N,\N,"4","1","4","1","Ochs ","Peter",\N,"1752-01-01 00:00:00","Nantes/Basel",\N,"1821-01-01 00:00:00",\N,\N,\N,"Politiker, Jurist, Historiker, Entwirft die Helvetische Republik nach franz. Vorbild","1",\N,\N,"OcP1752"
+"402",\N,"402",\N,\N,"2","1","3","1","Ochsenbein","Ulrik",\N,\N,"Bern",\N,\N,\N,\N,\N,"radikaler Führer Bern (Freischärler), Advokat","2","na","0","OcU0000"
+"403",\N,"403",\N,\N,"2","1","3","1","Oechsli","Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"OeWxxxx"
+"404",\N,"404",\N,\N,"3","1","5","1","Oechslin","Werner",\N,"1944-01-01 00:00:00",\N,\N,\N,\N,"Einsiedeln",\N,\N,"4","84636169","0","OeW1944"
+"405",\N,"405",\N,\N,"2","1","3","2","Oppenheim","Meret",\N,"1913-01-01 00:00:00",\N,\N,"1985-01-01 00:00:00","Basel, Switzerland","Berlin, Germany",\N,\N,"4","61550307","0","OpM1913"
+"406",\N,"406",\N,\N,"2","1","3","1","Orell ","David, von",\N,"1749-01-01 00:00:00",\N,\N,"1812-01-01 00:00:00",\N,\N,\N,"was married to Regula sister of H.Eschers father","1",\N,\N,"vOrD1749"
+"407",\N,"407",\N,\N,"2","1","2","1","Orelli","Johann Caspar, von",\N,"1787-01-01 00:00:00",\N,\N,"1849-01-01 00:00:00",\N,\N,\N,"Professor, Sohn von David von Orell","1",\N,\N,"vOrJC1787"
+"408",\N,"408",\N,\N,"1","1","2","1","Orelli","Johann Conrad, von",\N,"1788-01-01 00:00:00",\N,\N,"1854-01-01 00:00:00",\N,\N,\N,"Sohn von David von Orell, jüngerer Bruder von Johann Caspar, erhielt das griech. Ehrenbürgerrecht für seine Verdienste im Befreiungskrieg, war Gymnasiallehrer und Philologe (Romanistik Franz/Ital)","1",\N,\N,"OrJC1788"
+"409",\N,"409",\N,\N,"2","1","2","2","Orelli-Rinderknecht","Susanna",\N,"1845-01-01 00:00:00",\N,\N,"1939-01-01 00:00:00","na","na",\N,\N,"2","na","0","OrRiS1845"
+"410",\N,"410",\N,\N,"2","1","2","1","Orsini","Felice",\N,"1819-01-01 00:00:00",\N,\N,"1858-01-01 00:00:00","Paris, France","Meldola, Italy",\N,"Orsini was an Italian freedom fighter. He was executed after a failed attack on Napoleon III.","4","62350712","0","OrF1819"
+"411",\N,"411",\N,\N,"2","1","3","1","Ott","Heinrich",\N,\N,\N,\N,"1811-01-01 00:00:00",\N,\N,\N,"Kaufmann, married to Elisabetha sister of H.Eschers father","2","na","0","OtH0000"
+"412",\N,"412",\N,\N,"2","1","3","1","Ott","Jakob",\N,\N,"Unterlangenhart",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","2","na","0","OtJ 0000"
+"413",\N,"413",\N,\N,"2","1","3","1","Ott","Johann Caspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"OtJCxxxx"
+"414",\N,"414",\N,\N,"3","1","5","2","Otto-Peters","Louise","Otto Stern (pseudonym)","1819-01-01 00:00:00",\N,\N,"1895-01-01 00:00:00","Leibzig","Meissen",\N,"[She] was a German writer, feminist, poet, journalist, and women's rights movement activist. She often wrote under the pseudonym of Otto Stern. She is widely acknowledged as the founder of the organized German women's movement. (Wikipedia) publisches in Dittmar’s Die sociale Reform (Wikipedia)","4","18014534","0","OtPeL1819"
+"415",\N,"415",\N,\N,"3","1","5","1","Pastor","Ludwig",\N,"1854-01-01 00:00:00",\N,\N,"1929-01-01 00:00:00",\N,\N,\N,"Geschichte der Päpste seit dem Ausgang des Mittelalters (Metzger, 2011) (p. 173)","1",\N,\N,"PaL1854"
+"416",\N,"416",\N,\N,"2","1","3","1","Perregaux",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Capitän aus Neuchatel","1",\N,\N,"Pexxxx"
+"417",\N,"417",\N,\N,"2","1","3","2","Pestalozzi","Anna",\N,"1738-01-01 00:00:00",\N,\N,\N,"na","na",\N,\N,"2","na","0","PeA1738"
+"418",\N,"418",\N,\N,"1","1","3","1","Pestalozzi","Johann Heinrich",\N,"1746-01-01 00:00:00","Zürich/Brugg",\N,"1827-01-01 00:00:00",\N,\N,\N,"Diacon/Pfarrer in Höngg, Pädagoge, Philosoph, Schul-und Sozialreformer, vor allem sein Buch ""Emil"" wurde gelesen","1",\N,\N,"PeJH1746"
+"419",\N,"419",\N,\N,"2","1","3","1","Pestalutz",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Oberst im Züriputsch, ev. Johann (Hans) Conrad Pestalozzi-Hirzel (1793-1860)","1",\N,\N,"Pexxxx"
+"420",\N,"420",\N,\N,"2","1","3","1","Petavel","François",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"PeFxxxx"
+"1097","1097","421",\N,\N,"2","1","3","1","Petitpierre",\N,\N,\N,\N,\N,\N,\N,\N,\N,"bekam später Graf Wesdehlen in Preussen","1",\N,\N,"Pexxxx"
+"422",\N,"422",\N,\N,"3","1","5","1","Peyer   ","Hans Conrad",\N,\N,\N,\N,\N,\N,\N,\N,"His article in Schweizer Monatshefte „Der St. Galler Reformator Vadian als Geschichtsschreiber : pragmatische und mythische Geschichtsauffassung in der Schweiz des 16. Jahrhunderts“ (1985) (Peyer, 1985)
+„pragmatic and mythical conception of history“ in the 16th Century
+","1",\N,\N,"PeHCxxxx"
+"423",\N,"423",\N,\N,"2","1","6","1","Peyer (im Hof)","Anton",\N,\N,"Willisau",\N,\N,\N,\N,\N,"Father of Heinrich Peyer and in-law of Katharina Peyer; Schultheiss of Willisau, saddler","1",\N,\N,"PeA0000"
+"424",\N,"424",\N,\N,"2","1","6","1","Peyer (im Hof)","Heinrich",\N,\N,"Willisau",\N,"1837-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"PeH0000"
+"425",\N,"425",\N,\N,"2","1","6","2","Peyer (im Hof)","Josefine",\N,\N,\N,\N,\N,"na","na",\N,"nice of Katharina Morel","2","na","0","PeJ 0000"
+"426",\N,"426",\N,\N,"2","1","6","2","Peyer (im Hof)","Katharina",\N,\N,\N,\N,\N,"na","na",\N,"nice and step daughter of Katharina Morel","2","na","0","PeK0000"
+"427",\N,"427",\N,\N,"2","1","6","1","Peyer (im Hof)","Thomas",\N,\N,"Willisau",\N,\N,\N,\N,\N,"older brother of Heinrich Peyer","1",\N,\N,"PeT0000"
+"428",\N,"428",\N,\N,"2","1","2","1","Pfenninger",\N,\N,"1805-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Vikar, steht zur Wahl im Dreiervorschlag 1837","1",\N,\N,"Pf1805"
+"429",\N,"429",\N,\N,"2","1","1","1","Pfyffer","Kasimir",\N,"1794-01-01 00:00:00","Rom/Luzern",\N,"1875-01-01 00:00:00",\N,\N,\N,"Jurist","1",\N,\N,"PfK1794"
+"430",\N,"430",\N,\N,"2","1","3","1","Pictet de Rochement","Charles",\N,\N,\N,\N,\N,\N,\N,\N,"Neutralitätsformulierung","1",\N,\N,"PdRCxxxx"
+"431",\N,"431",\N,\N,"2","1","3","2","Pieczynska-Reichenau","Emma",\N,"1854-01-01 00:00:00",\N,\N,"1927-01-01 00:00:00","Mont-Sur-Lausanne, Switzerland","Paris, France",\N,"[She]  was a Swiss abolitionist and feminist born in Paris, France. She was orphaned at 5 years old, and grew up with foster families in Geneva and Neuchâtel. When she was old enough, she travelled to Paris, where she met and married the intellectual Stanislas Pieczynski. In 1875 she followed him to Poland. Horrified by the lack of education of women there, she began at once to teach reading and writing. In 1881 she turned back to help people in Switzerland. In Leukerbad she learned from the American doctor and suffragette Harriet Clisby, who familiarized her with the women's rights movement. (Wikipedia)","4","67267456","0","PiReE1854"
+"432",\N,"432",\N,\N,"2","1","3","1","Pioda","Giovanni Battista",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"PiGBxxxx"
+"433",\N,"433",\N,\N,"2","1","2","1","Platter","Johannes",\N,"1798-01-01 00:00:00","St. Gallen",\N,"1857-01-01 00:00:00",\N,\N,\N,"Gichteler, bekehrt das Zürcher Oberland von 1834 bis 1843","1",\N,\N,"PlJ1798"
+"434",\N,"434",\N,\N,"3","1","5","1","Prévost","Antoine  ",\N,"1697-01-01 00:00:00",\N,\N,\N,\N,"1763",\N,\N,"1",\N,\N,"PrA1697"
+"435",\N,"435",\N,\N,"2","1","1","1","Proudhon","Pierre-Joseph",\N,"1809-01-01 00:00:00",\N,\N,"1865-01-01 00:00:00","Passy, Paris, France","Besançon, France",\N,\N,"4","17228286","0","PrPJ1809"
+"436",\N,"436",\N,\N,"2","1","3","1","Puffendorf","Samuel",\N,"1632-01-01 00:00:00",\N,\N,"1694-01-01 00:00:00","Berlin, Germany","Zwönitz, Germany",\N,"Baron Samuel von Pufendorf was a German jurist, political philosopher, economist, statesman, and historian. His name was just Samuel Pufendorf until he was ennobled in 1684; he was made a Freiherr a few months before his death at age 62 in 1694.","1",\N,\N,"PuS1632"
+"437",\N,"437",\N,\N,"2","1","3","1","Raabe",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Professor","2","na","0","Ra0000"
+"438",\N,"438",\N,\N,"2","1","3","1","Ragusa",\N,\N,\N,\N,\N,\N,\N,\N,\N,"writer of the Herzogin von Ragusa","1",\N,\N,"Ragusaxxxx"
+"439",\N,"439",\N,\N,"2","1","3","2","Rahn  ","Caroline",\N,\N,\N,\N,\N,"na","na",\N,"Swiss feminist.","2","na","0","RaC0000"
+"440",\N,"440",\N,\N,"1","1","1","1","Rahn-Escher","Hans Conrad",\N,"1802-01-01 00:00:00","Zürich",\N,"1881-01-01 00:00:00",\N,\N,\N,"Arzt","1",\N,\N,"RaHK1802"
+"441",\N,"441",\N,\N,"2","1","3","1","Reding","Alois Josef Fridolin",\N,"1765-01-01 00:00:00","Biberegg, Schwyz/Schwyz",\N,"1818-01-01 00:00:00",\N,\N,\N,"einer der ersten, die Widerstand gegen die Helvetik bot, ging nach Paris um dort den Ersten Consul für das Föderative-System der Schweiz zu gewinnen","1",\N,\N,"ReA1765"
+"442",\N,"442",\N,\N,"2","1","3","1","Reding","Theodor",\N,"1755-01-01 00:00:00",\N,\N,"1809-01-01 00:00:00",\N,\N,\N,"Schwyzer General, 1811 zwingt in Andalusien Napoleons Truppen zur Kapitulation","1",\N,\N,"ReT1755"
+"443",\N,"443",\N,\N,"2","1","5","2","Regelinda ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"not well known mother of Adalrich – see Ufenau – wife of Burchard II. Princess Abbess of the Imperial Abbey of Fraumünster (Zürich).","1",\N,\N,"Re<958"
+"444",\N,"444",\N,\N,"1","1","3","1","Reinhard","Hans, von",\N,"1755-01-01 00:00:00","Zürich/Zürich",\N,"1835-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Bürgermeister","4","32403192","0","vReH1755"
+"445",\N,"445",\N,\N,"2","1","3","1","Rellstab","Johannes",\N,"1792-01-01 00:00:00","Wädenswil",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger), publiziert Briefe von Gichtel und Campagne 1842","1",\N,\N,"ReJ1792"
+"446",\N,"446",\N,\N,"2","1","3","1","Reymond","Jean-Antoin Louis",\N,"1772-01-01 00:00:00","Waadt",\N,"1821-01-01 00:00:00",\N,\N,\N,"Anführer der Radikalen in der Waadt während der Helvetik, das Pendant zu Bernhard Hirzel","1",\N,\N,"ReJAL1772"
+"447",\N,"447",\N,\N,"3","1","5","1","Rheinhard","Volker",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"RhVxxxx"
+"448",\N,"448",\N,\N,"2","1","5","2","Richardis ",\N,"of the Ahalolfinger dynasty",\N,\N,\N,\N,\N,\N,\N,"of the Ahalolfinger dynasty – Princess Abbess of the Imperial Abbey of Fraumünster (Zürich). becomes Kaiser with her husband Karl III. In Catholic tradition a saint. (Siegwart, 1995)","1",\N,\N,"Ri840"
+"449",\N,"449",\N,\N,"2","1","2","1","Rieter","Heinrich",\N,"1788-01-01 00:00:00","Winterthur ",\N,"1851-01-01 00:00:00",\N,\N,\N,"Winterthurer Industrieller. Gliederte der väterlichen Feinspinnerei eine Maschinenewerkstätte and, die Weltruf erlangte","1",\N,\N,"RiH1788"
+"450",\N,"450",\N,\N,"2","1","3","1","Ritter","Karl",\N,"1779-01-01 00:00:00",\N,\N,"1859-01-01 00:00:00",\N,\N,\N,"Professor Geographie","1",\N,\N,"RiK1779"
+"451",\N,"451",\N,\N,"2","1","5","1","Robertson","William",\N,"1721-01-01 00:00:00",\N,\N,"1793-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"RoW1721"
+"452",\N,"452",\N,\N,"2","1","3","2","Robespierre","Maximilien Marie Isidore, de",\N,"1758-01-01 00:00:00",\N,\N,"1794-01-01 00:00:00","na","na",\N,"Idol der Radikalen","2","na","0","RoM1758"
+"453",\N,"453",\N,\N,"2","1","3","1","Roll",", von",\N,\N,\N,\N,\N,\N,\N,\N,"Bahlstahl","1",\N,\N,"RoLxxxx"
+"454",\N,"454",\N,\N,"2","1","6","1","Roll","Ludwig, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"RoLxxxx"
+"455",\N,"455",\N,\N,"2","1","3","1","Romanow ","Alexander I. Pawlowitsch","Alexander I.","1777-01-01 00:00:00",\N,\N,"1825-01-01 00:00:00","Taganrog","St. Petersburg",\N,"Zar von Russland","1",\N,\N,"RoAIP1777"
+"456",\N,"456",\N,\N,"2","1","2","1","Rösselet","Abraham",\N,"1770-01-01 00:00:00",\N,\N,"1850-01-01 00:00:00","Bern, Switzerland","Toul, Lothringen",\N,"participated in the Russian Campaign","4","D42519","0","RoeA1770"
+"457",\N,"457",\N,\N,"2","1","3","1","Rossi","Pellegrino",\N,"1787-01-01 00:00:00","Genf",\N,"1848-01-01 00:00:00","Rom, Italy","Carrara, Italy",\N,"Berichterstatter des Rossi-Plans","4","64074105","0","RoP1787"
+"458",\N,"458",\N,\N,"2","1","5","1","Rousseau","Jean Jacques",\N,"1712-01-01 00:00:00",\N,\N,"1778-01-01 00:00:00",\N,\N,\N,"Idol der Liberalen und Radikalen","1",\N,\N,"RoJJ1712"
+"459",\N,"459",\N,\N,"3","1","5","1","Ruchat","Abraham",\N,"1678-01-01 00:00:00",\N,\N,"1750-01-01 00:00:00",\N,\N,\N,"«Les délices de la Suisse» (1714)","1",\N,\N,"RuA1678"
+"460",\N,"460",\N,\N,"2","1","1","1","Rudolf","Johann Martin",\N,\N,\N,\N,\N,"unkown","na",\N,"Major","1",\N,\N,"RuJM0000"
+"461",\N,"461",\N,\N,"2","1","3","2","Rüegg","Anna",\N,\N,"Schönau",\N,\N,"na","na",\N,"Gichteler (Neugläubiger)","2","na","0","RueA0000"
+"462",\N,"462",\N,\N,"1","1","2","1","Rüegg","Heinrich",\N,"1801-01-01 00:00:00","Bauma (ZH)",\N,"1871-01-01 00:00:00",\N,\N,\N,"Medicin, Professor","1",\N,\N,"RueH1801"
+"463",\N,"463",\N,\N,"2","1","3","1","Rüegg","Johann Heinrich",\N,\N,"Bauma",\N,\N,\N,\N,\N,"Gichteler, wurde von Platter besucht","2","na","0","RueJH0000"
+"464",\N,"464",\N,\N,"1","1","2","1","Rüegg","Johannes",\N,"1799-01-01 00:00:00","Bauma (ZH)",\N,"1871-01-01 00:00:00",\N,\N,\N,"Professor","1",\N,\N,"RueJ1799"
+"465",\N,"465",\N,\N,"2","1","2","2","Ruepp-Uttinger","Elise",\N,"1790-01-01 00:00:00",\N,\N,\N,"na","na",\N,\N,"2","na","0","RuUtE1790"
+"466",\N,"466",\N,\N,"3","1","5","1","Rüh",\N,\N,\N,\N,\N,\N,\N,\N,\N,"traditionelle Staatengeschichte (Tuchtenhagen, 2011) (p. 44)","2","na","0","Rue0000"
+"467",\N,"467",\N,\N,"3","1","5","1","Rüsens","Jörn",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"RueJxxxx"
+"468",\N,"468",\N,\N,"2","1","3","1","Rüttimann","Vincenz",\N,\N,\N,\N,\N,\N,\N,\N,"unitarisch, später konservativer Akteur","1",\N,\N,"RueVxxxx"
+"469",\N,"469",\N,\N,"2","1","3","2","Rüttimann-Meyer von Schauensee","Anna Maria ",\N,"1772-01-01 00:00:00",\N,\N,"1856-01-01 00:00:00","unkown","Luzern, Switzerland",\N,"[She] was a politically influential Swiss salonist during the Helvetian Republic. She was married to Vincent Rüttimann from 1794 and corresponded with Paul Usteri from 1799. (Wikipedia)","2","na","0","RMvSAM1772"
+"470",\N,"470",\N,\N,"2","1","3","1","Sailer","Johann Michael, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"SaJMxxxx"
+"471",\N,"471",\N,\N,"2","1","5","1","Salat","Johannes",\N,\N,\N,\N,\N,\N,\N,\N,"wrote Reformationschronik (1517-1534) against Stumpf's work.","1",\N,\N,"SaJ 1517§"
+"472",\N,"472",\N,\N,"2","1","3","2","Salis-Marschlins","Barbara Margaretha, von","Meta","1855-01-01 00:00:00",\N,\N,"1929-01-01 00:00:00","Basel, Switzerland","Schloss Marschlin, Igis, Switzerland",\N,"[She] was a Swiss feminist and historian, as well as a regular correspondent of Friedrich Nietzsche. (Wikipedia)","4","54193565","0","SaMeM1855"
+"473",\N,"473",\N,\N,"2","1","3","1","Salis-Soglio","Johann Ulrich, von",\N,"1790-01-01 00:00:00",\N,\N,"1874-01-01 00:00:00","Chur, Switzerland","Chur, Switzerland",\N,"Bündner Führer der Sonderbundtruppen (protestant)","4","17982094","0","SaSoJU1790"
+"474",\N,"474",\N,\N,"3","1","5","1","Sarasin  ","Philipp   ",\N,"1956-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Schweizer Historiker (Neuere Allgemeine Geschichte)","1",\N,\N,"SaP1956"
+"475",\N,"475",\N,\N,"2","1","3","2","Sarasin-Sauvin","Elisabeth",\N,"1829-01-01 00:00:00",\N,\N,"1982-01-01 00:00:00","na","na",\N,\N,"2","na","0","SaSaE1829"
+"476",\N,"476",\N,\N,"2","1","3","1","Sarrans",\N,\N,\N,\N,\N,\N,\N,\N,\N,"reports about his experiences during the July Revolution","2","na","0","Sa0000"
+"477",\N,"477",\N,\N,"2","1","3","1","Savigny","Friedrich Carl, von",\N,"1779-01-01 00:00:00",\N,\N,"1861-01-01 00:00:00",\N,\N,\N,"Rechtsgelehrter","1",\N,\N,"vSaFC1779"
+"478",\N,"478",\N,\N,"2","1","2","1","Schaller","Henri Gaspard de",\N,"1828-01-01 00:00:00",\N,\N,"1900-01-01 00:00:00","Fribourg, Switzerland","Versailles, France",\N,"Was in charge to restore and return the church propertiers.","4","15537329","0","ScHG1828"
+"479",\N,"479",\N,\N,"2","1","3","1","Schäppi",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","Sc0000"
+"480",\N,"480",\N,\N,"2","1","3","2","Scheidegger","Luise",\N,\N,\N,\N,"1866-01-01 00:00:00","na","na",\N,"1866 Freitod, ev. um nicht die Verlobung mit Gottfried Keller lösen zu müssen, Honour-suicide","2","na","0","ScL0000"
+"481",\N,"481",\N,\N,"1","1","1","1","Schellenberg","Hans Jakob",\N,"1825-01-01 00:00:00","Pfäffikon (ZH)",\N,"1900-01-01 00:00:00",\N,\N,\N,"Farmer","1",\N,\N,"ScHJ1825"
+"482",\N,"482",\N,\N,"3","1","5","1","Schenk","Carl",\N,\N,\N,\N,\N,\N,\N,\N,"Hauschronik(1856-1857) – reprint in Neues Berner Taschenbuch (Türler, 1931)","1",\N,\N,"ScC1856§"
+"483",\N,"483",\N,\N,"2","1","1","1","Scherer","Johann Jacob",\N,"1825-01-01 00:00:00",\N,\N,"1878-01-01 00:00:00","Winterthur, Switzerland","Schönenberg, Switzerland",\N,\N,"1",\N,\N,"ScJJ1825"
+"484",\N,"484",\N,\N,"5","1","2","2","Heimgartner","Maria Bernada","born Maria Anna","1822-01-01 00:00:00","Ingenbohl, Switzerland",\N,"1863-01-01 00:00:00","Menzingen","Fislibach, Aargau",\N,"Co-founderin and first Matron of the Sisters of Ingebohl (1844-1863), was beatified by Pope John Paul II.","1",\N,\N,"HeMB1822"
+"485",\N,"485",\N,\N,"5","1","2","2","Elmiger","Maria Theresia",\N,\N,\N,\N,\N,\N,\N,\N,"A Matron of the Ingebohl sisters in Baldegg (1842-1851)","1",\N,\N,\N
+"486",\N,"486",\N,\N,"5","1","2","2","Kaufamnn","Maria Otilia",\N,\N,\N,\N,\N,\N,\N,\N,"A Matron of the Ingebohl sisters in Baldegg (1853-1858)","1",\N,\N,\N
+"487",\N,"487",\N,\N,"2","1","3","2","Scherer","Maria Theresia","Anna Maria Katharina","1825-01-01 00:00:00",\N,\N,"1888-01-01 00:00:00",\N,"Megger",\N,"Co-founderin and Matron of the Ingebohl sisters, Switzerland (1857-1888), was beatified by Pope John Paul II.","4","18021095","0","ScMT1825"
+"488",\N,"488",\N,\N,"2","1","1","1","Scherer-Boccard","Theodor",\N,"1816-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"ScBoT1816"
+"489",\N,"489",\N,\N,"1","1","1","1","Scherr","Ignaz Thomas",\N,"1801-01-01 00:00:00","Küsnacht, von Württemberg",\N,"1870-01-01 00:00:00",\N,\N,\N,"Lehrer","1",\N,\N,"ScIT1801"
+"490",\N,"490",\N,\N,"3","1","5","1","Schiller","Friedrich",\N,"1759-01-01 00:00:00",\N,\N,"1805-01-01 00:00:00","Weimar, Germany","Marbach, Württemberg",\N,"(1789) Universalgeschichte – publishes 1804 his drama „Wilhelm Tell“","4","96994450","0","ScF1759"
+"491",\N,"491",\N,\N,"2","1","5","1","Schillin","Diebold, der Ältere",\N,\N,\N,\N,\N,\N,\N,\N,"Berner Chronik in the tradition of Schweizer Bilderchronik (Bayerische Staatsbibliothek, 2012)","1",\N,\N,"ScDAe1445*"
+"492",\N,"492",\N,\N,"1","1","2","1","Schindler","Dietrich",\N,"1795-01-01 00:00:00","Glarus",\N,"1882-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"ScD1795"
+"493",\N,"493",\N,\N,"2","1","3","2","Schlatter-Bernet","Anna",\N,"1773-01-01 00:00:00",\N,\N,"1826-01-01 00:00:00","St. Gallen, Switzerland","St. Gallen, Switzerland",\N,\N,"4","4921914","0","ScBeA1773"
+"494",\N,"494",\N,\N,"2","1","3","2","Schlegel","Dorothea, von",\N,"1764-01-01 00:00:00",\N,\N,"1839-01-01 00:00:00","Frankfurt, Germany","Berlin, Germany",\N,"She was a German novelist and translator.","4","95307649","0","ScD1764"
+"495",\N,"495",\N,\N,"3","1","5","2","Schlege-Schelling","Caroline","born Michaelis.","1763-01-01 00:00:00","her Rousseau interpretation claims for “romantic passion” as a motor for liberation- she is an exception with her rejection of the Tugenddiskurs ",\N,"1809-01-01 00:00:00","Maulbronn, Germany","Göttingen, Germany",\N,"She was a noted German intellectual. (Wikipedia)","4","98185204","0","ScScC1763"
+"496",\N,"496",\N,\N,"2","1","3","1","Schleiermacher","Friedrich",\N,"1768-01-01 00:00:00",\N,\N,"1834-01-01 00:00:00",\N,\N,\N,"Professor Theologie","1",\N,\N,"ScF1768"
+"497",\N,"497",\N,\N,"3","1","5","1","Schlözer","August Ludwig",\N,"1735-01-01 00:00:00",\N,\N,"1809-01-01 00:00:00",\N,\N,\N,"Göttinger Historikerschule –Vorstellung seiner Universalgeschichte (1772, 1773), Allgemeine Nordische Geschichte - general method „historical-critical“ requires written text and draws the line between prehistory and history for countries, parallel development of writing culture and Christianization (link between education and theology-TH) (Tuchtenhagen, 2011) (p. 19)","1",\N,\N,"ScAL1735"
+"498",\N,"498",\N,\N,"2","1","1","1","Schnell","(Johann) Ludwig",\N,"1781-01-01 00:00:00",\N,\N,"1859-01-01 00:00:00",\N,"Burgdorf",\N,"Gebrüder in der Revolution von Olten","4","88235855","0","ScL1781"
+"499",\N,"499",\N,\N,"2","1","2","1","Schnell","Johann (Hans)",\N,"1793-01-01 00:00:00",\N,\N,"1865-01-01 00:00:00",\N,"Burgdorf",\N,"Gebrüder in der Revolution von Olten","4","88235608","0","ScJ1793"
+"500",\N,"500",\N,\N,"2","1","2","1","Schnell","Karl",\N,"1786-01-01 00:00:00",\N,\N,"1844-01-01 00:00:00",\N,"Burgdorf",\N,"Gebrüder in der Revolution von Olten","4","77078004","0","ScK 1786"
+"501",\N,"501",\N,\N,"1","1","2","1","Schnurrenberger","Heinrich",\N,"1819-01-01 00:00:00","Sternenberg/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"Sohn armer, alter Eltern","1",\N,\N,"ScH1819"
+"502",\N,"502",\N,\N,"3","1","5","1","Schnyder Burghartz ","Albert",\N,\N,\N,\N,\N,\N,\N,\N,"model of consensus…","1",\N,\N,"ScBuAxxxx"
+"503",\N,"503",\N,\N,"2","1","5","1","Schodoler",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"Scxxxx"
+"504",\N,"504",\N,\N,"3","1","5","2","Schopenhauer","Johanna (Henriette) ",\N,"1766-01-01 00:00:00",\N,\N,"1839-01-01 00:00:00","na","na",\N,"Jugend Leben und Wanderbilder in 24 volumes published by Brockhaus (1830) – a  Salonnière (=entertains/organizes a literary salon) – justifies the beginning (French) revolution as a reaction to “feudal despotism” and effort of human self-perfectionism (Vahsen, 2000) (p.49) – justifies the murder as reaction to oppression","2","na","0","ScJH1766"
+"505",\N,"505",\N,\N,"3","1","5","1","Schriber","Hans",\N,\N,\N,\N,\N,\N,\N,\N,"wrote Das weisse Buch von Sarnen 1470- without exact date ","1",\N,\N,"ScH1470§"
+"506",\N,"506",\N,\N,"2","1","6","1","Schulthess","Friedrich   ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"ScFxxxx"
+"507",\N,"507",\N,\N,"2","1","3","1","Schulthess","L.",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"ScLxxxx"
+"508",\N,"508",\N,\N,"4","1","4","2","Schulthess-Wolf ","Barbara",\N,"1745-01-01 00:00:00",\N,\N,"1818-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Biographer","1",\N,\N,"ScWoB1745"
+"509",\N,"509",\N,\N,"2","1","3","1","Schumacher","Felix, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"ScFxxxx"
+"510",\N,"510",\N,\N,"2","1","2","1","Schumacher","Joseph Gaspard",\N,"1776-01-01 00:00:00",\N,\N,"1847-01-01 00:00:00","Orléans, France","Schüpfheim, Luzern",\N,"Swiss military in Napolenonic services during the Russian Campaign.","4","232755977","0","ScJG1776"
+"511",\N,"511",\N,\N,"2","1","3","1","Schuster","Karl Ludwig",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"ScKLxxxx"
+"512",\N,"512",\N,\N,"2","1","3","1","Schwarzenbach","Robert",\N,\N,\N,\N,\N,\N,\N,\N,"Seidenfabrikant auf dem Land mit Söhnen.","1",\N,\N,"ScRxxxx"
+"513",\N,"513",\N,\N,"3","1","5","1","Schwegler","Theodor",\N,"1887-01-01 00:00:00",\N,\N,"1967-01-01 00:00:00",\N,\N,\N,"Geschichte der Katholischen Kirche in der Schweiz (1935) retrospective “providential character” of events and the succeding modern Nation-state (Metzger, 2011) (p. 174) – principle of “cuius regio, eius religio”","1",\N,\N,"ScT1887"
+"514",\N,"514",\N,\N,"2","1","3","1","Schweizer","Alexander",\N,"1808-01-01 00:00:00","Murten/Zürich",\N,\N,\N,\N,\N,"Theologieprofessor","1",\N,\N,"ScA1808"
+"515",\N,"515",\N,\N,"2","1","6","1","Schweizer",\N,\N,\N,"Kopigen",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger), war er der Postdirektor bei Weiss erwähnt?","2","na","0","Sc20000"
+"516",\N,"516",\N,\N,"5","1","6","1","Segesser (von Brunegg)-Arnold","Josef Plazid",\N,"1803-01-01 00:00:00",\N,\N,"1878-01-01 00:00:00",\N,\N,\N,"Brother of Xaver and Eduard Segesser. Teacher of arts (Zeichenlehrer), architect, building inspector, Grand Councillor.","2","na","0","SeJP1803"
+"517",\N,"517",\N,\N,"5","1","6","1","Segesser (von Brunegg)-von Vivis","Eduard",\N,"1811-01-01 00:00:00",\N,\N,"1868-01-01 00:00:00",\N,\N,\N,"coronel. owner of the Schweizerhof. Brother of Xaver and Josef Plazid","2","na","0","SeE1811"
+"518",\N,"518",\N,\N,"5","1","6","1","Segesser (von Brunegg)","Josef Xaver",\N,"1767-01-01 00:00:00",\N,\N,"1811-01-01 00:00:00",\N,\N,\N,"coronole of a Swiss Regiment, died December 1811 in Marsaille.","2","na","0","SeJX1767"
+"519",\N,"519",\N,\N,"5","1","2","1","Segesser (von Brunegg)","Josef Franz Lorenz",\N,"1780-01-01 00:00:00",\N,\N,"1849-01-01 00:00:00","Luzern, Switzerland","Luzern, Switzerland",\N,"Son of Josef Aurelian Segesser","4","1051790840","0","SeJFL1780"
+"520",\N,"520",\N,\N,"5","1","2","1","Segesser (von Brunegg)","Xaver",\N,"1814-01-01 00:00:00",\N,\N,"1874-01-01 00:00:00","Luzern, Switzerland","Luzern, Switzerland",\N,"Son of Josef Franz Segesser","4","1051790921","0","SeX1814"
+"521",\N,"521",\N,\N,"2","1","3","1","Segesser (von Brunegg)","Philipp Anton, von",\N,"1817-01-01 00:00:00",\N,\N,"1888-01-01 00:00:00","Luzern, Switzerland","Luzern, Switzerland",\N,"Führer der kath.-konservativen","4","17239703","0","SePA1817"
+"522",\N,"522",\N,\N,"2","1","2","1","Semper","Gottfried",\N,"1803-01-01 00:00:00",\N,\N,"1879-01-01 00:00:00","Rom, Italy","Altona (today Hamburg), Germany",\N,"Originally Danish, later German architect.","4","44372667","0","SeG1803"
+"523",\N,"523",\N,\N,"1","1","2","1","Senn","Heinrich",\N,"1827-01-01 00:00:00","Fischental",\N,"1915-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"SeH1827"
+"524",\N,"524",\N,\N,"1","1","2","1","Senn","Jakob",\N,"1824-01-01 00:00:00","Fischental",\N,"1879-01-01 00:00:00",\N,\N,\N,"Sohn von Kleinbauern, Volksdichter","1",\N,\N,"SeJ1824"
+"525",\N,"525",\N,\N,"2","1","2","1","Shelley","Percy",\N,"1792-01-01 00:00:00",\N,\N,"1822-01-01 00:00:00",\N,\N,\N,"Schwärmte für die Schweiz","1",\N,\N,"ShP1792"
+"526",\N,"526",\N,\N,"5","1","2","2","Zahn-Schlatter","Cleophea","Kleophea",\N,\N,\N,\N,\N,\N,\N,"friend of Meta Heusser-Schweizer","2","na","0","ZaScK0000"
+"527",\N,"527",\N,\N,"2","1","3","1","Siber",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Seidenfabrikant in Zürich","2","na","0","Si0000"
+"528",\N,"528",\N,\N,"5","1","2","2","Siegwart-Müller","Josephine",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","SiMueJ0000"
+"529",\N,"529",\N,\N,"5","1","2","1","Siegwart ","Alfred",\N,\N,\N,\N,\N,\N,\N,\N,"Son of Constantin Siegwart-Müller","2","na","0","SiAe0000"
+"530",\N,"530",\N,\N,"5","1","2","1","Radetzky von Radetz","Johann Josef Wenzel, Graf","Johann Josef (Joseph) Wenzel (Anton Fran","1766-01-01 00:00:00",\N,\N,"1858-01-01 00:00:00","Milan, Italy","Sedlčany, Czech Republic",\N,"[He] was a Czech nobleman and Austrian general, immortalised by Johann Strauss I's Radetzky March (Wikipedia).","1",\N,\N,"RaJJW1766"
+"531",\N,"531",\N,\N,"5","1","2","1","Siegwart ","Josef Ernst",\N,"1834-01-01 00:00:00","Altdorf",\N,"1913-01-01 00:00:00",\N,\N,\N,"Son of Constantin Siegwart-Müller (unclear if 2nd or 3rd; see: Der Geschichtsfreund : Mitteilungen des Historischen Vereins Zentralschweiz 1913 and Elisabeth Rüf 1952), Ingenieur, Bienenzüchter","2","na","0","SiJE1834"
+"532",\N,"532",\N,\N,"2","1","4","1","Siegwart-Müller","Constantin","Konstantin","1801-01-01 00:00:00","Uri",\N,"1869-01-01 00:00:00","Altdorf, Uri","Lodrino, Ticino, Switzerland",\N,"früher liberaler, mit Jorio und Leu Ultra, plant territoriale Änderungen in der CH","4","62324268
+","0","SiMueC1801"
+"533",\N,"533",\N,\N,"2","1","3","1","Sigfrid","Emil ",\N,"1867-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"2","na","0","Si1867"
+"534",\N,"534",\N,\N,"3","1","5","1","Signori","Gabriela",\N,"1960-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Schweizer Mediävistin","1",\N,\N,"SiG1960"
+"535",\N,"535",\N,\N,"2","1","5","1","Silvius","Aeneas",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"SiAe0000"
+"536",\N,"536",\N,\N,"2","1","6","1","Simon","J. N.",\N,\N,\N,\N,\N,\N,\N,\N,\N,"2","na","0","SiJN0000"
+"537",\N,"537",\N,\N,"2","1","3","1","Snell","Ludwig",\N,"1785-01-01 00:00:00",\N,\N,"1854-01-01 00:00:00","Küssnacht, Zürich, Switzerland","Idstein, Hesse",\N,"Schrieb das Memorial am Tag von Uster 1830. Politscher Flüchtling aus Deutschland in Zürich, Broder von Wilhelm","4","15546555","0","SnL1785"
+"538",\N,"538",\N,\N,"2","1","3","1","Snell","Wilhelm",\N,"1789-01-01 00:00:00",\N,\N,"1851-01-01 00:00:00",\N,\N,\N,"Jurist, Politscher Flüchtling aus Deutschland in Zürich","1",\N,\N,"SnW1789"
+"539",\N,"539",\N,\N,"3","1","5","1","Spengler","Oswald",\N,"1880-01-01 00:00:00",\N,\N,"1936-01-01 00:00:00",\N,\N,\N," “universal structure” in the history of “cultural philosophy” (Tuchtenhagen, 2011) (p. 9)","1",\N,\N,"SpO1880"
+"540",\N,"540",\N,\N,"1","1","3","1","Spöndli","Hans Heinrich",\N,"1812-01-01 00:00:00","Zürich",\N,"1872-01-01 00:00:00",\N,\N,\N,"Fürsprecher","1",\N,\N,"SpHH1812"
+"541",\N,"541",\N,\N,"1","1","2","1","Spöndli","Sigmund",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"SpS1750*"
+"542",\N,"542",\N,\N,"1","1","2","1","Spörri","Hans Rudolf",\N,"1818-01-01 00:00:00","Bauma (ZH)",\N,"1839-01-01 00:00:00",\N,\N,\N,"Sohn von Heinrich Spörri, Eltern lebten getrennt","1",\N,\N,"SpHR1818"
+"543",\N,"543",\N,\N,"1","1","2","1","Spörri","Johan Jakob",\N,"1819-01-01 00:00:00","Fischental",\N,\N,\N,\N,\N,"Baumwollweber, arm","1",\N,\N,"SpJJ1819"
+"544",\N,"544",\N,\N,"2","1","2","1","Sprünglin","Frédéric","Emmanuel Frédéric Sprungli","1773-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"2","na","0","SpF1773"
+"545",\N,"545",\N,\N,"2","1","2","1","Spyri","Johanna",\N,"1827-01-01 00:00:00",\N,\N,"1901-01-01 00:00:00",\N,\N,\N,"Schriftstellerin ","1",\N,\N,"SpJJ1827"
+"546",\N,"546",\N,\N,"3","1","5","1","Stadler","Peter",\N,\N,\N,\N,\N,\N,\N,\N,"resuming history of Swiss historiography of the second half of the 20th Century (Stadler, 1991) question about cantonal differences in historiography (identity and historiography) Hans von Greyerz in the case of Bern, problems of periodisation 
+“Verwissenschaftlichung der Historie” due to the foundation of universities Zürich and Bern (the first ones after Basel) see Eduard Fueter’s Geschichte der gesamtschweizerischen historischen Organisation
+","1",\N,\N,"StPxxxx"
+"547",\N,"547",\N,\N,"3","1","5","1","Staehelin","Andreas  ",\N,"1926-01-01 00:00:00",\N,\N,"2002-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker und Archivar","1",\N,\N,"StA1926"
+"548",\N,"548",\N,\N,"3","1","5","1","Staehelin","Felix",\N,"1873-01-01 00:00:00",\N,\N,"1952-01-01 00:00:00",\N,\N,\N,"Schweizer Althistoriker","1",\N,\N,"StF 1873"
+"549",\N,"549",\N,\N,"4","1","4","2","Stagel","Elsbeth","Elisabeth","1300-01-01 00:00:00",\N,\N,"1360-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"was a Dominican nun and prioress of the Töss Convent. She developed a deep friendship with Henry Suso, and the two remained in active correspondence. Suso considered Stagel his spiritual daughter. ","1",\N,\N,"StE1300"
+"550",\N,"550",\N,\N,"2","1","3","1","Stämpfli","Jakob",\N,\N,"Bern",\N,\N,\N,\N,\N,"radikaler Führer Bern","1",\N,\N,"StJxxxx"
+"551",\N,"551",\N,\N,"2","1","3","2","Stämpfli-Studer","Emma",\N,"1848-01-01 00:00:00",\N,\N,"1930-01-01 00:00:00","St. Gallen, Switzerland","Bern, Switzerland",\N,"A Swiss enterpreneur and founder of the Kinderkrippe a kind of Kindergarden for the youngest.","4","305919410","0","StStE1848"
+"552",\N,"552",\N,\N,"3","1","5","1","Stanyan","Abraham",\N,\N,\N,\N,\N,\N,\N,\N,"wrote «L'Etat de la Suisse, écrit en 1714»","1",\N,\N,"StA1714§"
+"553",\N,"553",\N,\N,"2","1","3","1","Stapfer","Friedrich Albert",\N,"1766-01-01 00:00:00",\N,\N,"1840-01-01 00:00:00",\N,\N,\N,"Minister der Helvetik für Künste und Wissenschaften, sollte Schul-und Bildungssystem neu ordnen, will es geschlechter gleich! wollte eine neue, moderne Uni (Nationaluniversität)","1",\N,\N,"StFA1766"
+"554",\N,"554",\N,\N,"2","1","2","1","Steck","Albert",\N,"1843-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"StA1843"
+"555",\N,"555",\N,\N,"2","1","3","1","Steffan",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Domaine-Kassier","1",\N,\N,"Stxxxx"
+"556",\N,"556",\N,\N,"2","1","2","1","Steiger","(Johann) Rudolf, von",\N,"1789-01-01 00:00:00",\N,\N,"1857-01-01 00:00:00",\N,\N,\N,"kämpf in verschiedenen Schweizerregimentern in Irland, Spanien","1",\N,\N,"StJR1789"
+"557",\N,"557",\N,\N,"4","1","4","1","Steiger","(Johann) Rudolf, von",\N,"1818-01-01 00:00:00",\N,\N,"1872-01-01 00:00:00",\N,\N,\N,"kämpf in Schweizerregimenter in Napoli und Sizilien","1",\N,\N,"StJR1818"
+"558",\N,"558",\N,\N,"2","1","1","1","Steiger","Jakob Robert  ",\N,"1801-01-01 00:00:00",\N,\N,"1862-01-01 00:00:00","Luzern, Switzerland","Geuensee, Switzerland",\N,"radikaler Führer","4","D4206","0","StR1801"
+"559",\N,"559",\N,\N,"2","1","3","2","Stein","Charlotte, von",\N,"1742-01-01 00:00:00",\N,\N,"1827-01-01 00:00:00","Weimar, Germany","Eisenach, Germany",\N,"[She] was a lady-in-waiting at the court in Weimar and a close friend to both Friedrich Schiller. (Wikipedia)","4","5073680","0","StC1742"
+"560",\N,"560",\N,\N,"3","1","5","1","Steinberg","Jonathan",\N,\N,\N,\N,\N,\N,\N,\N,"„Die Schweiz ein Relikt des Heiligen Römischen Reiches""“","1",\N,\N,"StJxxxx"
+"561",\N,"561",\N,\N,"1","1","2","1","Steiner","Karl Eduard",\N,"1803-01-01 00:00:00",\N,\N,"1870-01-01 00:00:00","Winterthur, Switzerland","Winterthur, Switzerland",\N,"Nordost-Bahn 1853 bis zu seinem Tod 1870 Mitglied des Verwaltungsrats, zuerst als Vizepräsident und ab 1858 als Präsident.","4","D7323","0","StKE1803"
+"1099","1099","562",\N,\N,"2","1","3","1","Steinhauer",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"Stxxxx"
+"563",\N,"563",\N,\N,"2","1","3","1","Stettler","Eduard",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund","1",\N,\N,"StExxxx"
+"564",\N,"564",\N,\N,"2","1","3","1","Stettler","Karl Ludwig",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","StKLxxxx"
+"565",\N,"565",\N,\N,"2","1","3","1","Stettler von Rodt","Karl",\N,\N,\N,\N,\N,\N,\N,\N,"gründet  Evangelischen Gesellschaft","1",\N,\N,"SvRkxxxx"
+"566",\N,"566",\N,\N,"3","1","5","2","Stolberg von Witzleben","Agnes, von",\N,"1785-01-01 00:00:00",\N,\N,"1848-01-01 00:00:00","na","na",\N,"Married to Friedrich Leopold zu Stolberg-Stolberg ","2","na","0","StA1785"
+"567",\N,"567",\N,\N,"4","1","4","2","Storni","Alfonsina",\N,"1892-01-01 00:00:00",\N,\N,"1938-01-01 00:00:00","Mar del Plata, Argentina","Sala Capriasca, Switzerland",\N,"Swiss poet.","4","90658830","0","StA1892"
+"568",\N,"568",\N,\N,"1","1","1","1","Strauss","David Friedrich",\N,"1808-01-01 00:00:00","Zürich",\N,"1874-01-01 00:00:00",\N,\N,\N,"Dr. Erziehungsrat, Professor für Dogmatik Universität Zürich","1",\N,\N,"StDF1808"
+"569",\N,"569",\N,\N,"3","1","5","2","Struve","Amalia",\N,"1824-01-01 00:00:00",\N,\N,"1862-01-01 00:00:00",\N,"Düsar",\N,"""She married in 1845 Gustav Struve (1805-1870) and participated at her husband's side at the Heckerzug, in September 1848. Her unusual appearance - she wore occasionally pants, - made her the target of sexist ridiculization. For her attempts to persuade the local women to support the revolution, she was imprisioned from September 1848 to April 1849 in Freiburg"".","2","na","0","StA1824"
+"570",\N,"570",\N,\N,"2","1","3","1","Studer-Unholz","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"StUnHxxxx"
+"571",\N,"571",\N,\N,"2","1","3","1","Stumpf","Johann",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"StJxxxx"
+"1098","1098","572",\N,\N,"2","1","3","1","Stünzi",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Seidenfabrikant in Horgen","1",\N,\N,"Stxxxx"
+"573",\N,"573",\N,\N,"4","1","4","1","Stupmpf","Johannes",\N,"1500-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Swiss chronicle (1547)(Stumpf, 1548) (Schweizerchronik) commented by Aegidius Tschudi  - defined as “Sagenerzähler und Sagensammler der Schweiz“ (Schenda, 1988); Gmeiner loblicher Eydgnoschaft stettet, landen und völkeren Chronik (1548) – basis for 18th Century Josias Simmler „de re publica Helvetiorum“ / „Regiment Gemeiner loblicher Eydgnoschaft” – both Vadian and Tschudi try to influence Stumpf’s historiography in favor of their version – result is an unsatisfying compromise – according Peyer a “typical eigenössischer Vorgang” (Peyer, 1985)","1",\N,\N,"StJ1500"
+"574",\N,"574",\N,\N,"2","1","3","1","Stürler","Rudolf",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","StRxxxx"
+"575",\N,"575",\N,\N,"1","1","2","1","Stutz","Jakob",\N,"1801-01-01 00:00:00","Isikon",\N,"1877-01-01 00:00:00",\N,\N,\N,"Sohn von Kleinbauern, Volksdichter","1",\N,\N,"StJ1801"
+"576",\N,"576",\N,\N,"2","1","3","1","Styger","Paul",\N,\N,"Biberegg",\N,\N,\N,\N,\N,"Anführer der Schlacht am Rotenthurm (1798), mit  Frauen und Kindern gegen die Helvetik, inspiriert von Reding","1",\N,\N,"StPxxxx"
+"577",\N,"577",\N,\N,"2","1","2","1","Sulzberger","Johannes",\N,"1800-01-01 00:00:00",\N,\N,"1875-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"SuJ1800"
+"578",\N,"578",\N,\N,"1","1","3","1","Sulzer","Eduard",\N,"1789-01-01 00:00:00",\N,\N,"1857-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"SuE1789"
+"579",\N,"579",\N,\N,"1","1","3","1","Sulzer","Johann Friedrich   ",\N,"1735-01-01 00:00:00",\N,\N,"1814-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"SuJF1735"
+"580",\N,"580",\N,\N,"2","1","3","1","Sulzer","Melchior Friedrich",\N,"1701-01-01 00:00:00",\N,\N,"1853-01-01 00:00:00","Albisbrunn","Winterthur",\N,"Regierungsrat 1831–1850, 1791, 1853.","4","1051855659","0","SuMF1701"
+"581",\N,"581",\N,\N,"2","1","2","1","Sulzer-Hirzel","Johann Jakob",\N,"1806-01-01 00:00:00","Gründet mit seinem Bruder Salomon die weltbekannte Firma Gebrüder Sulzer in Winterthur (Maschinenbau)",\N,"1883-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"SuJJ1806"
+"582",\N,"582",\N,\N,"2","1","2","2","Sulzer-Neufer(t)","Katharina",\N,"1778-01-01 00:00:00","Winterthur",\N,"1858-01-01 00:00:00","Winterthur*","Winterthur*",\N,"She was the co-founder of the Sulzer Corporation. Appeared in the biography ""Konzernmutter"", there is a Katharina-Sulzer-Platz in Winterthur.","2","na","0","SoNeK1778"
+"583",\N,"583",\N,\N,"2","1","3","1","Sutermeister","Rudolf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"SuRxxxx"
+"584",\N,"584",\N,\N,"3","1","5","1","Sybel","Heinrich, von",\N,\N,\N,\N,\N,\N,\N,\N,"die neueren Darstellungen der deutschen Kaiserzeit (1859), die deutsche Nation und das Kaiserreich (1862), Entstehung des deutschen Königthums (1844) – conflict between confessional and political motives (Metzger, 2011) (p. 173)","1",\N,\N,"SyHxxxx"
+"585",\N,"585",\N,\N,"4","1","4","2","Taeuber-Arp","Sophie",\N,"1889-01-01 00:00:00",\N,\N,"1943-01-01 00:00:00","na","na",\N,"Swiss artist","2","na","0","TaeArS1889"
+"586",\N,"586",\N,\N,"3","1","5","1","Tanner","Jakob",\N,"1950-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Schweizer Historiker, Uni Zürich","1",\N,\N,"TaJ1950"
+"587",\N,"587",\N,\N,"3","1","5","1","Tatarinof","Eugen",\N,"1868-01-01 00:00:00",\N,\N,"1983-01-01 00:00:00",\N,\N,\N,"Schweizer Historiker","1",\N,\N,"TaE 1868"
+"588",\N,"588",\N,\N,"2","1","6","1","Tavel-Mutach",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Coronel in Bavarian (mercenary services) [Oberst in bayrischen Diensten].","2","na","0","TaMu0000"
+"589",\N,"589",\N,\N,"2","1","2","1","Theiler",\N,\N,"1805-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Vikar, steht zur Wahl im Dreiervorschlag 1837","1",\N,\N,"Th1805"
+"590",\N,"590",\N,\N,"2","1","3","2","Tobler","Anna Barbara",\N,\N,"Fehraltorf",\N,"1826-01-01 00:00:00","na","na",\N,"First wife of Heinrich Weiss","2","na","0","ToBrAB1790§"
+"591",\N,"591",\N,\N,"1","1","3","1","Tobler","Salomon",\N,"1794-01-01 00:00:00","Zürich/Zürich",\N,"1878-01-01 00:00:00",\N,\N,\N,"Pfarrer, Dichter","1",\N,\N,"ToS1794"
+"592",\N,"592",\N,\N,"2","1","6","1","Tobler","Titus",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"ToTxxxx"
+"593",\N,"593",\N,\N,"2","1","2","1","Treichler","Johann Jakob",\N,"1822-01-01 00:00:00",\N,\N,"1906-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,"TrJJ1822"
+"594",\N,"594",\N,\N,"3","1","5","1","Treitschke","Heinrich, von",\N,"1834-01-01 00:00:00",\N,\N,"1896-01-01 00:00:00","Berlin, German Empire","Dresden, Kingdom of Saxony",\N,"Luther und die deutsche Nation (1883)","4","95211206","0","TrH1834"
+"595",\N,"595",\N,\N,"2","1","3","1","Troxler","Ignaz P.V.",\N,"1780-01-01 00:00:00",\N,\N,"1866-01-01 00:00:00",\N,\N,\N,"Jurist, ganzheitlicher Arzt, Pädagoge, neben Zschokke der Schweizer Publizist","1",\N,\N,"TrIPV1780"
+"596",\N,"596",\N,\N,"3","1","5","1","Troxler","Joseph",\N,\N,\N,\N,\N,\N,\N,\N,"Illustrierte Schweizer Geschichte für Sekundar- und Mittelschulen (1923) – loyality within the Catholic community („innerkatholische Loyalität) vs. the Protestant Swiss as explanation for parallels between the constitution of the Nation-state and the Sonderbunds War (Metzger, 2011) (p. 175) ","1",\N,\N,"TrJ xxxx"
+"597",\N,"597",\N,\N,"2","1","3","2","Trudel","Dorothea",\N,"1813-01-01 00:00:00",\N,\N,"1862-01-01 00:00:00","Männedorf, Zürich, Switzerland","Hombrechtikon, Zürich, Switzerland",\N,"Pietist healer and preacher.","4","59877442","0","TrD1813"
+"598",\N,"598",\N,\N,"2","1","5","1","Tschachtlan",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Bern Chronik (1470)","1",\N,\N,"Ts1470§"
+"599",\N,"599",\N,\N,"2","1","5","1","Tschudi","Aegidius",\N,"1505-01-01 00:00:00",\N,\N,\N,\N,\N,\N,"Chronicon Helveticum (1534-1536) writes down the oral tradition of Wilhelm Tell and converts the tale into a saga, “invents” the date of events - Gallia comata (1554) – first map of Switzerland published 1538 in Alpisch Rhetia – combines political positions and historiography (!) (vs. other historiographers who write at the order of kings), was actively involved in the “Glarner Handel” and failed – creates the myth of the liberation history of Switzerland. – believes in an ancient liberty of the Helvetii (Peyer, 1985) – deconstruction of founding legend (Beck, 1980; Brändli, 2004; Stettler, 2004) see also (Erscheinungsformen kultureller Prozesse: Jahrbuch 1988 des Sonderforschungsbereichs “Übergänge und Spannungsfelder zwischen Mündlichkeit und Schriftlichkeit,” 1990)","1",\N,\N,"TsAe1505"
+"600",\N,"600",\N,\N,"3","1","5","1","Tuchtenhagen","Ralph",\N,"1961-01-01 00:00:00",\N,\N,\N,\N,"Karlsruhe",\N,"In his inaugural lecture for his position at the philosophical faculty of the Humboldt-University Berlin, Tuchenthagen localises Switzerland culturally as a country of the European north (Tuchtenhagen, 2011), based on the definition of the “North” in the 18th Century (p. 13) 
+(by this time Switzerland was in a very narrow relation with England, Sweden and Russia. Today Switzerland is not anymore in the North but in Central Europe and Russia has fallen out of Europe -> see the Russian arch – TH)...","4","12483925","0","TuR1961"
+"601",\N,"601",\N,\N,"2","1","2","2","Tumarkin","Anna",\N,"1875-01-01 00:00:00",\N,\N,"1951-01-01 00:00:00","na","na",\N,"First female professor at the University of Bern.","2","na","0","TuA1875"
+"602",\N,"602",\N,\N,"2","1","1","1","Übel","Bruno",\N,"1806-01-01 00:00:00","Hoya bei Eisleben/Herrliberg",\N,"1840-01-01 00:00:00",\N,\N,\N,"Major","1",\N,\N,"UeB1806"
+"603",\N,"603",\N,\N,"2","1","1","1","Ulrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Philologe am Carolinum","1",\N,\N,"Ulxxxx"
+"604",\N,"604",\N,\N,"3","1","5","2","Unger ","Friederike Helene",\N,\N,\N,\N,\N,"na","na",\N,"Wrote Die Franzosen in Berlin, oder Serene an Clementinen in den Jahren 1806. 7. 8","2","na","0","UnFH1806§"
+"605",\N,"605",\N,\N,"2","1","3","1","Ungerich","Caspar",\N,\N,"Dietikon",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","1",\N,\N,"UnCxxxx"
+"606",\N,"606",\N,\N,"1","1","3","1","Usteri","Johann Martin",\N,"1763-01-01 00:00:00","Zürich/Rapperswil",\N,"1827-01-01 00:00:00",\N,\N,\N,"Dichter, Maler und Zeichner, freund von Heinrich Eschers Vater","1",\N,\N,"UsJM1763"
+"607",\N,"607",\N,\N,"2","1","3","1","Usteri","Leonhard",\N,"1769-01-01 00:00:00",\N,\N,"1853-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Philologe am Carolinum (Hebräisch)","4","42612272","0","Usteri1769"
+"608",\N,"608",\N,\N,"1","1","3","1","Usteri","Paul  ",\N,"1768-01-01 00:00:00","Zürich/Zürich",\N,"1831-01-01 00:00:00",\N,\N,\N,"Staatsrat, Publizist","1",\N,\N,"UsP1768"
+"609",\N,"609",\N,\N,"2","1","2","1","Vela","Luigi",\N,"1820-01-01 00:00:00",\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"VeL1820"
+"610",\N,"610",\N,\N,"2","1","3","2","Villiger-Keller","Gertrud",\N,"1910-01-01 00:00:00",\N,\N,\N,"na","na",\N,\N,"2","na","0","ViKeG1910"
+"611",\N,"611",\N,\N,"2","1","3","2","Villinger","Marie",\N,"1860-01-01 00:00:00",\N,\N,"1946-01-01 00:00:00","Schwanden, Glarus, Switzerland","Geissingen b. Baden",\N,"Participated in the workers movement.","2","na","0","ViM1860"
+"612",\N,"612",\N,\N,"2","1","3","1","Vinet","Alexandre",\N,\N,\N,\N,\N,\N,\N,\N,"Theologe, gegen Freisinnige Kontrolle über Kirche, daher für Trennung Kirche-Staat","1",\N,\N,"ViAxxxx"
+"613",\N,"613",\N,\N,"3","1","5","1","Vischer","Eduard",\N,\N,\N,\N,\N,\N,\N,\N,"wrote B.G. Niebuhr und die Revolution","1",\N,\N,"ViExxxx"
+"614",\N,"614",\N,\N,"2","1","3","1","Vogel","Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"VoFxxxx"
+"615",\N,"615",\N,\N,"3","1","5","1","Vogelsanger","Peter",\N,\N,\N,\N,\N,\N,\N,\N,"Historiographer of the Imperial Abbey of Fraumünster (Zürich).","1",\N,\N,"VoPxxxx"
+"616",\N,"616",\N,\N,"3","1","5","2","Voigts","Jenny, von","born Möser, Johanne Wilhelmine Juliane ","1749-01-01 00:00:00",\N,\N,"1814-01-01 00:00:00","Melle, Germany","Osnabrück, Germany",\N,"Was a German writer.","4","62327551","0","VoJ1749"
+"617",\N,"617",\N,\N,"2","1","3","1","Vollenweider","Johann",\N,\N,"Auslikon",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","1",\N,\N,"VoJxxxx"
+"618",\N,"618",\N,\N,"3","1","5","2","Von der Recke","Elisabeth Charlotte Constanzia ",\N,"1754-01-01 00:00:00",\N,\N,"1833-01-01 00:00:00","na","na",\N,"actually Elisabeth Charlotte Constanzia von der Recke (1754-1833) - Aufzeichnungen und Briefe aus ihren Jugendtagen, Band 1; Tagebücher und Briefe aus ihren Wanderjahren, Band 2 – French Revolution as a negative model and the promise of liberty as a lie (Vahsen, 2000) (p.48).","2","na","0","VdRECC1754"
+"619",\N,"619",\N,\N,"2","1","2","1","von Haller","Karl Ludwig",\N,"1768-01-01 00:00:00",\N,\N,"1854-01-01 00:00:00",\N,\N,\N,"gab den Namen einer Epoche in seinem Buchtitel ""Restauration und Staatswissenschaft (1816-1834), zum kathl. Konvertierter Romantiker der einen absolutistischen Staat anstrebte","1",\N,\N,"vHaKL1768"
+"620",\N,"620",\N,\N,"2","1","6","1","Wagner","Friedrich Ludwig, von",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","WaFLxxxx"
+"621",\N,"621",\N,\N,"2","1","3","1","Wagner","Richard",\N,"1813-01-01 00:00:00",\N,\N,"1882-01-01 00:00:00","Venezia, Italy","Leipzig, Germany",\N,"German musician","4","29732107","0","WaR1813"
+"622",\N,"622",\N,\N,"3","1","5","2","Wahl","Sophie Helmine","born, Singer","1774-01-01 00:00:00",\N,\N,\N,"na","Berlin, Germany",\N,\N,"2","na","0","WaSH1774"
+"623",\N,"623",\N,\N,"2","1","1","1","Walder",\N,\N,\N,"Thurgau",\N,\N,"na","na",\N,\N,"1",\N,\N,"Wa 0000"
+"624",\N,"624",\N,\N,"3","1","5","2","Wallenrodt","Johanna Isabella Eleonore, von",\N,"1740-01-01 00:00:00",\N,\N,"1819-01-01 00:00:00","na","na",\N,"actually Johanna Isabella Eleonore von Wallenrodt (1740-1819) – Senschreiben mentions the idea of - „von einzelnen Machthabern verführtes Volk“ in (Wallenrodt, 1794) in (Vahsen, 2000), revolution as self-preservation (p. 49)","2","na","0","WaJIE1740"
+"625",\N,"625",\N,\N,"4","1","4","2","Waser","Anna",\N,"1678-01-01 00:00:00",\N,\N,"1714-01-01 00:00:00","Zürich, Switzerland","Zürich, Switzerland",\N,"Anna Waser was a Swiss painter. According to Jean-Baptiste Descamps she was born in Zurich in 1679 and became a pupil of Joseph Werner. According to the RKD she was born a year earlier and was an engraver and miniature painter. (Wikipedia)","4","62360577","0","WaA1678"
+"626",\N,"626",\N,\N,"2","1","3","1","Waser","Johann Heinrich",\N,\N,"Volkswirthschafter",\N,\N,\N,\N,\N,\N,"1",\N,\N,"WaJHxxxx"
+"627",\N,"627",\N,\N,"2","1","5","1","Watt","Johannes, von","Vadian","1484-01-01 00:00:00",\N,\N,"1551-01-01 00:00:00",\N,\N,\N,"reformator of St. Gallen, friend of Huldrych Zwingli (1848-) - De poetica et carminis ratione liber (1518) ; Die Große Chronik der Äbte des Klosters St. Gallen (1529); Von Zustand und Wesen der Zeiten ..., Der fromme Einsiedler Sankt Gallus, Der Thurgau, Die Stadt St.Gallen, Der Bodensee, Vom Ursprung des Mönchsstandes – sprachlich restaurierte und für heutige Leser gekürzte geographische und historische Texte Vadians. In: Sankt Gallus. Geschichte – Legende – Interpretation (Geistiges Erbe Schweiz, Band 4). Verlag Bär, Niederuzwil 2012. – cooperation with Zürich, Konstanz and Bern about the Burgrecht (1528) – special (new) interest in „development and change of state policies and institutions“ (Peyer, 1985), exclusion of legends and wonders from historiography for being “untrue” – constructs Reichsfreiheit of St. Gallen without documentation (!) with political interest and derives it from an important Kaiser (Barbarossa) and locates it as early as possible in time – the Swiss including the Innerschweitzer as immigrants (no continuency with the Helvetii) crossing the Rhein, governed by the empires since Charlmagne and liberated due to their merits (as a gift!) (Peyer, 1985) vs. panegyric of the liberation myth and Tell-Saga – respect towards monarchs and aristocrats, positive image of the Habsburg as “soft” not oppressing (!) – justifies the “verbürgerlichung” of the monastries with the degeneration of the nobel owners ans neglects the possibility that the nobility could be renovated – dislikes intervention in foreign affairs (not idea of neutrality but pragmatic self-protection), efforts for confessional peace == Vadian was not recognized. In his place, Johannes Stumpf became the leading historiographer (Peyer, 1985)","1",\N,\N,"WaJ1484"
+"628",\N,"628",\N,\N,"2","1","3","2","Wattenwyl","Anna Desirée, von",\N,\N,\N,\N,\N,"na","na",\N,"Äbtissin Chateau-Chalon, Mutter von Charlotte von Stein, Schwester von Françoise Elisabth","2","na","0","WaD1640§"
+"629",\N,"629",\N,\N,"2","1","3","2","Wattenwyl","Anna, von",\N,"1841-01-01 00:00:00","Bern",\N,"1927-01-01 00:00:00","na","Kandern*",\N,"Pioneer of the Heilsarmee [The Salvation Army].","2","na","0","WaA1841"
+"630",\N,"630",\N,\N,"2","1","3","1","Wattenwyl","Bernhard, von",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund","1",\N,\N,"WaBxxxx"
+"631",\N,"631",\N,\N,"2","1","3","2","Wattenwyl","Françoise Elisabeth, von",\N,\N,\N,\N,"1794-01-01 00:00:00","na","na",\N,"Äbtissin Chateau-Chalon, Tante von Charlotte von Stein, ""Rubin Watenwyl""","2","na","0","WaFE1750§"
+"632",\N,"632",\N,\N,"2","1","3","1","Wattenwyl","Friedrich, von",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","WaFxxxx"
+"633",\N,"633",\N,\N,"2","1","3","1","Wattenwyl","Johann, von",\N,\N,\N,\N,\N,\N,\N,\N,"Bruder von Angelika","1",\N,\N,"WaJxxxx"
+"634",\N,"634",\N,\N,"2","1","3","2","Wattenwyl","Maria Angelika, von",\N,\N,\N,\N,\N,"na","na",\N,"Äbtissin Chateau-Chalon","2","na","0","WaMA1750§"
+"635",\N,"635",\N,\N,"2","1","3","1","Wattenwyl","Niklaus Rudolf, von",\N,\N,\N,\N,\N,\N,\N,\N,"gemässigter Aristokrat","1",\N,\N,"WaNRxxxx"
+"636",\N,"636",\N,\N,"2","1","3","1","Wattenwyl","Nikolaus Rudolf",\N,"1760-01-01 00:00:00",\N,\N,"1832-01-01 00:00:00","Aarburg, Switzerland","Bern, Switzerlan",\N,"Magistrated of the city and Republic Bern [Schultheiss der Stadt und Republik Bern].","4","67235444","0","WaNR1760"
+"637",\N,"637",\N,\N,"4","1","4","2","Wattenwyl, von","Katharina Franziska","Catherine","1645-01-01 00:00:00",\N,\N,"1714-01-01 00:00:00","na","na",\N,"Agentin in Französischen Diensten","2","na","0","WaKF1645"
+"638",\N,"638",\N,\N,"2","1","3","2","Wattenwyl-Frisching","Sophie Alette, von","born Frisching, Alette Sophie Rosine","1793-01-01 00:00:00",\N,\N,"1854-01-01 00:00:00","na","na",\N,"She married Friedrich von Wattenwyl von Bursinel in 1838.","2","na","0","WaSA1793"
+"639",\N,"639",\N,\N,"1","1","6","1","Weber","Georg",\N,\N,"Pfäffikon (ZH)",\N,\N,\N,\N,\N,"unbekannt","1",\N,\N,"WeG0000"
+"640",\N,"640",\N,\N,"1","1","2","1","Weber","Hans Jakob",\N,"1788-01-01 00:00:00","Pfäffikon (ZH)/Zürich",\N,"1839-01-01 00:00:00",\N,\N,\N,"Besitzt Weberei, arm","1",\N,\N,"WeHJ1788"
+"641",\N,"641",\N,\N,"2","1","2","1","Weber","Johannes",\N,"1846-01-01 00:00:00",\N,\N,"1912-01-01 00:00:00","Castagnola, (today) Lugano, Switzerland","Frastanz, Voralberg",\N,"Coronel [General].","4","267065001","0","WeJ1846"
+"642",\N,"642",\N,\N,"3","1","5","2","Wegscheider","Hildegrad",\N,"1871-01-01 00:00:00",\N,\N,"1953-01-01 00:00:00","Berlin, Germany","Berlin, Germany",\N,"She was a German teacher and school reformer. Chronicon Carionis: ein Beitrag zur Geschichtsschreibung des 16. Jahrhunderts, Halle (M. Niemeyer) (1898) (Dissertation, auch als Hallesche Abhandlungen zur neueren Geschichte; 35) - ""Die Frau im demokratischen Staat, An unsere Frauen"", Verlag ""Das Volk"" Berlin, Dezember 1945 – „European spirit“  and development of European values in private „protected space“ (Koop, 2009) –foundation of girls schoos at the end of 19th Century – positive experience of studies at University Zurich – one of the characteristics of a good student accoding Treischke was his ability to get drunk (!) (p. 45)","2","na","0","WeH1871"
+"643",\N,"643",\N,\N,"2","1","3","1","Wehrli",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Seidenfabrikant in Zürich","1",\N,\N,"Wexxxx"
+"644",\N,"644",\N,\N,"3","1","5","2","Weinmann","Barbara  ",\N,\N,\N,\N,\N,\N,\N,\N,"Barbara Weinmann in Eine andere Bürgergesellschaft (Weinmann, 2002) similar as Paul König, finds the unique roots of the Swiss political system and national identity in a synthesis of the medieval guild system and liberal ideals derived from the French Revolution. While König understands this synthesis rather as an harmonic integration or a kind of balance (König, 1960, 1966, 1969), Weinmann understands it as form of genuine creation of a new way of thinking that emerges from two different, apparently opposing ideologies. Her view is completly disconnected from the soteriological interpretation and the need of religious spirituality.","1",\N,\N,"WeBxxxx"
+"645",\N,"645",\N,\N,"1","1","1","1","Weiss","Heinrich",\N,"1789-01-01 00:00:00","Fehraltorf (ZH)",\N,"1848-01-01 00:00:00",\N,\N,\N,"Regierungsrat, Professor,Sohn eines Lehrmeisters, Tuchhändler in Winterthur","2","na","0","WeH 1789"
+"646",\N,"646",\N,\N,"2","1","6","1","Weiss","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,"Pfarrer in Dielsdorf, Notar 1822","1",\N,\N,"WeHxxxx"
+"647",\N,"647",\N,\N,"2","1","6","1","Weiss","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,"Lehrer in Knonau oder von Knonau 1800","1",\N,\N,"WeHxxxx"
+"648",\N,"648",\N,\N,"2","1","6","1","Weiss","Heinrich",\N,\N,"Rumikon",\N,\N,\N,\N,\N,"Friedensrichter 1822","1",\N,\N,"WeHxxxx"
+"649",\N,"649",\N,\N,"2","1","6","1","Weiss","Heinrich",\N,\N,"Zürich",\N,\N,\N,\N,\N,"Oberleutnant 1822","1",\N,\N,"WeHxxxx"
+"650",\N,"650",\N,\N,"2","1","6","1","Weiss","Heinrich",\N,\N,"Zürich",\N,\N,\N,\N,\N,"Artillerie 1822","1",\N,\N,"WeHxxxx"
+"651",\N,"651",\N,\N,"2","1","6","1","Weiss","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,"Oberst 26.1.1877, schwiegersohn von Eduard Pöschel oder Baron Walter-Burg (http://81.10.184.26:9001/personen_add/Burg_Adam_Freiherr.pdf)","1",\N,\N,"WeHxxxx"
+"652",\N,"652",\N,\N,"2","1","2","1","Weiss","Johann Heinrich",\N,"1805-01-01 00:00:00",\N,\N,"1877-01-01 00:00:00",\N,\N,\N,"Pfarrer zu Wallisellen. author of ""Die Kirchenverfassung der Piemontesischen Waldensergemeinden: Aus ihren Synodalprotokollen von 1690 - 1828 in einzelne Sätze zusammengestellt ; nebst einigen ausgewählten Stellen aus den ältesten Bekenntnißschriften der Waldenser""","1",\N,\N,"WeJH1805"
+"653",\N,"653",\N,\N,"2","1","3","1","Weitling","Wilhelm",\N,\N,"Magdeburg",\N,\N,\N,\N,\N,"Ausländischer Sozialist in Lausanne","1",\N,\N,"WeWxxxx"
+"654",\N,"654",\N,\N,"4","1","4","2","Welti-Escher","Lydia",\N,"1858-01-01 00:00:00",\N,\N,"1891-01-01 00:00:00","na","na",\N,\N,"2","na","0","WeEsL1858"
+"655",\N,"655",\N,\N,"1","1","2","1","Werdmüller","Hans Rudolf",\N,"1756-01-01 00:00:00",\N,\N,"1825-01-01 00:00:00",\N,\N,\N,"Stadträsident, Kaufmann im alten Seidenhof","1",\N,\N,"WeHR1756"
+"656",\N,"656",\N,\N,"2","1","3","1","Werdt",", von",\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","Wexxxx"
+"657",\N,"657",\N,\N,"2","1","2","1","Werdt","Friedrich Karl Georg, von",\N,"1831-01-01 00:00:00",\N,\N,"1893-01-01 00:00:00","Toffen, Switzerland","Bern, Switzerlan",\N,\N,"4","D4772","0","WeFKG1831"
+"658",\N,"658",\N,\N,"2","1","3","2","Wespi","Anna Elisabeth ",\N,"1783-01-01 00:00:00",\N,\N,\N,"na","Fällanden, Zürich, Switzerland",\N,"She was married to Jakob Wespi.","2","na","0","WeE1783"
+"659",\N,"659",\N,\N,"3","1","5","1","Wessendorf","Ernst",\N,\N,\N,\N,\N,\N,\N,\N,"Ernst Wessendorf writes 1962 his dissertation Geschichtsschreibung für Volk und Schulen in der alten Eidgenossenschaft (Wessendorf, 1962)","1",\N,\N,"WeExxxx"
+"660",\N,"660",\N,\N,"2","1","3","1","Wet(z)stein","Johann Rudolph",\N,\N,"Kempraten",\N,\N,\N,\N,\N,"Gichteler (Neugläubiger)","1",\N,\N,"WeJRxxxx"
+"661",\N,"661",\N,\N,"2","1","5","2","Wetzikon","Elisabeth, von",\N,\N,\N,\N,"1295-01-01 00:00:00",\N,\N,\N,"Princess Abbess of the Imperial Abbey of Fraumünster (Zürich). „Bis heute sind 170 Urkunden erhalten, die ihren Namen und teilweise auch ihr Siegel tragen und aufzeigen, dass sie sich von Amts wegen mit vielen verschiedenen Rechtsgeschäften befasste. Sie hatte weitreichende Beziehungen und politischen Einfluss über Zürich hinaus. Beispielsweise war der Landammann von Uri im Gründungsjahr der Schweiz 1291 ihr Meier Ritter Arnold von Silenen.“ (Wikipedia)","1",\N,\N,"WeE1235*"
+"662",\N,"662",\N,\N,"2","1","3","2","Wiborada",\N,"also Guiborat or Weibrath",\N,\N,\N,\N,"Abbey of Saint Gall, St. Gallen, Switzerland","Aargau, Switzerland",\N,"Saint Wiborada of St. Gall was a member of the Swabian nobility in what is present-day Switzerland. She was an anchoress, Benedictine nun, and martyr, as well as the first woman formally canonized by the Vatican.  (Wikipedia)","2","na","0","Wi900§"
+"663",\N,"663",\N,\N,"2","1","2","1","Wieland","Johannes",\N,"1791-01-01 00:00:00",\N,\N,"1832-01-01 00:00:00","Basel, Switzerland","Basel, Switzerland",\N,\N,"4","15147157","0","WiJ1791"
+"664",\N,"664",\N,\N,"2","1","3","1","Wilken","Friedrich",\N,"1777-01-01 00:00:00",\N,\N,"1840-01-01 00:00:00",\N,\N,\N,"Professor Historik","1",\N,\N,"WiF1777"
+"665",\N,"665",\N,\N,"2","1","3","1","Willin",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"Wixxxx"
+"666",\N,"666",\N,\N,"2","1","3","1","Wirth","Kaspar Melchior",\N,\N,\N,\N,\N,\N,\N,\N,"Pfarrer, Gegenvorschlag des Kirchenrats für Pfarrei Pfäffikon","1",\N,\N,"WiKMxxxx"
+"667",\N,"667",\N,\N,"2","1","3","1","Wirz",\N,\N,\N,"zuletzt Mönchaltorf",\N,\N,\N,\N,\N,"Pfarrer, Lehrer von Heinrich Escher","1",\N,\N,"Wirzxxxx"
+"668",\N,"668",\N,\N,"2","1","3","1","Wiswald",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"Wixxxx"
+"669",\N,"669",\N,\N,"3","1","5","2","Wolfhagen","Friederike Marie Ernstine","Marie Norden","1812-01-01 00:00:00",\N,\N,"1878-01-01 00:00:00","na","na",\N,"actually Friederike Marie Ernstine Wolfhagen (1812-1878) ","2","na","0","WoFME1812"
+"670",\N,"670",\N,\N,"2","1","3","2","Wollenstonecraft","Mary",\N,"1759-01-01 00:00:00",\N,\N,"1797-01-01 00:00:00","na","na",\N,\N,"2","na","0","WoM1759"
+"671",\N,"671",\N,\N,"3","1","5","2","Wollstonecraft","Mary",\N,"1759-01-01 00:00:00",\N,\N,"1797-01-01 00:00:00","London, United Kingdom","Spitalfields, United Kingdom",\N,"according Vahsen (Vahsen, 2000)blaims the French national character and claims the need for a gradual introduction of the revolution (Wollstonecraft, 1790, 1794) – she was in Paris during the revolution and her books were translated into German.","4","51697482","0","WoM1759"
+"672",\N,"672",\N,\N,"1","1","2","1","Würgler","Johannes",\N,"1787-01-01 00:00:00","Hottingen, von Uster",\N,\N,\N,\N,\N,"unbekannt","1",\N,\N,"WueJ1787"
+"673",\N,"673",\N,\N,"1","1","3","1","Wyss","David, von",\N,"1763-01-01 00:00:00","Zürich/Erlenbach",\N,"1839-01-01 00:00:00","Erlenbach, Zürich, Switzerland","Zürich, Switzerland",\N,"Bürgermeister","4","13104570","0","WyD1763"
+"674",\N,"674",\N,\N,"3","1","5","1","Wyss","Georg, von",\N,"1816-01-01 00:00:00","Geschichte der Historiographie in der Schweiz(1895?)",\N,"0000-00-00 00:00:00","1893-01-01 00:00:00",\N,\N,\N,\N,\N,"1","WyG1816"
+"675",\N,"675",\N,\N,"2","1","3","1","Wyttenbach",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Sarnerbund",\N,\N,"1","Wyxxxx"
+"676",\N,"676",\N,\N,"1","1","1","1","Zehnder","Johann Ulrich",\N,"1798-01-01 00:00:00","Hans Ulrich",\N,"1877-01-01 00:00:00","Zürich, Switzerland","Oberengstringen",\N,"Bürgermeister","4","116969024","0","ZeHU1798"
+"677",\N,"677",\N,\N,"2","1","2","2","Zehnder-Stadlin","Josephin",\N,"1806-01-01 00:00:00",\N,\N,"1875-01-01 00:00:00","na","na",\N,"Pädagogin, Nichte von Elise Ruepp, Freundin von Augustin Keller","2","na","0","ZeStJ1806"
+"678",\N,"678",\N,\N,"2","1","3","1","Zerrer",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Seidenfabrikant in Hausen","1",\N,\N,"Ze xxxx"
+"679",\N,"679",\N,\N,"2","1","3","2","Zetkin","Clara Josephine ","born Eißner","1857-01-01 00:00:00",\N,\N,"1933-01-01 00:00:00","Arkhangelskoye, near Moscow","Königshain-Wiederau, Saxony",\N,"Clara Zetkin was a German Marxist theorist, activist, and advocate for women's rights. In 1911, she organized the first International Women's Day. (Wikipedia)","4","46861505","0","ZeC1857"
+"680",\N,"680",\N,\N,"2","1","3","1","Zeuner",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"1",\N,\N,"Zexxxx"
+"681",\N,"681",\N,\N,"1","1","2","1","Ziegler","Paul Carl Eduard",\N,"1800-01-01 00:00:00",\N,\N,"1882-01-01 00:00:00",\N,\N,\N,"Berufsoffizier in Holland, Oberst, Kaufmann; Led batallion of the counter-revolution during Helvetic","1",\N,\N,"ZiPCE1800"
+"682",\N,"682",\N,\N,"3","1","5","1","Zimmer","Oliver",\N,\N,\N,\N,\N,\N,\N,\N,"A Contested Nation: History, Memory and Nationalism in Switzerland, 1761-1891 (Zimmer, 2003)","1",\N,\N,"ZiOxxxx"
+"683",\N,"683",\N,\N,"2","1","3","1","Zimmerli","D.",\N,"1792-01-01 00:00:00",\N,\N,"1875-01-01 00:00:00","Aarau, Switzerland","Aarau, Switzerland",\N,\N,"4","D24460","0","ZiD1792"
+"684",\N,"684",\N,\N,"2","1","3","2","Zimmerli-Bäuerlin","Pauline",\N,"1829-01-01 00:00:00",\N,\N,"1914-01-01 00:00:00","na","na",\N,"Swiss enterpreneur in the textil industry.","2","na","0","ZiBaeP1829"
+"685",\N,"685",\N,\N,"2","1","3","1","Zimmermann","J. C.",\N,\N,\N,\N,\N,\N,\N,\N,"Sekundarschulpfleger","1",\N,\N,"ZiJCxxxx"
+"686",\N,"686",\N,\N,"2","1","1","1","Zimmermann","Johann H.",\N,\N,\N,\N,\N,"na","na",\N,\N,"1",\N,\N,"ZiJH0000"
+"687",\N,"687",\N,\N,"2","1","2","1","Zimmermann, Ritter von","Johann Georg",\N,"1728-01-01 00:00:00","Bussenhausen, Brugg/Hannover",\N,"1795-01-01 00:00:00",\N,\N,\N,"Gichteler (Neugläubiger) ?","1",\N,\N,"ZiJG1728"
+"688",\N,"688",\N,\N,"2","1","3","2","Zimmern","Katharina, von",\N,"1478-01-01 00:00:00",\N,\N,"1547-01-01 00:00:00","na","na",\N,"Last Princess Abbess of the Imperial Abbey of Fraumünster (Zürich), renounces her postion in favour of peace (Abegg, 2008; Barack, 1932; Bumiller, Rüth, & Weber, 2012; Decker-Hauff, 1964; Gysel & Helbling, 1999; Niederhäuser & Wild, 2012; Vogelsanger, 1994)","2","na","0","ZiK1478"
+"689",\N,"689",\N,\N,"3","1","5","2","Zitz","Kathinka","born Halein, full name Kathinka Therese ","1801-01-01 00:00:00",\N,\N,"1877-01-01 00:00:00","na","Mainz, Germany",\N,"Kathinka Zitz was a German writer. On June 3, 1837, she married a distant relative, the prominent Mainz attorney and 1848 revolutionary Dr. Franz Heinrich Zitz. They lived together for two years. (Wikipedia)","4","232872775","0","ZiK1801"
+"690",\N,"690",\N,\N,"3","1","5","1","Zschokke","Heinrich",\N,"1771-01-01 00:00:00",\N,\N,"1848-01-01 00:00:00",\N,\N,\N,"neben Troxler der führende Schweizer Publizist. Wrote as historiographer the drama of the Helvetic revolution - (Hentschel, 2002) (p. 230) cites Berlepsch as a “[...] ein zur Hölle gewordenes Paradis [...]” (Berlepsch, 1799) (p. 436) ","1",\N,\N,"ZsH1771"
+"691",\N,"691",\N,\N,"5","1","2","2","Wendel","Klara",\N,"1894-01-01 00:00:00",\N,\N,"1884-01-01 00:00:00",\N,\N,\N,"Mentioned in letter between Blumer and Escher: Klara Wendel (1804–1884). Blumer verweist hier auf die «Gaunerprozesse» von 1824–1826, in denen die Aussagen der heimatlosen Klara Wendel für politische Zwecke instrumentalisiert wurden. Vgl. Pfyffer, Geschichte Luzern II, S. 366–385.","1",\N,\N,"WeK1894"
+"692",\N,"692",\N,\N,"5","1","2","2","Sichler","Josephine",\N,"1787-01-01 00:00:00",\N,\N,\N,\N,"Rottweil, Würtemberg",\N,"Participated in the Russian capaign 1812. Daughter of Franz Xaver Sichler and Hyacinthe Burckhardt. Born 19/3/1787. Sie heiratete 1811 in Ludwigsburg Georg HENSSLER, Unteroffizier der
+württembergischen Kavallerie, geboren in Frickenhausen, Sie folgte ihrem
+Mann nach Rußland, der in der Schlacht von Borodino am 07. September 1812 
+fiel. Die  Beresina (November 1812) überwand Josephine HENSSLER bei 
+Eiseskälte schwimmend in Anwesenheit Napoleons. Sie lebte vermutlich 1857 
+in Stuttgart und erhielt die auch in Deutschland sehr begehrte Sankt-Helena-
+Medaille. Source: http://www.stehelene.org/cgi-bin/lh/stehelene-search.pl ","1",\N,\N,"SiJ1787"
+"693",\N,"693",\N,\N,"5","1","2","2","Lennox","Georgiana",\N,\N,\N,\N,\N,\N,\N,\N,"Particpated in Napoleons invasion of Belgium (?). See http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm","1",\N,\N,"LeG xxxx"
+"694",\N,"694",\N,\N,"5","1","2","2","Jones","Jenny  ",\N,\N,\N,\N,\N,\N,\N,\N,"Another women at Waterloo was 26-year-old Jenny Jones. Her tombstone at Tau y Ilyn in Wales records that she was there with her husband of the 23rd Royal Welsh Fusiliers and remained on the field for three days. - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"JoJxxxx"
+"695",\N,"695",\N,\N,"5","1","2","2","Aggelin","Elske, van",\N,\N,\N,\N,\N,\N,\N,\N,"a sutleress with the Dutch army, ¨[in Waterloo] who celebrated her 95th birthday in perfect health in 1889. - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"AgExxxx"
+"696",\N,"696",\N,\N,"5","1","2","2","Moon","Barbara",\N,\N,\N,\N,\N,\N,\N,\N,"One of the last surviving witnesses of Waterloo was Mrs. Barbara Moon, who died in October 1903, 88 years after the battle. Born during the Peninsular War, she was a four-year-old child by the time of Waterloo and rode in a wagon over the battlefield in the evening of June 18. Her father, a color sergeant in the 95th Rifles, died of his wounds of few months later. - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"MoBxxxx"
+"697",\N,"697",\N,\N,"5","1","2","2","Deacon","Martha",\N,\N,\N,\N,\N,\N,\N,\N,"Ensign Thomas Deacon of the 73rd Foot was wounded at the Battle of Quatre Bras on June 16 and his pregnant wife, Martha, searched in vain for him throughout the night. Then she heard that he had been taken to Brussels and set out for the Belgian capital on foot, accompanied by her three children. Torrential rain soon drenched them as they trudged warily along the 20 miles of road. Martha had only a black silk dress and a light shawl, but reached the city with her children, found her husband safe there,, and gave birth to a baby girl on June 19. The joyful parents christened her Waterloo Deacon, after the previous day's victory. - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"DeMxxxx"
+"698",\N,"698",\N,\N,"5","1","2","2","Lancey","Madgalene, de",\N,\N,\N,\N,\N,\N,\N,\N,"had married Colonel Sir William Howe de Lancey, Wellington's deputy quartermaster-general, on April 4, 1815. Magdalene went to Antwerp for safety when hostilities began and there she received a succession of conflicting rumors that William was either dead or alive. At last, she learned that he was alive, but badly wounded. She managed to reach his side in a cottage and was with him when he died on June 26. They had been married for less than three months. Magdalene de Lancey later wrote an outstanding account of her experiences, which she called A Week at Waterloo in 1815. - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"LaMxxxx"
+"699",\N,"699",\N,\N,"5","1","2","2","McMullen","1",\N,\N,\N,\N,\N,\N,\N,\N,"Wife of Peter McMullen, mother of Frederik McMullen. Participated in the battle of Waterloo.","1",\N,\N,"McMxxxx"
+"700",\N,"700",\N,\N,"5","1","2","2","Waldie","Charlotte Ann",\N,\N,\N,\N,\N,\N,\N,\N,"an English resident of Brussels, described the heart-rending scenes in the city on that morning: - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"WaCAxxxx"
+"701",\N,"701",\N,\N,"5","1","2","2","Tête-du-bois","Marie",\N,\N,\N,\N,\N,\N,\N,\N,"Marie Tête-du-bois, the cantinière of the 1st Grenadiers of the Guard, was cut in two by a cannonball at Waterloo. - See more at: http://www.historynet.com/napoleonic-wars-women-at-waterloo.htm#sthash.OzZZoItY.dpuf","1",\N,\N,"TdBMxxxx"
+"702",\N,"702",\N,\N,"5","1","2","2","Jourdan","Therese",\N,\N,\N,\N,\N,\N,\N,\N,"Participated together with Josephine Sichler in the Russian capaign. Her husband Petru fell before her eyes in the battle of Borodino.","1",\N,\N,"JoT1787§"
+"703",\N,"703",\N,\N,"4","1","4","1","Zurlauben","Beat Fidel",\N,"1720-01-01 00:00:00",\N,\N,"1799-01-01 00:00:00",\N,\N,\N,"Militärhistoriker","1",\N,\N,"ZuBF1720"
+"704",\N,"704",\N,\N,"6","1","2","1","Allendorf","Johann Conrad Ludwig",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"705",\N,"705",\N,\N,"6","1","2","1","Arndt","Johann",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"706",\N,"706",\N,\N,"6","1","2","1","Augustinus ","Aurelius",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"707",\N,"707",\N,\N,"6","1","2","1","Barhdt","Christian Gottlob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"708",\N,"708",\N,\N,"6","1","2","1","Bär",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Teacher","3",\N,\N,\N
+"709",\N,"709",\N,\N,"6","1","2","1","Bergasse",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"710",\N,"710",\N,\N,"6","1","2","1","Beyel","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"711",\N,"711",\N,\N,"6","1","2","1","Beyel","Johann Konrad",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"712",\N,"712",\N,\N,"6","1","2","2","Beyel-Imthurn","Julie  ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"713",\N,"713",\N,\N,"6","1","2",\N,"Beyel-Kirchhofer","Elisabeth",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"714",\N,"714",\N,\N,"6","1","2",\N,"Birch","Salomon, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"715",\N,"715",\N,\N,"6","1","2",\N,"Birch-Morf","Anna, von","Nanny",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"716",\N,"716",\N,\N,"6","1","2",\N,"Blumhardt","Johann Christoph ","d. Ä.",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"717",\N,"717",\N,\N,"6","1","2",\N,"Blumhardt-Köllner","Doris",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"718",\N,"718",\N,\N,"6","1","2",\N,"Bluntschli","Hans Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"719",\N,"719",\N,\N,"6","1","2",\N,"Bosshard","Catharina Elisabetha",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"720",\N,"720",\N,\N,"6","1","2",\N,"Bosshard","Hans Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"721",\N,"721",\N,\N,"6","1","2",\N,"Bosshard-von Peyer","Catharina Franziska Carolina",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"722",\N,"722",\N,\N,"6","1","2",\N,"Burckhardt-von Peyer","Johannes",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"723",\N,"723",\N,\N,"6","1","2",\N,"Burkhardt","Diethelm","d. Ä.",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"724",\N,"724",\N,\N,"6","1","2",\N,"Burkhardt","Diethelm","d. J.",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"725",\N,"725",\N,\N,"6","1","2",\N,"Claudius","Matthias",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"726",\N,"726",\N,\N,"6","1","2",\N,"Deschwanden","Melchior Paul",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"727",\N,"727",\N,\N,"6","1","2",\N,"Dubs","Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"728",\N,"728",\N,\N,"6","1","2",\N,"Escher","Mathilde",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"729",\N,"729",\N,\N,"6","1","2",\N,"Esslinger","Johann David",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"730",\N,"730",\N,\N,"6","1","2",\N,"Esslinger-Tobler","Marie",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"731",\N,"731",\N,\N,"6","1","2",\N,"Fehr",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Buchhändler","3",\N,\N,\N
+"732",\N,"732",\N,\N,"6","1","2",\N,"Finsler","Georg",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"733",\N,"733",\N,\N,"6","1","2",\N,"Fliedner","Theodor",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"734",\N,"734",\N,\N,"6","1","2",\N,"Flugi","Conradin, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"735",\N,"735",\N,\N,"6","1","2",\N,"Flugi","Constantin, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"736",\N,"736",\N,\N,"6","1","2",\N,"Flugi","Elise, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"737",\N,"737",\N,\N,"6","1","2",\N,"Flugi","Johannes, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"738",\N,"738",\N,\N,"6","1","2",\N,"Flugi","Nikolaus, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"739",\N,"739",\N,\N,"6","1","2",\N,"Flugi","Regina, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"740",\N,"740",\N,\N,"6","1","2",\N,"Flugi","Thomas Alphons, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"741",\N,"741",\N,\N,"6","1","2",\N,"Flugi-Planta von Wildenberg zu Steinsber","Regina, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"742",\N,"742",\N,\N,"6","1","2",\N,"Flugi-Pool","Juditha, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"743",\N,"743",\N,\N,"6","1","2",\N,"Francke","August Hermann",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"744",\N,"744",\N,\N,"6","1","2",\N,"Fries","Anna Susanna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"745",\N,"745",\N,\N,"6","1","2",\N,"Fries-Freudweiler","Regula Susanna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"746",\N,"746",\N,\N,"6","1","2",\N,"Fröhlich",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"747",\N,"747",\N,\N,"6","1","2",\N,"Füssli","Johann Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"748",\N,"748",\N,\N,"6","1","2",\N,"Ganz","Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"749",\N,"749",\N,\N,"6","1","2",\N,"Gellert","Christian Fürchtgott",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"750",\N,"750",\N,\N,"6","1","2",\N,"Gerhardt","Paul",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"751",\N,"751",\N,\N,"6","1","2","2","Gessner","Dorothea","Döde","1749-01-01 00:00:00",\N,\N,"1830-01-01 00:00:00",\N,\N,\N,\N,"3",\N,\N,\N
+"752",\N,"752",\N,\N,"6","1","2",\N,"Gessner","Eisabeth","Sette","1755-01-01 00:00:00",\N,\N,"1831-01-01 00:00:00",\N,\N,\N,\N,"3",\N,\N,\N
+"753",\N,"753",\N,\N,"6","1","2",\N,"Gessner","Hans Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"754",\N,"754",\N,\N,"6","1","2",\N,"Gessner","Jakob","Hans Jakob, Jaque, d. Ä.","1759-01-01 00:00:00",\N,\N,"1832-01-01 00:00:00",\N,\N,\N,\N,"3",\N,\N,\N
+"755",\N,"755",\N,\N,"6","1","2",\N,"Gessner","Jakob","Jaque, d. J.","1782-01-01 00:00:00",\N,\N,"1806-01-01 00:00:00",\N,\N,\N,\N,"3",\N,\N,\N
+"756",\N,"756",\N,\N,"6","1","2",\N,"Gessner","Kaspar   ",\N,"1720-01-01 00:00:00",\N,\N,"1790-01-01 00:00:00",\N,\N,\N,\N,"3",\N,\N,\N
+"757",\N,"757",\N,\N,"6","1","2",\N,"Gessner","Regula Susanna",\N,"1751-01-01 00:00:00",\N,\N,"1792-01-01 00:00:00",\N,\N,\N,\N,"3",\N,\N,\N
+"758",\N,"758",\N,\N,"6","1","2",\N,"Gessner","Anna Barbara","Bäbe",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"759",\N,"759",\N,\N,"6","1","2",\N,"Gessner-Hess","Meta Regina",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"760",\N,"760",\N,\N,"6","1","2",\N,"Gessener-Heusser","Meta Regina",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"761",\N,"761",\N,\N,"6","1","2",\N,"Gessner-Keller",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"762",\N,"762",\N,\N,"5","1","2",\N,"Gessner-Schweizer","Anna",\N,"1757-01-01 00:00:00",\N,\N,"1836-01-01 00:00:00",\N,\N,\N,\N,"1",\N,\N,\N
+"763",\N,"763",\N,\N,"6","1","2",\N,"Gessner-Lavater","Anna","Nette",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"764",\N,"764",\N,\N,"6","1","2",\N,"Gessner-Schulthess","Barbara",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"765",\N,"765",\N,\N,"6","1","2",\N,"Glinz","Andreas",\N,\N,"Trewernau",\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"766",\N,"766",\N,\N,"6","1","2",\N,"Glinz-Scherb","Elisabeth",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"767",\N,"767",\N,\N,"6","1","2",\N,"Graffenried","Franz Emmanuel Anton",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"768",\N,"768",\N,\N,"6","1","2",\N,"Gray","Johanna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"769",\N,"769",\N,\N,"6","1","2",\N,"Grob","Hans Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"770",\N,"770",\N,\N,"6","1","2",\N,"Gröben","Graf von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"771",\N,"771",\N,\N,"6","1","2",\N,"Gröben","Selma, Gräfin von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"772",\N,"772",\N,\N,"6","1","2",\N,"Grob-Gessner","Johanna Dorothea","Hannchen",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"773",\N,"773",\N,\N,"6","1","2",\N,"Hardenberg-Novalis","Friedrich, von.",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"774",\N,"774",\N,\N,"6","1","2",\N,"Hassell","Ulrich, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"775",\N,"775",\N,\N,"6","1","2",\N,"Hebel","Johann Peter",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"776",\N,"776",\N,\N,"6","1","2",\N,"Heidegger-Hess","Anna","Nettli",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"777",\N,"777",\N,\N,"6","1","2",\N,"Heine","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"778",\N,"778",\N,\N,"6","1","2",\N,"Herrenhuter",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"779",\N,"779",\N,\N,"7","1","2","1","ab Yberg","Alois",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"780",\N,"780",\N,\N,"7","1","2","1","Abyberg-Reding","Dominik",\N,\N,\N,\N,\N,\N,\N,\N,"women","3",\N,\N,\N
+"781",\N,"781",\N,\N,"7","1","2","2","abYberg ","Joseph Theodor Xaver, Graf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"782",\N,"782",\N,\N,"7","1","2","2","Aepli-Heusser",\N,\N,\N,"Schönenberg",\N,\N,\N,\N,\N,"women","3",\N,\N,\N
+"783",\N,"783",\N,\N,"7","1","2","1","Amman","Johann Caspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"784",\N,"784",\N,\N,"7","1","2","1","Andermatt",\N,\N,\N,\N,\N,\N,\N,\N,\N,"General","3",\N,\N,\N
+"785",\N,"785",\N,\N,"7","1","2","1","Anderson",\N,\N,\N,\N,\N,\N,\N,\N,\N,"women widow","3",\N,\N,\N
+"786",\N,"786",\N,\N,"7","1","2","1","Arnold","Gottfried",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"787",\N,"787",\N,\N,"7","1","2","1","Bär",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Dr. med.","3",\N,\N,\N
+"788",\N,"788",\N,\N,"7","1","2","1","Bär",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Missionary","3",\N,\N,\N
+"789",\N,"789",\N,\N,"7","1","2","1","Barbou de Courières","Gabriel-Marie",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"790",\N,"790",\N,\N,"7","1","2","2","Baumann-Heusser","Anna Maria ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"791",\N,"791",\N,\N,"7","1","2","2","Baumann  ","Barbara",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"792",\N,"792",\N,\N,"7","1","2","1","Baumann","Felix",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"793",\N,"793",\N,\N,"7","1","2","1","Baumgartner","Hans",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"794",\N,"794",\N,\N,"7","1","2","1","Beyel","Johann Conrad",\N,\N,"Biel",\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"795",\N,"795",\N,\N,"7","1","2","2","Beyel-Kirchhofer","Susanna Elisabetha",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"796",\N,"796",\N,\N,"7","1","2","1","Biermer","Anton",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"797",\N,"797",\N,\N,"7","1","2","2","Wichelhausen-Birch","Elisabeth, von",\N,\N,\N,\N,\N,\N,\N,\N,"married to Johann Wichelhausen","3",\N,\N,\N
+"798",\N,"798",\N,\N,"7","1","2","2","Birch-Morf","Anna, von","Nanny",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"799",\N,"799",\N,\N,"7","1","2","1","Birch","Salomon, von",\N,\N,\N,\N,\N,\N,\N,\N,"Parson, husband of Nanny","3",\N,\N,\N
+"800",\N,"800",\N,\N,"7","1","2","2","Blumhardt",\N,\N,\N,\N,\N,\N,\N,\N,\N,"wife of a parson","3",\N,\N,\N
+"801",\N,"801",\N,\N,"7","1","2","1","Bodmer","Johann Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"802",\N,"802",\N,\N,"7","1","2","1","Bourbon",", de",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"803",\N,"803",\N,\N,"7","1","2","1","Bremi",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Friend of D. Schweizer","3",\N,\N,\N
+"804",\N,"804",\N,\N,"7","1","2","2","Brunner-Schweizer",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"805",\N,"805",\N,\N,"7","1","2","2","Amman-Schweizer",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"806",\N,"806",\N,\N,"7","1","2","2","Wolf-Schweizer",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"807",\N,"807",\N,\N,"7","1","2","2","Burkhard-Peyer","Amalie",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"808",\N,"808",\N,\N,"7","1","2","1","Burkhard","Diethelm",\N,\N,\N,\N,\N,\N,\N,\N,"Father","3",\N,\N,\N
+"809",\N,"809",\N,\N,"7","1","2","1","Burkhard","Diethelm",\N,\N,\N,\N,\N,\N,\N,\N,"Son","3",\N,\N,\N
+"810",\N,"810",\N,\N,"7","1","2","1","Burkhard","Johannes",\N,\N,"Schaffhausen",\N,\N,\N,\N,\N,"Parson","3",\N,\N,\N
+"811",\N,"811",\N,\N,"7","1","2","1","Claudius","Matthias",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"812",\N,"812",\N,\N,"7","1","2","1","Clavaz",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"813",\N,"813",\N,\N,"7","1","2","2","Deck","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"814",\N,"814",\N,\N,"7","1","2","1","Dieffenbach","Johann Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"815",\N,"815",\N,\N,"7","1","2","2","Dollfuss","Lisette",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"816",\N,"816",\N,\N,"7","1","2","1","Dubs","Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"817",\N,"817",\N,\N,"7","1","2","1","Fäsi","David",\N,\N,\N,\N,\N,\N,\N,\N,"Dekan","3",\N,\N,\N
+"818",\N,"818",\N,\N,"7","1","2","2","Fäsi","Marie",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"819",\N,"819",\N,\N,"7","1","2","1","Fay",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Parson","3",\N,\N,\N
+"820",\N,"820",\N,\N,"7","1","2","1","Fellenberg","Philipp Emanuel, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"821",\N,"821",\N,\N,"7","1","2","2","Finsler","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"822",\N,"822",\N,\N,"7","1","2","2","Finsler","Luise",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"823",\N,"823",\N,\N,"7","1","2",\N,"Fisch","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"824",\N,"824",\N,\N,"7","1","2",\N,"Flugi","Alfons  ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"825",\N,"825",\N,\N,"7","1","2",\N,"Flugi","Conradin, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"826",\N,"826",\N,\N,"7","1","2",\N,"Flugi","Elise, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"827",\N,"827",\N,\N,"7","1","2",\N,"Flugi","Regina, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"828",\N,"828",\N,\N,"7","1","2",\N,"Flugi","Regina, von",\N,\N,\N,\N,\N,\N,\N,\N,"Cousine","3",\N,\N,\N
+"829",\N,"829",\N,\N,"7","1","2",\N,"Frick-Heusser","Elisabetha Verean",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"830",\N,"830",\N,\N,"7","1","2",\N,"Fries","Anna Susanna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"831",\N,"831",\N,\N,"7","1","2",\N,"Fries","Elise",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"832",\N,"832",\N,\N,"7","1","2",\N,"Fries-Freudweiler","J.  ",\N,\N,\N,\N,\N,\N,\N,\N,"Landschreiber","3",\N,\N,\N
+"833",\N,"833",\N,\N,"7","1","2",\N,"Fries",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Operateur","3",\N,\N,\N
+"834",\N,"834",\N,\N,"7","1","2",\N,"Fröhlich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Babtist preacher","3",\N,\N,\N
+"835",\N,"835",\N,\N,"7","1","2",\N,"Füssli","Johann Jakob",\N,\N,\N,\N,\N,\N,\N,\N,"Antistes","3",\N,\N,\N
+"836",\N,"836",\N,\N,"7","1","2",\N,"Gattiker","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"837",\N,"837",\N,\N,"7","1","2",\N,"Gessner-Schweizer","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"838",\N,"838",\N,\N,"7","1","2",\N,"Gessener-Hess","Barbara",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"839",\N,"839",\N,\N,"7","1","2",\N,"Gessner","Caspar",\N,\N,\N,\N,\N,\N,\N,\N,"Parson","3",\N,\N,\N
+"840",\N,"840",\N,\N,"7","1","2",\N,"Gessner","Conrad",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"841",\N,"841",\N,\N,"7","1","2",\N,"Gessern","Dorothea",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"842",\N,"842",\N,\N,"7","1","2",\N,"Gessner","Elisabeth",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"843",\N,"843",\N,\N,"7","1","2",\N,"Gessner","Ernst",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"844",\N,"844",\N,\N,"7","1","2",\N,"Gessner","Georg",\N,\N,\N,\N,\N,\N,\N,\N,"Antistes","3",\N,\N,\N
+"845",\N,"845",\N,\N,"7","1","2",\N,"Gessner","Georg",\N,\N,\N,\N,\N,\N,\N,\N,"Sohn","3",\N,\N,\N
+"846",\N,"846",\N,\N,"7","1","2",\N,"Gessner","Jakob",\N,\N,\N,\N,\N,\N,\N,\N,"Sohn von Caspar und Elisabeth Gessner-Keller","3",\N,\N,\N
+"847",\N,"847",\N,\N,"7","1","2",\N,"Gessner","Jakob",\N,\N,\N,\N,\N,\N,\N,\N,"Sohn von Kaspar und Bäbe","3",\N,\N,\N
+"848",\N,"848",\N,\N,"7","1","2",\N,"Gessner","Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,"Sohn","3",\N,\N,\N
+"849",\N,"849",\N,\N,"7","1","2",\N,"Gessner","Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,"Enkel des Kaspar G.","3",\N,\N,\N
+"850",\N,"850",\N,\N,"7","1","2",\N,"Gessner","Regula   ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"851",\N,"851",\N,\N,"7","1","2",\N,"Goethe","Johann Wolfgang",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"852",\N,"852",\N,\N,"7","1","2",\N,"Grob","Georg",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"853",\N,"853",\N,\N,"7","1","2",\N,"Grob ","Johann",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"854",\N,"854",\N,\N,"7","1","2",\N,"Gröben","Selma, Gräfin von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"855",\N,"855",\N,\N,"7","1","2",\N,"Grumbach-Schweizer","Cleophea",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"856",\N,"856",\N,\N,"7","1","2","2","Häberling",\N,\N,\N,\N,\N,\N,\N,\N,\N,"doctors wife","3",\N,\N,\N
+"857",\N,"857",\N,\N,"7","1","2",\N,"Häfeli",\N,\N,\N,\N,\N,\N,\N,\N,\N,"candidate for theology","3",\N,\N,\N
+"858",\N,"858",\N,\N,"7","1","2",\N,"Hafner",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Parson","3",\N,\N,\N
+"859",\N,"859",\N,\N,"7","1","2",\N,"Händel","Georg Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"860",\N,"860",\N,\N,"7","1","2",\N,"Hanhart-Sulzer","Elisabetha Susanna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"861",\N,"861",\N,\N,"7","1","2",\N,"Hauser",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Verwalter","3",\N,\N,\N
+"862",\N,"862",\N,\N,"7","1","2",\N,"Hebel","Johann Peter",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"863",\N,"863",\N,\N,"7","1","2",\N,"Heidegger","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"864",\N,"864",\N,\N,"7","1","2",\N,"Hengstenberg","Ernst Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"865",\N,"865",\N,\N,"7","1","2",\N,"Henning-Pfenninger","Martha",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"866",\N,"866",\N,\N,"7","1","2",\N,"Hess-Heidegger","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"867",\N,"867",\N,\N,"7","1","2",\N,"Hess-Steinmann","Cleophea",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"868",\N,"868",\N,\N,"7","1","2",\N,"Hess-Nüscheler","Elisabeth",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"869",\N,"869",\N,\N,"7","1","2",\N,"Hess","Felix",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"870",\N,"870",\N,\N,"7","1","2",\N,"Hess","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"871",\N,"871",\N,\N,"7","1","2",\N,"Hess","Johann Jakob",\N,\N,\N,\N,\N,\N,\N,\N,"Antistes","3",\N,\N,\N
+"872",\N,"872",\N,\N,"7","1","2",\N,"Hess","Judith  ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"873",\N,"873",\N,\N,"7","1","2",\N,"Hess",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Parson, son of Judith Hess","3",\N,\N,\N
+"874",\N,"874",\N,\N,"7","1","2",\N,"Hess ","Meta Regina",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"875",\N,"875",\N,\N,"7","1","2","1","Hess",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Waisenvater","3",\N,\N,\N
+"876",\N,"876",\N,\N,"7","1","2",\N,"Ulrich-Heusser   ","Anna Elisabeth Dorothea",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"877",\N,"877",\N,\N,"7","1","2",\N,"Heusser   ","Christian (Jakob)",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"878",\N,"878",\N,\N,"7","1","2",\N,"Heusser","Regula Sophie","Ega",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"879",\N,"879",\N,\N,"7","1","2","2","Heusser",\N,\N,\N,"im Langenried",\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"880",\N,"880",\N,\N,"7","1","2",\N,"Heusser","Hans",\N,\N,"Hütten",\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"881",\N,"881",\N,\N,"7","1","2",\N,"Heusser","Hans H.",\N,\N,"Weisserlen",\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"882",\N,"882",\N,\N,"7","1","2",\N,"Heusser","Hans Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"883",\N,"883",\N,\N,"7","1","2",\N,"Heusser","Heinrich Alfons",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"884",\N,"884",\N,\N,"7","1","2",\N,"Heusser","Heinrich Weilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"885",\N,"885",\N,\N,"7","1","2",\N,"Heusser","Johann Rudolph Maximilian",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"886",\N,"886",\N,\N,"7","1","2",\N,"Spyri-Heusser","Johanna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"887",\N,"887",\N,\N,"7","1","2",\N,"Heusser","Johann Jakob",\N,\N,\N,\N,\N,\N,\N,\N,"Doctor","3",\N,\N,\N
+"888",\N,"888",\N,\N,"7","1","2",\N,"Heusser","Meta Louise",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"889",\N,"889",\N,\N,"7","1","2",\N,"Heusser","Meta Regina",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"890",\N,"890",\N,\N,"7","1","2",\N,"Heusser","Moritz Maximilian",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"891",\N,"891",\N,\N,"7","1","2",\N,"Heusser","Theodor Constans","Constantin",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"892",\N,"892",\N,\N,"7","1","2",\N,"Heusser","Theodor Diethelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"893",\N,"893",\N,\N,"7","1","2","1","Hitz-Hanhart",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"894",\N,"894",\N,\N,"7","1","2",\N,"Hofacker","Wilhelm Gustav Ludwig",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"895",\N,"895",\N,\N,"7","1","2",\N,"Hofmann","Katharina",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"896",\N,"896",\N,\N,"7","1","2","1","Höhn",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Tochtersohn Hubers","3",\N,\N,\N
+"897",\N,"897",\N,\N,"7","1","2",\N,"Huber (im Feld)",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"898",\N,"898",\N,\N,"7","1","2",\N,"Hürlimann",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Gemeindeamman","3",\N,\N,\N
+"899",\N,"899",\N,\N,"7","1","2",\N,"Hürlimann",\N,\N,\N,"Richterswil",\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"900",\N,"900",\N,\N,"7","1","2",\N,"Imthurn","Babette",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"901",\N,"901",\N,\N,"7","1","2",\N,"Jacobi","Johann Georg",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"902",\N,"902",\N,\N,"7","1","2",\N,"Richter","Jean Paul",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"903",\N,"903",\N,\N,"7","1","2",\N,"Jung-Stilling","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"904",\N,"904",\N,\N,"7","1","2",\N,"Kaiser","Johann Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"905",\N,"905",\N,\N,"7","1","2",\N,"Karl",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Erzherzog","3",\N,\N,\N
+"906",\N,"906",\N,\N,"7","1","2",\N,"Keerl","Minna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"907",\N,"907",\N,\N,"7","1","2",\N,"Gessner-Keller","Elisabeth",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"908",\N,"908",\N,\N,"7","1","2",\N,"Keller",\N,\N,\N,"Birmensdorf",\N,\N,\N,\N,\N,"Parson","3",\N,\N,\N
+"909",\N,"909",\N,\N,"7","1","2",\N,"Kirchberger","Ludwig Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"910",\N,"910",\N,\N,"7","1","2",\N,"Kirchhofer","Christian",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"911",\N,"911",\N,\N,"7","1","2",\N,"Kirchhofer","Melchior",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"912",\N,"912",\N,\N,"7","1","2",\N,"Klein-Schlatter","Christine",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"913",\N,"913",\N,\N,"7","1","2",\N,"Kleiner(t)",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"914",\N,"914",\N,\N,"7","1","2",\N,"Kloppstack","Friedrich Gottlieb",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"915",\N,"915",\N,\N,"7","1","2",\N,"Knapp","Albert",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"916",\N,"916",\N,\N,"7","1","2",\N,"Knapp-Lerche","Minette",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"917",\N,"917",\N,\N,"7","1","2",\N,"Köllner","Karl",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"918",\N,"918",\N,\N,"7","1","2",\N,"Köllner","Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"919",\N,"919",\N,\N,"7","1","2",\N,"Kröcher",", Baronin von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"920",\N,"920",\N,\N,"7","1","2",\N,"Krummacher","Friedrich Adolf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"921",\N,"921",\N,\N,"7","1","2",\N,"Krummacher","Friedrich Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"922",\N,"922",\N,\N,"7","1","2",\N,"Lange","Amalie",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"923",\N,"923",\N,\N,"7","1","2",\N,"Lange","Johann Peter",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"924",\N,"924",\N,\N,"7","1","2",\N,"Birch-Lavater","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"925",\N,"925",\N,\N,"7","1","2",\N,"Lavater","Johann Caspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"926",\N,"926",\N,\N,"7","1","2",\N,"Gessner-Lavater","Anna","Nette",\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"927",\N,"927",\N,\N,"7","1","2",\N,"Letter-Roggenmoser",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"928",\N,"928",\N,\N,"7","1","2",\N,"Lusser","Karl Franz",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"929",\N,"929",\N,\N,"7","1","2",\N,"Lusser",\N,\N,\N,"Altdorf",\N,\N,\N,\N,\N,"Doctor","3",\N,\N,\N
+"930",\N,"930",\N,\N,"7","1","2",\N,"Mägis","Pauline",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"931",\N,"931",\N,\N,"7","1","2",\N,"Magnus","Heinrich Gustav",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"932",\N,"932",\N,\N,"7","1","2",\N,"Malkolm",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"933",\N,"933",\N,\N,"7","1","2",\N,"Mandach-von Meyenburg",", von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"934",\N,"934",\N,\N,"7","1","2",\N,"Meisenbug",", Freiherr von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"935",\N,"935",\N,\N,"7","1","2",\N,"Medelssohn-Bartholdy","Felix",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"936",\N,"936",\N,\N,"7","1","2",\N,"Menzel","Konrad  ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"937",\N,"937",\N,\N,"7","1","2","2","Menzel",\N,\N,\N,\N,\N,\N,\N,\N,\N,"pastor's wife","3",\N,\N,\N
+"938",\N,"938",\N,\N,"7","1","2",\N,"Meyer von Knonau","Gerold Ludwig, von",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"939",\N,"939",\N,\N,"7","1","2",\N,"Meyer-Hofmeister",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Dr. med.","3",\N,\N,\N
+"940",\N,"940",\N,\N,"7","1","2",\N,"Meyer",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Spitalarzt","3",\N,\N,\N
+"941",\N,"941",\N,\N,"7","1","2",\N,"Meyer",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Stadtarzt","3",\N,\N,\N
+"942",\N,"942",\N,\N,"7","1","2","2","Michel-Schweizer",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"943",\N,"943",\N,\N,"7","1","2","2","Morf-Schweizer","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"944",\N,"944",\N,\N,"7","1","2",\N,"Morf  ","Elise",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"945",\N,"945",\N,\N,"7","1","2",\N,"Morf","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"946",\N,"946",\N,\N,"7","1","2",\N,"Morf","Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,"Morf Heinrich's father","3",\N,\N,\N
+"947",\N,"947",\N,\N,"7","1","2",\N,"Mörikofer","Johann Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"948",\N,"948",\N,\N,"7","1","2",\N,"Müller","Julius",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"949",\N,"949",\N,\N,"7","1","2",\N,"Müller",", von.",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"950",\N,"950",\N,\N,"7","1","2",\N,"Müller","Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"951",\N,"951",\N,\N,"7","1","2",\N,"Nabholz",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Apotheker","3",\N,\N,\N
+"952",\N,"952",\N,\N,"7","1","2",\N,"Näf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Dr. med.","3",\N,\N,\N
+"953",\N,"953",\N,\N,"7","1","2","2","Nägeli",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"954",\N,"954",\N,\N,"7","1","2",\N,"Bonaparte","Napoleon I",\N,"1769-01-01 00:00:00",\N,\N,"1821-01-01 00:00:00","Santa-Elena","Ajaccio, Corsica",\N,\N,"3",\N,\N,\N
+"955",\N,"955",\N,\N,"7","1","2",\N,"Neander","August",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"956",\N,"956",\N,\N,"7","1","2",\N,"Neander","Joachim",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"957",\N,"957",\N,\N,"7","1","2",\N,"Osiander","Emilie",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"958",\N,"958",\N,\N,"7","1","2",\N,"Overbeck","Christian Adolf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"959",\N,"959",\N,\N,"7","1","2",\N,"Petersen","Johann Willhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"960",\N,"960",\N,\N,"7","1","2",\N,"Peyer-Bosshard","Katharina Elisabeth",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"961",\N,"961",\N,\N,"7","1","2",\N,"Pfeffel","Gottlieb Konrad",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"962",\N,"962",\N,\N,"7","1","2",\N,"Pfenninger","Luise",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"963",\N,"963",\N,\N,"7","1","2",\N,"Pfenninger","Maria  ",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"964",\N,"964",\N,\N,"7","1","2",\N,"Pfenninger",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Pastor's wife","3",\N,\N,\N
+"965",\N,"965",\N,\N,"7","1","2",\N,"Pfenninger","Salomon",\N,\N,\N,\N,\N,\N,\N,\N,"Pastor ","3",\N,\N,\N
+"966",\N,"966",\N,\N,"7","1","2",\N,"Pfenninger",\N,\N,\N,\N,\N,\N,\N,\N,\N,"son of Salomon Pfenninger (pastor)","3",\N,\N,\N
+"967",\N,"967",\N,\N,"7","1","2",\N,"Pfister",\N,\N,\N,\N,\N,\N,\N,\N,\N,"cousin","3",\N,\N,\N
+"968",\N,"968",\N,\N,"7","1","2",\N,"Pylades",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"969",\N,"969",\N,\N,"7","1","2",\N,"Rahn","Johann Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,"Chorherr","3",\N,\N,\N
+"970",\N,"970",\N,\N,"7","1","2",\N,"Reding","Alois",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"971",\N,"971",\N,\N,"7","1","2",\N,"Reding","Louise",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"972",\N,"972",\N,\N,"7","1","2",\N,"Reding","Rudlof von Bibereck",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"973",\N,"973",\N,\N,"7","1","2",\N,"Reichardt","Johann Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"974",\N,"974",\N,\N,"7","1","2",\N,"Riehl","Wilhelm Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"975",\N,"975",\N,\N,"7","1","2",\N,"Riggenbach",\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"976",\N,"976",\N,\N,"7","1","2",\N,"Röhrig","Friedrich Wilhelm",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"977",\N,"977",\N,\N,"7","1","2",\N,"Rückert","Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"978",\N,"978",\N,\N,"7","1","2",\N,"Salis","Johann Gaudenz, von",\N,\N,\N,\N,\N,\N,\N,\N,"Seewis","3",\N,\N,\N
+"979",\N,"979",\N,\N,"7","1","2",\N,"Samuel",\N,\N,\N,"Wädenswil",\N,\N,\N,\N,\N,"Schullehrer","3",\N,\N,\N
+"980",\N,"980",\N,\N,"7","1","2",\N,"Schaff","David",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"981",\N,"981",\N,\N,"7","1","2",\N,"Schärer",\N,\N,\N,"Wädenswil",\N,\N,\N,\N,\N,"Schullehrer","3",\N,\N,\N
+"982",\N,"982",\N,\N,"7","1","2",\N,"Schenk",\N,\N,\N,\N,\N,\N,\N,\N,\N,"Pastor","3",\N,\N,\N
+"983",\N,"983",\N,\N,"7","1","2",\N,"Schiller","Friedrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"984",\N,"984",\N,\N,"7","1","2",\N,"Schlatter-Bernet","Anna",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"985",\N,"985",\N,\N,"7","1","2",\N,"Röhrig-Schlatter","Babette",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"986",\N,"986",\N,\N,"7","1","2",\N,"Schlatter ","Daniel",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"987",\N,"987",\N,\N,"7","1","2",\N,"Schlatter","Henriette",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"988",\N,"988",\N,\N,"7","1","2",\N,"Schlatter-Bernet","Helena",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"989",\N,"989",\N,\N,"7","1","2",\N,"Schlatter","Kaspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"990",\N,"990",\N,\N,"7","1","2",\N,"Schlater","Margarethe",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"991",\N,"991",\N,\N,"7","1","2",\N,"Schlatter","Stefan",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"992",\N,"992",\N,\N,"7","1","2",\N,"Schneebeli","Jakob",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"993",\N,"993",\N,\N,"7","1","2",\N,"Schneebeli","Johannes",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"994",\N,"994",\N,\N,"7","1","2",\N,"Schneebeli","Rudolf",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"995",\N,"995",\N,\N,"7","1","2",\N,"Schöne","Christian Hermann",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"996",\N,"996",\N,\N,"7","1","2",\N,"Schubert","Gotthilf Heinrich",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"997",\N,"997",\N,\N,"7","1","2",\N,"Schulthess-Wolf ","Barbara",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"998",\N,"998",\N,\N,"7","1","2",\N,"Schulz-Schweizer","Anna Amargaretha",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"999",\N,"999",\N,\N,"7","1","2",\N,"Schweizer","Caspar",\N,\N,\N,\N,\N,\N,\N,\N,\N,"3",\N,\N,\N
+"1000",\N,"1000",\N,\N,"7","1","2",\N,"Schweizer","Diethelm",\N,"1751-01-01 00:00:00",\N,\N,"1824-01-01 00:00:00",\N,\N,\N,"Pastor","3",\N,\N,\N

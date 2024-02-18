@@ -1,0 +1,30 @@
+﻿"id","proj_lead_id","proj_lead_name","hist_story","agent_name","bio_story","story_character","role","story_archetype","comment","agent_id","proj_lead_memberid","team","hist_lead_id","hist_lead_memberid","hist_lead_name","field13","character_name"
+"1","1071","1071","1","367","1","0",\N,"0",\N,"367","1071","1","1","1","1",\N,\N
+"2","367","367","1","532","2","0",\N,\N,\N,"532","367","1","1","1","1",\N,\N
+"3","532","532","1","645","3",\N,\N,\N,\N,"645","532","1","1","1","1",\N,\N
+"4","645","645","1","234","7",\N,\N,\N,\N,"234","645","1","1","1","1",\N,\N
+"5","234","234","1","231","6",\N,\N,\N,\N,"231","234","1","1","1","1",\N,\N
+"6","231","231","1","130","4",\N,\N,\N,\N,"130","231","1","1","1","1",\N,\N
+"7","130","130","1","224","5",\N,\N,\N,\N,"224","130","1","1","1","1",\N,\N
+"8","1071","1071","2","367","1","1","The moral enterpreneur","1",\N,"367","1071","1","1","1","1",\N,\N
+"9",\N,\N,"2","532","2","2","Preserver and reformer of the Church","2",\N,"532",\N,"1","1","1","1",\N,\N
+"10",\N,\N,"2","130","4","3","The economic liberal","8",\N,"130",\N,"1","1","1","1",\N,\N
+"11",\N,\N,"2","645","3","3","The defender of the people","7",\N,"645",\N,"1","1","1","1",\N,\N
+"12",\N,\N,"2","75","8","3","The rational reformer","5",\N,"75",\N,"1","1","1","1",\N,\N
+"13",\N,\N,"2","231","6","3","God in our midst","4",\N,"231",\N,"1","1","1","1",\N,\N
+"14",\N,\N,"2","234","7","3","The misunderstood prophet","5",\N,"234",\N,"1","1","1","1",\N,\N
+"15",\N,\N,"2","224","5","3","The greatest and best heroine of love","3",\N,"224",\N,"1","1","1","1",\N,\N
+"16",\N,\N,"7","168","10","1","The steadfast radical","1",\N,"168",\N,"2","2","2","2",\N,"Jonas Furrer"
+"17",\N,\N,"7","532","11","2","The apostate ultramontane","2",\N,"532",\N,"2","2","2","2",\N,"Constantin Siegwart"
+"18",\N,\N,"7","19",\N,"3","The apostate conservative","6",\N,"19",\N,"2","2","2","2",\N,"Gallus Jakob Baumgartner"
+"19",\N,\N,"7","558",\N,"3","the fighting radical",\N,\N,"558",\N,"2","2","2","2",\N,"Jakob Robert Steiger"
+"20",\N,\N,"7","402",\N,"3","The moderate conservative",\N,\N,"402",\N,"2","2","2","2",\N,"Ulrich Ochsenbein"
+"21",\N,\N,"7","109",\N,"3","The moderate strategist","6",\N,"109",\N,"2","2","2","2",\N,"Henri Dufour"
+"22",\N,\N,"7","315",\N,"3","The skeptic conservatives",\N,\N,"315",\N,"2","2","2","2",\N,"Josef Leu"
+"23",\N,\N,"3","1102","14","2","Divine Liberty","1",\N,"1102",\N,"1","1","1","1",\N,"Divine Liberty"
+"24",\N,\N,"3","1101","13","1","The People","2",\N,"1101",\N,"1","1","1","1",\N,"The People"
+"25",\N,\N,"3","1103",\N,"3","Early Socialists","6",\N,"1103",\N,"1","1","1","1",\N,"Early Socialists"
+"26",\N,\N,"3","1104",\N,"3","Borderliners","7",\N,"1104",\N,"1","1","1","1",\N,"Borderliners"
+"27",\N,\N,"3","1105",\N,"3","The Radicals","5",\N,"1105",\N,"1","1","1","1",\N,"The Radicals"
+"28",\N,\N,"3","1106",\N,"3","The Conservatives","3",\N,"1106",\N,"1","1","1","1",\N,"The Conservatives"
+"29",\N,\N,"3","1107",\N,"3","The Liberals","4",\N,"1107",\N,"1","1","1","1",\N,"The Liberals"
